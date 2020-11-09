@@ -20,4 +20,4 @@ In addition to the above, the repository includes:
   - T-SQL query containing execution (megre / join 3 tables, data transform, creating geography coordinates);
   - link to the created map in TableauPublic.
  
- I hope that this repository will become helpfull for beginners time-series data scientists.
+Mayby this repository will become helpfull for beginners time-series data scientists.
