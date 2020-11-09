@@ -1,0 +1,1037 @@
+Nr;Kod stacji;Kod mi©dzynarodowy;Nazwa stacji;Stary Kod stacji;Data uruchomienia;Data zamkni©cia;Typ stacji;Typ obszaru;Rodzaj stacji;Wojew¢dztwo;MiejscowoòÜ;Ulica;WGS84 ? N;WGS84 ? E
+1;DsBialka;;Biaàka;DsBialka;03.01.1990;31.12.2005;przemysàowa;podmiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Biaàka;;51.197783;16.117390
+2;DsBielGrot;;Bielawa - ul. Grota Roweckiego;DsBielGrot;02.01.1994;31.12.2003;tào;miejski;w budynku;DOLNOóL§SKIE;Bielawa;ul. Grota Roweckiego 6;50.682510;16.617348
+3;DsBogatFrancMOB;PL0602A;Bogatynia Mobil;DsBogatMob;01.01.2015;31.12.2015;tào;miejski;mobilna;DOLNOóL§SKIE;Bogatynia;ul. Francuska/Kr©ta;50.940998;14.916790
+4;DsBogChop;PL0315A;Bogatynia - Chopina;DsBogChop;01.01.1996;31.12.2013;przemysàowa;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Bogatynia;ul. Chopina 35;50.905856;14.967175
+5;DsBogZatonieMob;PL0576A;Bogatynia - Mobil;DsBogZatonieMob;01.01.2012;31.12.2012;przemysàowa;miejski;mobilna;DOLNOóL§SKIE;Bogatynia;ul. Konrada, Zatonie;50.943245;14.913327
+6;DsBoleslaMOB;PL0658A;Bolesàawiec;DsBoleslaMOB;01.01.2017;02.01.2018;tào;miejski;mobilna;DOLNOóL§SKIE;Bolesàawiec;Juliusza Sàowackiego 2;51.263245;15.570354
+7;DsBrzegGlog;;Brzeg Gàogowski;DsBrzegGlog;01.01.1980;31.12.2003;przemysàowa;pozamiejski;w budynku;DOLNOóL§SKIE;Brzeg Gàogowski;;51.691438;15.917840
+8;DsChojnowKil;PL0185A;Chojn¢w,ul.Kili‰skiego;DsChojnowKil;06.01.2004;31.12.2005;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Chojn¢w;ul. Kili‰skiego;51.268889;15.940278
+9;DsCzar07;PL0186A;Czarna G¢ra;DsCzar07;01.12.1996;30.09.2008;tào;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Czarna G¢ra;;50.255072;16.801641
+10;DsCzerStraza;PL0028A;Czerniawa;DsCzer02;01.07.1996;;tào;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Czerniawa;ul. Straæacka 7;50.912475;15.312190
+11;DsCzLasMob;PL0599A;Czarny Las - Mobil Mercedes;DsCzLasMob;01.01.2013;31.12.2013;tào;pozamiejski;mobilna;DOLNOóL§SKIE;Czarny Las;;51.541658;16.937064
+12;DsDusznikMOB;PL0733A;Duszniki-Zdr¢j;DsDusznikMOB;01.01.2019;31.12.2019;tào;miejski;mobilna;DOLNOóL§SKIE;Duszniki-Zdr¢j;Sportowa 2a;50.402645;16.393319
+13;DsDuszZiel;;Duszniki Zdr¢j - ul. Zielona;DsDuszZiel;02.01.1993;31.12.2003;tào;miejski;w budynku;DOLNOóL§SKIE;Duszniki-Zdr¢j;ul. Zielona 23;50.393396;16.382470
+14;DsDzialoszyn;PL0054A;Dziaàoszyn;DsDzia01;01.07.1996;;przemysàowa;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Dziaàoszyn;bez ulicy;50.972167;14.941319
+15;DsDziePilsud;PL0187A;Dzieræoni¢w - Piàsudskiego;DsDzierPilsA;01.01.2005;;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Dzieræoni¢w;ul. Piàsudskiego 26;50.732817;16.648050
+16;DsDzierKras;;Dzieræoni¢w - ul. Krasickiego;DsDzierKras;02.01.1986;31.12.2003;tào;miejski;w budynku;DOLNOóL§SKIE;Dzieræoni¢w;ul. Krasickiego 36;50.726338;16.647286
+17;DsGlogMob;PL0625A;Gàog¢w - Wita Stwosza - mobil;DsGlogMob;01.01.2014;31.12.2014;tào;miejski;mobilna;DOLNOóL§SKIE;Gàog¢w;ul. Wita Stwosza;51.657022;16.097822
+18;DsGlogNorw;PL0188A;Gàog¢w - Norwida;DsGlogNorw;01.01.2011;31.12.2014;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Gàog¢w;ul. Norwida 3;51.657130;16.086188
+19;DsGlogNorwArch;;Gàog¢w - Norwida Arch;DsGlogNorwArch;01.01.1994;31.12.2009;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Gàog¢w;ul. Norwida 3;51.657152;16.086183
+20;DsGlogOrzech;;Gàog¢w, ul. Orzechowa;DsGlogOrzech;01.01.1980;31.12.2003;tào;miejski;w budynku;DOLNOóL§SKIE;Gàog¢w;ul. Orzechowa;51.648546;16.092286
+21;DsGlogowko;;Gàog¢wko;DsGlogowko;01.01.1980;31.12.2003;przemysàowa;pozamiejski;w budynku;DOLNOóL§SKIE;Gàog¢wko;;51.731824;16.097768
+22;DsGlogSikor;PL0260A;Gàog¢w, ul. Sikorskiego;DsGlogSikor;01.10.2003;31.12.2013;przemysàowa;podmiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Gàog¢w;ul. Ωukowicka 1;51.664508;16.040822
+23;DsGlogWiStwo;PL0603A;Gàog¢w - Wita Stwosza;DsGlogWita;01.01.2015;;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Gàog¢w;ul. Wita Stwosza 3;51.657022;16.097822
+24;DsGrodziec;;Grodziec Maày;DsGrodziec;01.01.1980;31.12.2003;przemysàowa;pozamiejski;w budynku;DOLNOóL§SKIE;Grodziec Maày;;51.687496;16.073213
+25;DsJasnaSport;PL0316A;Jasna G¢ra - Sportowa;DsJasnaSport;01.01.1996;31.12.2013;przemysàowa;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Jasna G¢ra;ul. Sportowa 13;50.873692;14.954236
+26;DsJawDmow;;Jawor - Dmowskiego;DsJawDmow;03.01.1994;31.12.2003;tào;miejski;w budynku;DOLNOóL§SKIE;Jawor;ul. Dmowskiego 8;51.057121;16.179854
+27;DsJaworMOB;PL0734A;Jawor;DsJaworMOB;01.01.2019;31.12.2019;tào;miejski;mobilna;DOLNOóL§SKIE;Jawor;Armii Krajowej 9;51.049212;16.202317
+28;DsJedlZdroj;;Jedlina Zdr¢j - Plac Zdrojowy;DsJedlZdroj;02.01.1993;31.12.2003;tào;miejski;w budynku;DOLNOóL§SKIE;Jedlina-Zdr¢j;pl. Zdrojowy 1;50.728378;16.345481
+29;DsJelGorOgin;PL0585A;Jelenia G¢ra - Ogi‰skiego;DsJeleniaGoraA;20.10.2014;;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Jelenia G¢ra;ul. Ogi‰skiego 6;50.913433;15.765608
+30;DsJelGorSoko;PL0586A;Jelenia G¢ra - Sokoliki;DsJeleniaGoraPM;01.01.2014;;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Jelenia G¢ra;ul. Sokoliki 6;50.871214;15.700947
+31;DsJelw05;PL0026A;Jeleni¢w;DsJelw05;01.07.1996;31.12.2009;tào;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Jeleni¢w;;51.224843;15.232984
+32;DsJgCiep;;Jelenia G¢ra - Cieplice;DsJgCiep;02.01.1982;31.12.2004;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Jelenia G¢ra;ul. Park Zdrojowy;50.862966;15.681788
+33;DsJgCiepA;PL0189A;Jelenia G¢ra - Cieplice (AUT);DsJgCiepA;01.01.2005;31.12.2013;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Jelenia G¢ra;ul. Cervi 14;50.861853;15.678761
+34;DsJgGrottgeraPM;PL0055A;Jelenia G¢ra - Grottgera (PM10);DsJgGrottgeraPM;01.01.2011;31.12.2011;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Jelenia G¢ra;ul. Grottgera 7;50.897497;15.736629
+35;DsJgGrottgeraPMArch;;Jelenia G¢ra - Grottgera (PM10-Arch);DsJgGrottgeraPMArch;05.01.2004;31.12.2009;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Jelenia G¢ra;ul. Grottgera 7;50.897497;15.736629
+36;DsJgScieg;;Jelenia G¢ra - óciegiennego;DsJgScieg;11.01.1995;31.12.2003;tào;miejski;w budynku;DOLNOóL§SKIE;Jelenia G¢ra;ul. óciegiennego 5/7;50.865874;15.679301
+37;DsJgWoln;;Jelenia G¢ra - Wolnoòci;DsJgWoln;03.01.1993;31.12.2004;tào;miejski;w budynku;DOLNOóL§SKIE;Jelenia G¢ra;ul. Wolnoòci 139;50.885634;15.717597
+38;DsJgZabob;;Jelenia G¢ra - Zabobrze;DsJgZabob;04.01.1992;30.04.2006;tào;miejski;mobilna;DOLNOóL§SKIE;Jelenia G¢ra;ul. Ogi‰skiego;50.914470;15.764693
+39;DsKalinowka;PL0261A;Kalin¢wka;DsKalinowka;01.01.2003;31.12.2013;przemysàowa;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Kalinowka;;51.522600;16.244147
+40;DsKawice;;Kawice;DsKawice;06.01.2003;31.12.2003;tào;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Kawice;;51.230833;16.428889
+41;DsKgMob;;Kamienna G¢ra - Mobil Horiba;DsKgMob;01.01.2008;05.05.2008;tào;miejski;mobilna;DOLNOóL§SKIE;Kamienna G¢ra;ul. Szpitalna;50.786873;16.029129
+42;DsKgSien;;Kamienna G¢ra - Sienkiewicza;DsKgSien;04.01.1995;31.12.2003;tào;miejski;w budynku;DOLNOóL§SKIE;Kamienna G¢ra;ul. Sienkiewicza 5;50.781207;16.029155
+43;DsKlodzOkrz;;Kàodzko - ul. Okrzei;DsKlodzOkrz;02.01.1987;31.12.2005;tào;miejski;w budynku;DOLNOóL§SKIE;Kàodzko;ul. Okrzei 16;50.433389;16.650177
+44;DsKlodzSzkol;PL0504A;Kàodzko - Szkolna;DsKlodzkoA;05.06.2009;;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Kàodzko;ul. Szkolna 8;50.433493;16.653660
+45;DsKobierz;;Kobierzyce - Robotnicza;DsKobierz;30.01.2003;31.12.2003;tào;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Kobierzyce;ul. Robotnicza 19;50.968056;16.928056
+46;DsKowMaj;;Kowary - 1-go Maja;DsKowMaj;15.01.2001;31.12.2002;tào;miejski;w budynku;DOLNOóL§SKIE;Kowary;ul. 1 Maja 1;50.793145;15.835843
+47;DsKozDoly;;Kozie Doày;DsKozDoly;01.01.1980;31.12.2003;przemysàowa;pozamiejski;w budynku;DOLNOóL§SKIE;Kozie Doày;;51.727524;16.025971
+48;DsKromolin;PL0262A;Kromolin;DsKromolin;01.10.2003;31.12.2013;przemysàowa;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Kromolin;;51.684959;15.894901
+49;DsKudowaMOB;PL0659A;Kudowa-Zdr¢j;DsKudowaMOB;01.01.2017;;tào;miejski;mobilna;DOLNOóL§SKIE;Kudowa-Zdr¢j;Tadeusza Koòciuszki 16;50.447096;16.238509
+50;DsKudSlon;;Kudowa Zdr¢j - ul. Sàoneczna;DsKudSlon;02.01.1999;31.12.2004;tào;miejski;w budynku;DOLNOóL§SKIE;Kudowa-Zdr¢j;ul. Sàoneczna 17;50.439976;16.248312
+51;DsLadekMOB;PL0686A;L•dek-Zdr¢j;DsLadekMOB;17.01.2018;31.12.2018;tào;miejski;mobilna;DOLNOóL§SKIE;L•dek-Zdr¢j;ów. Kr¢lowej Jadwigi;50.341864;16.889899
+52;DsLadekWol;;L•dek Zdr¢j - ul. Wolnoòci;DsLadekWol;02.01.1992;31.12.2004;tào;miejski;w budynku;DOLNOóL§SKIE;L•dek-Zdr¢j;ul. Wolnoòci 4;50.345683;16.888804
+53;DsLegAlRzecz;PL0190A;Legnica - Rzeczypospolitej;DsLegRzeczA;01.10.2004;;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Legnica;al. Rzeczypospolitej 10/12;51.204503;16.180513
+54;DsLegIwasz;;Legnica - Iwaszkiewicza;DsLegIwasz;01.01.1997;31.12.2003;tào;miejski;w budynku;DOLNOóL§SKIE;Legnica;ul. Iwaszkiewicza 5;51.208189;16.216706
+55;DsLegJaworz;;Legnica - Jaworzy‰ska;DsLegJaworz;01.01.1984;31.12.2003;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Legnica;ul. Jaworzy‰ska;51.191168;16.156159
+56;DsLegKsiez;;Legnica - Ksi©æycowa;DsLegKsiez;01.10.1996;30.04.2006;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Legnica;ul. Ksi©æycowa 14;51.208727;16.190277
+57;DsLegMick;;Legnica - Mickiewicza;DsLegMick;01.01.1996;31.12.2004;tào;miejski;w budynku;DOLNOóL§SKIE;Legnica;ul. Mickiewicza 24;51.202831;16.164608
+58;DsLegPolarna;PL0738A;Legnica - Polarna;DsLegPolarna;01.01.2019;;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Legnica;Polarna 1;51.208104;16.183784
+59;DsLegPoraz;PL0540A;Legnica - Porazi‰skiej;DsLegPoraz;01.01.2011;31.12.2013;przemysàowa;podmiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Legnica;ul. Porazi‰skiej;51.193519;16.135192
+60;DsLegRzecz;;Legnica - Aleja Rzeczypospolitej;DsLegRzecz;09.01.1999;10.02.2005;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Legnica;ul. Rzeczypospolitej;51.204196;16.179819
+61;DsLegRzeczPM;;Legnica, al. Rzeczypospolitej (PSSE);DsLegRzeczPM;01.01.2005;31.12.2007;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Legnica;ul. Rzeczypospolitej;51.204230;16.180763
+62;DsLegSmok;PL0301A;Legnica - Smokowicka;DsLegSmok;01.01.2003;31.12.2010;przemysàowa;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Legnica;ul. Smokowicka;51.180776;16.098375
+63;DsLegZlotor;PL0263A;Legnica - Zàotoryjska;DsLegZlotor;03.01.1996;31.12.2010;przemysàowa;podmiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Legnica;ul. Zàotoryjska;51.188018;16.129061
+64;DsLesnaRyn;;Leòna - Rynek;DsLesnaRyn;02.01.1994;31.12.2002;tào;miejski;w budynku;DOLNOóL§SKIE;Leòna;ul. Rynek 19;51.023029;15.263245
+65;DsLubanMieszMOB;PL0747A;Luba‰ - Mieszka II;DsLubanMieszMOB;01.01.2019;;tào;miejski;mobilna;DOLNOóL§SKIE;Luba‰;Mieszka II 1;51.119011;15.275539
+66;DsLubanMOB;PL0687A;Luba‰ - ù•czna;DsLubanMOB;11.01.2018;31.12.2018;tào;miejski;mobilna;DOLNOóL§SKIE;Luba‰;ù•czna;51.118412;15.285835
+67;DsLubanRyn;;Luba‰ - Rynek;DsLubanRyn;02.01.1994;31.12.2004;tào;miejski;w budynku;DOLNOóL§SKIE;Luba‰;ul. Rynek 19;51.120172;15.290536
+68;DsLubanZaw;;Luba‰ - Zawidowska;DsLubanZaw;03.01.1993;31.12.2003;tào;miejski;w budynku;DOLNOóL§SKIE;Luba‰;ul. Zawidowska 4;51.116600;15.272080
+69;DsLubinMaj;PL0056A;Lubin - 1-go Maja;DsLubinMaj;01.01.1998;31.12.2009;tào;miejski;w budynku;DOLNOóL§SKIE;Lubin;ul. 1 Maja 15;51.398416;16.199642
+70;DsLubinMob;PL0577A;Lubin - Mobil Mercedes;DsLubinMob;01.01.2012;31.12.2012;tào;miejski;mobilna;DOLNOóL§SKIE;Lubin;ul. Wierzbowa;51.406741;16.187307
+71;DsLubinSowia;;Lubin,ul.Sowia;DsLubinSowia;06.01.2004;31.12.2005;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Lubin;ul. Sowia;51.380000;16.212564
+72;DsLubiWierzb;PL0632A;Lubin - Wierzbowa;DsLubiWierzb;01.01.2016;31.12.2016;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Lubin;ul. Wierzbowa 70;51.406505;16.188329
+73;DsLwowekPart;;Lw¢wek ól.- Partyzant¢w;DsLwowekPart;02.01.1994;31.12.2003;tào;miejski;w budynku;DOLNOóL§SKIE;Lw¢wek ól•ski;ul. Partyzant¢w 6;51.111733;15.579598
+74;DsNowRudJezi;PL0745A;Nowa Ruda - Jeziorna;DsNowRudJezi;01.01.2019;;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Nowa Ruda;ul. Jeziorna 19;50.581492;16.498245
+75;DsNowRudSreb;PL0191A;Nowa Ruda - Srebrna;DsNRudaSrebP;01.01.2011;31.12.2018;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Nowa Ruda;ul. Srebrna 1a;50.579914;16.514422
+76;DsNRudaPil;;Nowa Ruda - ul. Piàsudskiego;DsNRudaPil;02.01.2000;31.07.2003;tào;miejski;w budynku;DOLNOóL§SKIE;Nowa Ruda;ul. Piàsudskiego 14;50.583890;16.502458
+77;DsNRudaSlupPM;;Nowa Ruda - Sàupiec (PM10);DsNRudaSlupPM;01.03.2005;31.12.2006;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Nowa Ruda - Sàupiec;ul. Wiejska 15;50.550008;16.553645
+78;DsNRudaSrebA;;Nowa Ruda - ul. Srebrna (AUT);DsNRudaSrebA;01.01.2005;31.12.2010;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Nowa Ruda;ul. Srebrna;50.579924;16.514303
+79;DsNRudaSrebPArch;;Nowa Ruda - ul. Srebrna (PM10-Arch);DsNRudaSrebPArch;06.06.2003;31.12.2009;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Nowa Ruda;ul. Srebrna 1a;50.579913;16.514422
+80;DsOla3Maj;;Oàawa - 3 Maja;DsOla3Maj;01.01.1978;31.12.2005;tào;miejski;w budynku;DOLNOóL§SKIE;Oàawa;ul. 3 Maja 1A;50.945755;17.296150
+81;DsOlawZolnAK;PL0317A;Oàawa - Ωoànierzy AK;DsOlawaSemi;01.07.2008;;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Oàawa;ul. Ωoànierzy AK 9;50.942073;17.291333
+82;DsOlesBrzozo;PL0476A;Oleònica - Brzozowa;DsOlesnicaPM;01.01.2011;;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Oleònica;ul. Brzozowa 7;51.217483;17.389997
+83;DsOlesnicaPM-Arch;;Oleònica - Brzozowa (PM10-Arch);DsOlesnicaPM-Arch;01.01.2009;31.12.2009;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Oleònica;ul. Brzozowa 7;51.217494;17.389998
+84;DsOlesRyn;;Oleònica - Rynek;DsOlesRyn;01.01.1995;31.12.2005;tào;miejski;w budynku;DOLNOóL§SKIE;Oleònica;ul. Rynek Ratusz 12;51.209491;17.379688
+85;DsOsieczow21;PL0505A;Osiecz¢w;DsOsieczow;01.01.2010;;tào;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Osiecz¢w;bez ulicy;51.317630;15.431719
+86;DsPolanPark;;Polanica Zdr¢j - ul. Parkowa;DsPolanPark;02.01.1994;31.12.2004;tào;miejski;w budynku;DOLNOóL§SKIE;Polanica-Zdr¢j;ul. Parkowa 4;50.407434;16.511192
+87;DsPolanSportMOB;PL0633A;Polanica-Zdr¢j - Sportowa;DsPolanSportMOB;01.01.2016;;tào;miejski;mobilna;DOLNOóL§SKIE;Polanica-Zdr¢j;ul. Sportowa 9;50.415758;16.513058
+88;DsPolKasztan;PL0057A;Polkowice - Kasztanowa;DsPolkKasz;01.05.2004;;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Polkowice;ul. Kasztanowa 29;51.502370;16.075051
+89;DsPolkDabr;;Polkowice - D•browskiego;DsPolkDabr;01.01.1994;31.12.2003;tào;miejski;w budynku;DOLNOóL§SKIE;Polkowice;ul. D•browskiego;51.503659;16.075061
+90;DsPrzerzZdr;;Przerzeczyn Zdr¢j - ul. Zdrojowa;DsPrzerzZdr;02.01.1994;31.12.2003;tào;pozamiejski;w budynku;DOLNOóL§SKIE;Przerzeczyn-Zdr¢j;ul. Zdrojowa 31;50.685276;16.831781
+91;DsRadomierz;PL0318A;Radomierzyce;DsRadomierz;01.01.1996;31.12.2013;przemysàowa;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Radomierzyce;;51.058300;14.973735
+92;DsRudna;PL0265A;Rudna;DsRudna;01.01.2003;31.12.2013;przemysàowa;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Rudna;;51.512506;16.251711
+93;DsRudnaWit;;Rudna - W.Witosa;DsRudnaWit;01.10.1992;31.12.2003;przemysàowa;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Rudna;ul. W. Witosa;51.504339;16.261379
+94;DsSlone;;Sàone;DsSlone;01.01.1980;31.12.2003;przemysàowa;pozamiejski;w budynku;DOLNOóL§SKIE;Sàone;;51.661053;16.022652
+95;DsSnie04;PL0058A;ónieæne Kotày;DsSnie04;01.07.1996;31.12.2010;tào;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;;ónieæne Kotày;50.778373;15.557425
+96;DsSniezkaObs;PL0003R;ónieæka;DsSniezka;01.01.2000;;tào;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Karpacz;ónieæka;50.736389;15.739722
+97;DsSobczyce;PL0266A;Sobczyce;DsSobczyce;01.10.2003;31.12.2013;przemysàowa;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Sobczyce;;51.702092;16.067231
+98;DsSoko08;;Sokolec;DsSoko08;01.11.1996;19.05.2004;tào;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Sokolec;;50.668056;16.475000
+99;DsSpal06;;Spalona;DsSpal06;15.11.1996;15.05.2004;tào;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Spalona;;50.276570;16.538299
+100;DsStrzMob;PL0506A;Strzelin - Mobil Mercedes;DsStrzMob;01.01.2010;31.12.2011;tào;miejski;mobilna;DOLNOóL§SKIE;Strzelin;ul. M.Konopnickiej 3;50.784386;17.079435
+101;DsSwidnFolwa;PL0660A;ówidnica - Folwarczna;DsSwidnFolwa;01.01.2017;;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;ówidnica;ul. Folwarczna 2;50.844430;16.494006
+102;DsSwidnMarciMOB;PL0604A;ówidnica - Marcinkowskiego MOB;DsSwidMob;01.01.2015;31.12.2015;tào;miejski;mobilna;DOLNOóL§SKIE;ówidnica;ul. Karola Marcinkowskiego 4-6;50.846559;16.466928
+103;DsSwidnRynek;PL0059A;ówidnica - Rynek;DsSwidRynek;01.01.2011;31.12.2016;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;ówidnica;ul. Rynek 43;50.842364;16.486703
+104;DsSwidRynekArch;;ówidnica - Rynek Arch;DsSwidRynekArch;02.07.2003;31.12.2009;tào;miejski;w budynku;DOLNOóL§SKIE;ówidnica;ul. Rynek 43;50.842360;16.486704
+105;DsSwidWalb;;ówidnica - ul. Waàbrzyska;DsSwidWalb;02.01.1985;31.12.2003;tào;miejski;w budynku;DOLNOóL§SKIE;ówidnica;ul. Waàbrzyska 15;50.838047;16.480395
+106;DsSzczaKolej;PL0541A;Szczawno-Zdr¢j - Kolejowa;DsSzczDZPM;01.01.2012;;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Szczawno-Zdr¢j;ul. Kolejowa 14;50.804189;16.254111
+107;DsSzczAzalMob;PL0578A;Szczawno-Zdr¢j - Azalia - Mobil;DsSzczAzalMob;01.01.2012;31.12.2012;tào;miejski;mobilna;DOLNOóL§SKIE;Szczawno-Zdr¢j;ul. Klonowa;50.806472;16.253264
+108;DsSzczKopPM;PL0267A;Szczawno Zdr¢j - ul. Kopernika (PM10);DsSzczKopPM;01.01.2007;31.12.2011;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Szczawno-Zdr¢j;ul. Kopernika 2;50.801538;16.250145
+109;DsSzczMagMob;PL0579A;Szczawno-Zdr¢j - Magnolia - Mobil;DsSzczMagMob;01.01.2012;31.12.2012;tào;miejski;mobilna;DOLNOóL§SKIE;Szczawno-Zdr¢j;ul. Kopernika;50.801523;16.250182
+110;DsSzczOgr;;Szczawno Zdr¢j - ul. Ogrodowa;DsSzczOgr;02.01.1993;31.12.2004;tào;miejski;w budynku;DOLNOóL§SKIE;Szczawno-Zdr¢j;ul. Ogrodowa 5;50.805025;16.257246
+111;DsSzczRat;PL0254A;Szczawno Zdr¢j - ul. Ratuszowa;DsSzczRat;01.04.1983;31.12.2007;tào;miejski;w budynku;DOLNOóL§SKIE;Szczawno-Zdr¢j;ul. Ratuszowa 1;50.802699;16.254862
+112;DsSzklarkiMob;PL0600A;Szklarki - Mobil;DsSzklarkiMob;01.01.2013;31.12.2013;tào;pozamiejski;mobilna;DOLNOóL§SKIE;Szklarki;;51.515908;15.747383
+113;DsSzkPor1MajMOB;PL0634A;Szklarska Por©ba - 1 Maja;DsSzkPor1MajMOB;01.01.2016;31.12.2016;tào;miejski;mobilna;DOLNOóL§SKIE;Szklarska Por©ba;1 Maja;50.822706;15.528251
+114;DsTarnowek;PL0268A;Tarn¢wek;DsTarnowek;01.01.2003;31.12.2013;przemysàowa;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Tarnowek;;51.513299;16.166761
+115;DsTrzebBoch;;Trzebnica-Bochenka;DsTrzebBoch;01.01.2004;31.12.2005;tào;miejski;w budynku;DOLNOóL§SKIE;Trzebnica;ul. Ks.Bochenka;51.310278;17.062778
+116;DsTrzebLes;;Trzebnica - Leòna;DsTrzebLes;01.01.1994;31.12.2003;tào;miejski;w budynku;DOLNOóL§SKIE;Trzebnica;ul. Leòna;51.303889;17.070000
+117;DsTrzebMob;;Trzebnica - Mobil Mercedes;DsTrzebMob;01.04.2008;31.01.2010;tào;miejski;mobilna;DOLNOóL§SKIE;Trzebnica;ul. Ωoànierzy Wrzeònia;51.305272;17.060139
+118;DsWalbBator;;Waàbrzych - ul. Batorego;DsWalbBator;02.01.1975;31.12.2003;tào;miejski;w budynku;DOLNOóL§SKIE;Waàbrzych;ul. Batorego 3;50.774028;16.278035
+119;DsWalbGrodz;;Waàbrzych - ul. Grodzka;DsWalbGrodz;02.01.1993;31.12.2004;tào;miejski;w budynku;DOLNOóL§SKIE;Waàbrzych;ul. Grodzka 73;50.823623;16.275474
+120;DsWalbJord;PL0060A;Waàbrzych - ul. Jordana;DsWalbJord;02.01.2001;31.12.2006;przemysàowa;miejski;w budynku;DOLNOóL§SKIE;Waàbrzych;ul. Jordana 4;50.759444;16.241389
+121;DsWalbKost;;Waàbrzych - ul. Kosteckiego;DsWalbKost;02.01.1983;31.12.2003;przemysàowa;miejski;w budynku;DOLNOóL§SKIE;Waàbrzych;ul. Kosteckiego 2;50.762702;16.244248
+122;DsWalbrzWyso;PL0192A;Waàbrzych - Wysockiego;DsWalbWysA;01.01.2005;;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Waàbrzych;ul. Wysockiego 11;50.768729;16.269677
+123;DsWalbWysPArch;;Waàbrzych - ul. Wysockiego (PM10-Arch);DsWalbWysPArch;02.01.2004;31.12.2009;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Waàbrzych;ul. Wysockiego 11;50.768747;16.269584
+124;DsWitk09;;Witk¢w;DsWitk09;01.11.1996;20.05.2004;tào;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Witk¢w;;50.816520;16.122029
+125;DsWitka;PL0319A;Witka;DsWitka;01.01.1996;31.12.2013;przemysàowa;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Witka;;51.041136;14.980327
+126;DsWlen03;PL0062A;Wle‰;DsWlen03;01.07.1996;31.12.2010;tào;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Wle‰;;51.012248;15.668279
+127;DsWrocAlWisn;PL0197A;Wrocàaw - Wiòniowa;DsWrocWisA;01.01.2005;;komunikacyjna;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Wrocàaw;al. Wiòniowa/ul. Powst. ól•skich;51.086225;17.012689
+128;DsWrocBartni;PL0193A;Wrocàaw - Bartnicza;DsWrocBartA;01.01.2005;;tào;podmiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Wrocàaw;ul. Bartnicza;51.115933;17.141125
+129;DsWrocGrun;;Wrocàaw - Grunwald;DsWrocGrun;01.01.1996;31.12.2005;komunikacyjna;miejski;w budynku;DOLNOóL§SKIE;Wrocàaw;pl. Grunwaldzki 9;51.109899;17.056491
+130;DsWrocKorzPMArch;;Wrocàaw - Korzeniowskiego (PM10-Arch);DsWrocKorzPMArch;01.01.2005;31.12.2009;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Wrocàaw;ul. Wyb. J.Conrada-Korzeniowskiego;51.129409;17.029552
+131;DsWrocKrom;;Wrocàaw - Kromera;DsWrocKrom;01.01.1995;31.12.2004;tào;miejski;w budynku;DOLNOóL§SKIE;Wrocàaw;ul. Kromera 44;51.132752;17.064494
+132;DsWrocNaGrob;PL0490A;Wrocàaw - Na Grobli;DsWrocGrobla;01.01.2010;;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Wrocàaw;ul. Na Grobli;51.103456;17.059225
+133;DsWrocOlsz;;Wrocàaw - Olszewskiego;DsWrocOlsz;01.01.1978;31.12.2003;tào;miejski;w budynku;DOLNOóL§SKIE;Wrocàaw;ul. Olszewskiego 21;51.102735;17.096759
+134;DsWrocOpor;;Wrocàaw - Oporowska;DsWrocOpor;01.01.1995;31.12.2004;tào;miejski;w budynku;DOLNOóL§SKIE;Wrocàaw;ul. Oporowska 16;51.098027;17.002063
+135;DsWrocOrzech;PL0196A;Wrocàaw - Orzechowa;DsWrocOrzech;01.01.2011;;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Wrocàaw;ul. Orzechowa 61;51.077525;17.042817
+136;DsWrocOrzechArch;;Wrocàaw - Orzechowa (PM10-Arch);DsWrocOrzechArch;01.01.2005;31.12.2009;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Wrocàaw;ul. Orzechowa 61;51.077525;17.042816
+137;DsWrocPret;;Wrocàaw - Pretficza;DsWrocPret;01.01.1994;31.12.2004;tào;miejski;w budynku;DOLNOóL§SKIE;Wrocàaw;ul. Pretficza 7;51.090895;17.013682
+138;DsWrocSklad;;Wrocàaw - Skàadowa;DsWrocSklad;01.01.1977;31.12.2004;tào;miejski;w budynku;DOLNOóL§SKIE;Wrocàaw;ul. Skàadowa 1/3;51.119722;17.027500
+139;DsWrocTech;;Wrocàaw - Mà.Technik¢w;DsWrocTech;01.01.1986;31.12.2004;tào;miejski;w budynku;DOLNOóL§SKIE;Wrocàaw;ul. Màodych Technik¢w 7;51.113611;17.013056
+140;DsWrocUkr;PL0009A;Wrocàaw - Ukryta;DsWrocUkr;01.01.1998;31.12.2005;tào;miejski;w budynku;DOLNOóL§SKIE;Wrocàaw;ul. Ukryta 10;51.117029;17.053859
+141;DsWrocWie;PL0025A;Wrocàaw - Wierzbowa;DsWrocWie;08.11.1994;31.12.2011;tào;miejski;w budynku;DOLNOóL§SKIE;Wrocàaw;ul. Wierzbowa 14/16;51.105490;17.036471
+142;DsWrocWybCon;PL0194A;Wrocàaw - Korzeniowskiego;DsWrocKorzA;01.01.2005;;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Wrocàaw;ul. Wyb. J.Conrada-Korzeniowskiego 18;51.129378;17.029250
+143;DsWyszkow;PL0320A;Wyszk¢w;DsWyszkow;01.01.1996;31.12.2013;przemysàowa;pozamiejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Wyszk¢w;;50.963536;14.993653
+144;DsZabkKlodz;;Z•bkowice ól•skie - ul. Kàodzka;DsZabkKlodz;02.01.1977;31.12.2005;tào;miejski;w budynku;DOLNOóL§SKIE;Z•bkowice ól•skie;ul. Kàodzka 2;50.586033;16.809694
+145;DsZabkPowWar;PL0321A;Z•bkowice ól•skie;DsZabkowSemi;01.09.2008;;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Z•bkowice ól•skie;ul. Powsta‰c¢w Warszawy 5;50.592325;16.819786
+146;DsZameczno;;Zameczno;DsZameczno;01.01.1980;31.12.2003;przemysàowa;pozamiejski;w budynku;DOLNOóL§SKIE;Zameczno;;51.669507;15.932111
+147;DsZgorBohGet;PL0198A;Zgorzelec - Bohater¢w Getta;DsZgorzBohA;01.01.2005;;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Zgorzelec;ul. Bohater¢w Getta 1a;51.150391;15.008175
+148;DsZgorzMar;PL0199A;Zgorzelec - Marato‰ska;DsZgorzMar;01.01.2005;31.12.2007;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Zgorzelec;ul. Marato‰ska;51.145777;15.012233
+149;DsZgorzOrz;PL0322A;Zgorzelec - Orzeszkowej;DsZgorzOrz;01.01.1996;31.12.2013;przemysàowa;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Zgorzelec;ul. Orzeszkowej 3;51.130156;15.001958
+150;DsZgorzWar;;Zgorzelec - Warszawska;DsZgorzWar;03.01.1995;31.12.2004;tào;miejski;w budynku;DOLNOóL§SKIE;Zgorzelec;ul. Warszawska 11;51.148418;15.007949
+151;DsZlotKosc;;Zàotoryja - Koòciuszki;DsZlotKosc;01.01.2000;31.12.2002;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Zàotoryja;ul. Koòciuszki 5;51.123326;15.911288
+152;DsZlotoryjaPMArch;;Zàotoryja - Staszica (PM10-Arch);DsZlotoryjaPMArch;01.01.2009;31.12.2009;tào;miejski;kontenerowa stacjonarna;DOLNOóL§SKIE;Zàotoryja;ul. Stanisàawa Staszica 22;51.123900;15.920289
+153;DsZlotoStasz;PL0477A;Zàotoryja - Staszica;DsZlotoryjaPM;01.01.2011;31.12.2019;tào;miejski;wolnostoj•cy pobornik pyàu;DOLNOóL§SKIE;Zàotoryja;ul. Stanisàawa Staszica 22;51.123900;15.920289
+154;DsZukowice;;Ωukowice;DsZukowice;01.01.1980;31.12.2003;przemysàowa;pozamiejski;w budynku;DOLNOóL§SKIE;Ωukowice;;51.667269;15.984407
+155;KpAirpKoluda;PL0601A;Koàuda Wielka Airpointer;KpAirpKoluda;25.04.2013;02.01.2014;tào;pozamiejski;mobilna;KUJAWSKO-POMORSKIE;Koàuda Wielka;;52.735747;18.148678
+156;KpBrodKochan;PL0606A;Brodnica, Kochanowskiego;KpBrodnicaKochanowskiego;01.01.2015;;tào;miejski;wolnostoj•cy pobornik pyàu;KUJAWSKO-POMORSKIE;Brodnica;ul. Kochanowskiego;53.249264;19.415086
+157;KpBrodnZwirki;PL0323A;"Brodnica ""Ωwirki""";KpBrodnZwirki;16.03.2003;31.12.2010;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Brodnica;ul. Ωwirki i Wigury 1;53.257500;19.406667
+158;KpBydBerling;PL0491A;Bydgoszcz Fieldorfa;KpBydgBerlinga;01.04.2010;;tào;podmiejski;wolnostoj•cy pobornik pyàu;KUJAWSKO-POMORSKIE;Bydgoszcz;ul. gen. Augusta Emila Fieldorfa ?Nila? 13;53.151452;18.132062
+159;KpBydgATRKalisk;PL0324A;"Bydgoszcz ""Fordon ATR""";KpBydgATRKalisk;02.01.1990;31.12.2010;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Bydgoszcz;ul. Kaliskiego 7;53.142778;18.126944
+160;KpBydgBlota;;Bydgoszcz Biaàe Bàota;KpBydgBlota;09.01.2006;31.12.2009;tào;podmiejski;mobilna;KUJAWSKO-POMORSKIE;Biaàe Bàota;ul. Szubi‰ska 8;53.100278;17.920278
+161;KpBydgChemEC;PL0583A;Bydgoszcz Chemiczna EC;KpBydgChemEC;01.01.2012;31.12.2013;przemysàowa;podmiejski;mobilna;KUJAWSKO-POMORSKIE;Bydgoszcz;ul. Chemiczna;53.104444;18.073611
+162;KpBydgCO;;Bydgoszcz Centrum Onkologiczne;KpBydgCO;22.08.2006;31.12.2009;tào;miejski;mobilna;KUJAWSKO-POMORSKIE;Bydgoszcz;ul. Berlinga 13;53.150833;18.131389
+163;KpBydgMorska;PL0325A;"Bydgoszcz ""Morska""";KpBydgMorska;18.01.1993;31.12.2010;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Bydgoszcz;ul. Morska 2;53.127500;18.054444
+164;KpBydgUjejskiego;PL0063A;"Bydgoszcz ""Szpital XXX-lecia""";KpBydgUjejskiego;13.01.1981;31.12.2010;tào;miejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Bydgoszcz;ul. Ujejskiego 75;53.114722;18.027222
+165;KpBydgWPola;PL0065A;"Bydgoszcz ""W. Pola""";KpBydgWPola;04.01.1994;31.12.2010;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Bydgoszcz;ul. W. Pola 19;53.125000;17.975833
+166;KpBydgWzgWolnosci;;Bydgoszcz Wzg¢rze Wolnoòci;KpBydgWzgWolnosci;31.03.2008;31.12.2009;tào;miejski;mobilna;KUJAWSKO-POMORSKIE;Bydgoszcz;ul. Sàowia‰ska 7;53.115833;18.016111
+167;KpBydgZachemHutn;PL0326A;Zachem - Hutnicza;KpBydgZachemHutn;01.03.1999;31.12.2012;przemysàowa;miejski;w budynku;KUJAWSKO-POMORSKIE;Bydgoszcz;ul. Hutnicza 89;53.101667;18.106111
+168;KpBydgZachemWojska;PL0327A;"Bydgoszcz ""Zachem2""";KpBydgZachemWojska;11.01.1983;31.12.2009;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Bydgoszcz;ul. Wojska Polskiego 46;53.102222;18.059444
+169;KpBydPlPozna;PL0252A;Bydgoszcz Plac Pozna‰ski;KpBydgPlPozn;06.01.2006;;komunikacyjna;miejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Bydgoszcz;Plac Pozna‰ski;53.121764;17.987906
+170;KpBydWarszaw;PL0064A;Bydgoszcz Warszawska;KpBydgWarszawska;21.01.1995;;tào;miejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Bydgoszcz;ul. Warszawska 10;53.134083;17.995708
+171;KpChelmnLunawska;PL0328A;"Cheàmno ""ùunawska""";KpChelmnLunawska;16.03.2003;31.12.2010;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Cheàmno;ul. ùunawska 2A;53.348611;18.445278
+172;KpCiechTezni;PL0066A;Ciechocinek;KpCiechoTezniowa;05.04.1995;;tào;podmiejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Ciechocinek;ul. T©æniowa - Park T©æniowy;52.888422;18.780908
+173;KpDAFAleksandrowK;;Aleksandr¢w Kujawski;KpDAFAleksandrowK;01.01.2010;31.12.2010;tào;miejski;mobilna;KUJAWSKO-POMORSKIE;Aleksandr¢w Kujawski;ul. Sàowackiego 18;52.878333;18.697500
+174;KpDAFBrzescK;;BrzeòÜ Kujawski;KpDAFBrzescK;01.03.2005;30.09.2005;tào;miejski;mobilna;KUJAWSKO-POMORSKIE;BrzeòÜ Kujawski;ul. Kili‰skiego;52.605000;18.906944
+175;KpDAFChelmza;;Cheàmæa (stacja mobilna);KpDAFChelmza;01.08.2010;16.11.2010;tào;miejski;mobilna;KUJAWSKO-POMORSKIE;Cheàmæa;ul. Gen. J.Hallera 2;53.186389;18.610556
+176;KpDAFChodecz;;Chodecz;KpDAFChodecz;01.01.2008;31.12.2008;tào;miejski;mobilna;KUJAWSKO-POMORSKIE;Chodecz;ul. I Armii Wojska Polskiego;52.401667;19.029444
+177;KpDAFDobrzynUM;;Dobrzy‰ UM;KpDAFDobrzynUM;01.01.2003;31.12.2007;tào;miejski;mobilna;KUJAWSKO-POMORSKIE;Dobrzy‰ nad Wisà•;ul. Szkolna 4;52.637778;19.321667
+178;KpDAFGolub;;Golub - Dobrzy‰ (stacja mobilna);KpDAFGolub;01.06.2005;17.06.2009;tào;miejski;mobilna;KUJAWSKO-POMORSKIE;Golub-Dobrzy‰;ul. Dworcowa;53.120556;19.050556
+179;KpDAFIzbica;;Izbica Kujawska;KpDAFIzbica;01.09.2006;31.12.2010;tào;pozamiejski;mobilna;KUJAWSKO-POMORSKIE;Izbica Kujawska;ul. Warszawska 2;52.419478;18.767222
+180;KpDAFLasin;;ùasin (stacja mobilna);KpDAFLasin;06.03.2006;13.05.2006;tào;miejski;mobilna;KUJAWSKO-POMORSKIE;ùasin;ul. Odrodzenia Polski 5;53.518333;19.089444
+181;KpDAFMarusza;;Marusza (stacja mobilna);KpDAFMarusza;01.02.2008;13.05.2008;tào;podmiejski;mobilna;KUJAWSKO-POMORSKIE;Grudzi•dz;ul. Warszawska 36;53.453889;18.791667
+182;KpDAFNieszawa;;Nieszawa;KpDAFNieszawa;01.05.2006;31.12.2006;tào;miejski;mobilna;KUJAWSKO-POMORSKIE;Nieszawa;ul. Laskowskiego 3;52.838611;18.895000
+183;KpDAFRadziejowRPGK;;Radziej¢w RPGK;KpDAFRadziejowRPGK;01.01.2009;31.12.2009;tào;miejski;mobilna;KUJAWSKO-POMORSKIE;Radziej¢w;ul. Komunalna 19;52.629722;18.530278
+184;KpDAFRadzyn;;Radzy‰ Cheàmi‰ski (stacja mobilna);KpDAFRadzyn;01.01.2010;20.05.2010;tào;miejski;mobilna;KUJAWSKO-POMORSKIE;Radzy‰ Cheàmi‰ski;ul. Sady 14;53.381944;18.936944
+185;KpDAFRypinKOMES;;RypinKOMES;KpDAFRypinKOMES;01.01.2009;31.12.2009;tào;miejski;mobilna;KUJAWSKO-POMORSKIE;Rypin;ul. E. Orzeszkowej 4;53.065556;19.405278
+186;KpGrudPilsud;PL0580A;Grudzi•dz Airpointer;KpAirpGrudz;01.03.2012;;komunikacyjna;miejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Grudzi•dz;ul. Piàsudskiego 51;53.493550;18.762139
+187;KpGrudSienki;PL0542A;Grudzi•dz Star¢wka;KpGrudzStar;29.04.2011;;tào;miejski;wolnostoj•cy pobornik pyàu;KUJAWSKO-POMORSKIE;Grudzi•dz;ul. Sienkiewicza 27;53.491831;18.752503
+188;KpGrudzIkara;PL0200A;"Grudzi•dz ""Ikara""";KpGrudzIkara;16.03.2003;31.12.2010;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Grudzi•dz;ul. Ikara 8;53.464167;18.769444
+189;KpGrudzKosynierow;PL0329A;"Grudzi•dz ""Kosynier¢w""";KpGrudzKosynierow;04.01.1993;31.12.2010;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Grudzi•dz;ul. Kosynier¢w Gdy‰skich 31;53.492778;18.754167
+190;KpInowOsMatwMOB;PL0656A;Inowrocàaw M•twy airponter;KpInowOsMatwMOB;04.02.2016;10.01.2017;przemysàowa;miejski;mobilna;KUJAWSKO-POMORSKIE;Inowrocàaw;Chemiczna;52.755688;18.254380
+191;KpInowrKleeberga;PL0330A;"Inowrocàaw ""R•bin""";KpInowrKleeberga;16.03.2003;31.12.2009;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Inowrocàaw;ul. Kleeberga 1;52.786667;18.250556
+192;KpInowrMatewska;;"Soda-M•twy ""M•tewska""";KpInowrMatewska;01.07.1995;31.12.2011;przemysàowa;miejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Inowrocàaw;ul. M•tewska 34;52.751944;18.262500
+193;KpInowrPlacKlaszt;PL0331A;"Inowrocàaw ""ór¢dmieòcie""";KpInowrPlacKlaszt;01.01.2003;31.12.2010;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Inowrocàaw;ul. Klac Klasztorny 1b;52.796667;18.258889
+194;KpInowrPoznanska;;"Inowrocàaw ""Pozna‰ska""";KpInowrPoznanska;01.02.1992;31.12.2011;przemysàowa;miejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Inowrocàaw;ul. Pozna‰ska 307;52.750000;18.252500
+195;KpInowrSolan;PL0067A;Inowrocàaw Solankowa;KpInowrSolan;01.01.2011;31.12.2012;tào;miejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Inowrocàaw;ul. Solankowa;52.794722;18.245000
+196;KpInowrSolankowa;;"Inowrocàaw ""Uzdrowisko""";KpInowrSolankowa;16.03.2003;31.12.2010;tào;miejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Inowrocàaw;ul. Solankowa 77;52.793611;18.243333
+197;KpInowSolank;PL0581A;Inowrocàaw Airpointer;KpAirpInowr;04.03.2011;;tào;podmiejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Inowrocàaw;ul. Solankowa;52.793122;18.241044
+198;KpKoniczynka;PL0068A;Koniczynka;KpKoniczZMSP;01.01.1996;;tào;pozamiejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Koniczynka;;53.080647;18.684258
+199;KpKruszwicamob;;Kruszwica;KpKruszwicamob;10.03.2010;02.06.2010;tào;miejski;mobilna;KUJAWSKO-POMORSKIE;Kruszwica;ul. Niepodlegàoòci;52.678056;18.314167
+200;KpKruszynLotnisko;;Lotnisko Kruszyn;KpKruszynLotnisko;19.01.2000;31.12.2004;tào;pozamiejski;w budynku;KUJAWSKO-POMORSKIE;Kruszyn;;52.586114;19.010000
+201;KpMogilKosciuszki;PL0332A;Mogilno;KpMogilKosciuszki;16.03.2003;31.12.2010;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Mogilno;ul. T. Koòciuszki 3;52.659167;17.949722
+202;KpMogiNowMOB;PL0751A;Mogilno,Koòciuszki;KpMogiNowMOB;03.01.2019;31.12.2019;tào;miejski;mobilna;KUJAWSKO-POMORSKIE;Mogilno;Koòciuszki;52.656842;17.949565
+203;KpNakloSkargi;;Nakào;KpNakloSkargi;16.03.2003;31.12.2010;tào;miejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Nakào nad Noteci•;ul. P. Skargi 2;53.139444;17.607778
+204;KpNaklSkargi;PL0201A;Nakào Piotra Skargi;KpNakloPiotraSkargi;01.01.2011;01.01.2020;tào;miejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Nakào nad Noteci•;ul. Piotra Skargi;53.138358;17.605139
+205;KpNwiesNaftobazy;PL0333A;Naftobazy;KpNwiesNaftobazy;01.01.1990;31.12.2013;przemysàowa;pozamiejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Nowa Wies Wielka;ul. Przemyslowa;52.970278;18.091389
+206;KpPiech;PL0334A;Lafarge-Piechcin;KpPiech;01.06.1998;31.12.2011;przemysàowa;pozamiejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Piechcin;;52.816389;18.032778
+207;KpPrzysRCRRiOW;;Przysiek - RCRRiOW;KpPrzysRCRRiOW;15.05.1996;31.03.2005;BRAK DANYCH;pozamiejski;w budynku;KUJAWSKO-POMORSKIE;Przysiek;;53.029444;18.504444
+208;KpSadlog;PL0202A;Lafarge-Sadàogoszcz;KpSadlog;20.03.2001;31.12.2011;tào;pozamiejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Sadàogoszcz;;52.844722;18.005000
+209;KpSepolno;;S©p¢lno Kraje‰skie;KpSepolno;20.02.2006;31.12.2009;tào;miejski;mobilna;KUJAWSKO-POMORSKIE;S©p¢lno Kraje‰skie;ul. Sienkiewicza 54;53.447500;17.527778
+210;KpSwiecGruczno;;Frantschach - Gruczno;KpSwiecGruczno;01.01.1997;27.02.2003;przemysàowa;pozamiejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;G¢rne Gruczno;;53.364722;18.316667
+211;KpSwiecGruczno2;PL0069A;02 - Gruczno;KpSwiecGruczno2;01.02.2005;31.12.2011;przemysàowa;pozamiejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;G¢rne Gruczno;;53.355556;18.318333
+212;KpSwiecKolejowa;;Frantschach - stacja nr 1;KpSwiecKolejowa;10.03.1995;10.03.2003;przemysàowa;podmiejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;ówiecie;ul. Kolejowa 20;53.398056;18.416389
+213;KpSwiecPrzechowo;PL0070A;01 Przechowo;KpSwiecPrzechowo;01.02.2005;01.01.2014;przemysàowa;podmiejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;ówiecie Przechowo;;53.398056;18.416389
+214;KpSwiecSadowa;PL0336A;"ówiecie ""S•dowa""";KpSwiecSadowa;16.03.2003;31.12.2010;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;ówiecie;ul. S•dowa 5;53.407222;18.453889
+215;KpToruDziewu;PL0071A;Toru‰ POLICJA;KpTorunDziewulsk;20.04.1993;;tào;miejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Toru‰;ul. Dziewulskiego 1;53.028647;18.666103
+216;KpToruKaszow;PL0072A;Toru‰, KASZOWNIK;KpTorunKaszownik;01.01.1997;;komunikacyjna;miejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Toru‰;ul. Przy Kaszowniku;53.017628;18.612808
+217;KpTorunGagarina;PL0337A;"Toru‰ ""Gagarina""";KpTorunGagarina;20.01.1988;31.12.2010;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Toru‰;ul. Gagarina 34;53.018333;18.565000
+218;KpTorunKonstytucji;PL0338A;"Toru‰ ""Konstytucji""";KpTorunKonstytucji;16.03.2003;31.12.2009;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Toru‰;ul. Konstytucji 3-Maja 15;53.023889;18.681667
+219;KpTorunKopernika;PL0339A;"Toru‰ ""Kopernika""";KpTorunKopernika;02.01.1983;31.12.2010;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Toru‰;ul. M. Kopernika 9;53.009167;18.604167
+220;KpTorunLotnisko;PL0073A;Toru‰, LOTNISKO;KpTorunLotnisko;18.09.1989;16.12.2008;tào;miejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Toru‰;ul. Biela‰ska 66;53.028333;18.561678
+221;KpTorunOPSIS;;Toru‰, OPSIS;KpTorunOPSIS;01.06.1995;31.12.2005;tào;miejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Toru‰;pl. Teatralny 2;53.013611;18.604722
+222;KpTorunPoznanska;PL0340A;"Toru‰ ""Pozna‰ska""";KpTorunPoznanska;16.03.2003;31.12.2009;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Toru‰;ul. Pozna‰ska 63;52.993611;18.595278
+223;KpTorunSzpMiejski;PL0203A;Toru‰ Szpital Miejski;KpTorunSzpMiejski;01.01.2004;31.12.2010;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Toru‰;ul. Batorego;53.022500;18.620833
+224;KpToruStorczMOB;PL0688A;Toru‰, ul. Storczykowa;KpToruStorczMOB;01.01.2018;31.12.2018;tào;miejski;mobilna;KUJAWSKO-POMORSKIE;Toru‰;ul. Storczykowa 124;53.041945;18.595036
+225;KpToruWSikor;PL0582A;Toru‰ Airpointer;KpAirpTorun;01.03.2012;;tào;miejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Toru‰;ul. Waày Gen. Sikorskiego 12;53.012261;18.606203
+226;KpTuchPiast;PL0341A;Tuchola Piastowska;KpTuchPiast;01.01.2011;01.01.2014;tào;podmiejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Tuchola;ul. Piastowska;53.585961;17.869350
+227;KpTuchPiastowska;;Tuchola;KpTuchPiastowska;01.01.1999;31.12.2010;tào;miejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Tuchola;ul. Piastowska 30;53.585833;17.871667
+228;KpWabrzMuzeum;PL0204A;W•brze´no - muzeum;KpWabrzMuzeum;01.04.2005;31.12.2010;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;W•brze´no;ul. 1 Maja 40;53.279722;18.954167
+229;KpWabrzstmob;;W•brze´no (stacja mobilna);KpWabrzstmob;01.01.2005;13.12.2008;tào;miejski;mobilna;KUJAWSKO-POMORSKIE;W•brze´no;ul. K©trzy‰skiego 3;53.278333;18.966667
+230;KpWieniecZdrMOB;PL0718A;Airponter Wieniec Zdr¢j;KpWieniecZdrMOB;28.12.2018;31.12.2019;tào;podmiejski;mobilna;KUJAWSKO-POMORSKIE;Wieniec-Zdr¢j;ul. Wieniecka;52.656866;18.987368
+231;KpWieniZdroj;PL0689A;Wieniec Zdr¢j, ul. Wieniecka;KpWieniZdroj;01.01.2018;;tào;podmiejski;wolnostoj•cy pobornik pyàu;KUJAWSKO-POMORSKIE;Wieniec-Zdr¢j;Wieniecka;52.656773;18.987456
+232;KpWienSanatorium;PL0342A;"Wieniec-Zdr¢j Sanatorium ""Jutrzenka""";KpWienSanatorium;01.01.1981;31.12.2010;BRAK DANYCH;pozamiejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Wieniec-Zdr¢j;;52.656944;18.988611
+233;KpWiktorowoG;PL0587A;Lafarge- Airpointer;KpAirpWiktorowo;01.08.2012;01.01.2015;przemysàowa;pozamiejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Wiktorowo;Wiktorowo 22;52.822942;17.859031
+234;KpWloclChelmMOB;PL0605A;Airpointer Wàocàawek;KpAirpWlocWod;01.01.2015;01.01.2018;tào;podmiejski;mobilna;KUJAWSKO-POMORSKIE;Wàocàawek;ul. Cheàmicka;52.672648;19.079261
+235;KpWloclGnia2;PL0703A;Wàocàawek, ul. Gniazdowskiego2;KpWloclGnia2;01.01.2017;31.12.2017;tào;podmiejski;wolnostoj•cy pobornik pyàu;KUJAWSKO-POMORSKIE;Wàocàawek;Gniazdowskiego 7;52.651561;19.051886
+236;KpWloclGniaz;PL0690A;Wàocàawek, ul. Gniazdowskiego 7;KpWloclGniaz;01.04.2017;;tào;podmiejski;wolnostoj•cy pobornik pyàu;KUJAWSKO-POMORSKIE;Wàocàawek;Gniazdowskiego 7;52.651561;19.051886
+237;KpWloclKalis;PL0664A;Wàocàawek, ul. Kaliska;KpWloclKalis;01.12.2018;;tào;miejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Wàocàawek;Kaliska 108 A;52.637394;19.044486
+238;KpWloclKilinskiego;PL0343A;"Wàocàawek ""Kili‰skiego""";KpWloclKilinskiego;16.03.2003;31.12.2010;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Wàocàawek;ul. Kili‰skiego 16;52.656389;19.062778
+239;KpWloclLady;PL0074A;"Wàocàawek ""ùady""";KpWloclLady;01.01.1996;31.12.2010;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Wàocàawek;ul. ùady 10;52.641944;19.047500
+240;KpWloclMalinowa;PL0344A;"Wàocàawek ""Malinowa""";KpWloclMalinowa;03.01.1995;31.12.2009;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Wàocàawek;ul. Malinowa 5;52.678611;19.051667
+241;KpWloclOkrze;PL0205A;Wàocàawek OKRZEI;KpWloclOkrzei;01.01.2005;;komunikacyjna;miejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Wàocàawek;ul. Okrzei;52.658467;19.059314
+242;KpWloclOpsis;;OPSIS Wàocàawek;KpWloclOpsis;01.06.2002;31.05.2009;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Wàocàawek;pl. Wolnoòci;52.663056;19.070000
+243;KpWloclPlocka;PL0345A;"Wàocàawek ""Pàocka""";KpWloclPlocka;16.03.2003;31.12.2009;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Wàocàawek;ul. Pàocka 45;52.654444;19.101667
+244;KpWloclSiels;PL0075A;"Wàocàawek Sielska ""DMD""";KpWloclSielska;03.01.1995;31.03.2017;tào;podmiejski;wolnostoj•cy pobornik pyàu;KUJAWSKO-POMORSKIE;Wàocàawek;ul. Sielska 3;52.664721;19.036386
+245;KpWloclWSHE;;Wàocàawek WSHE;KpWloclWSHE;05.02.2003;31.01.2005;komunikacyjna;miejski;w budynku;KUJAWSKO-POMORSKIE;;ul. Okrzei 94;52.663056;19.056389
+246;KpWlocZytnia;PL0346A;"Wàocàawek ""Ωytnia""";KpWlocZytnia;11.04.1995;31.12.2009;przemysàowa;miejski;w budynku;KUJAWSKO-POMORSKIE;Wàocàawek;ul. Ωytnia 55;52.646389;19.091111
+247;KpWolice;PL0076A;Lafarge-Wolice;KpWolice;01.09.2001;31.12.2011;przemysàowa;pozamiejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Wolice;;52.854167;17.900278
+248;KpZielBoryTu;PL0077A;Bory Tucholskie;KpZielBoryTuch;27.05.2004;;tào;pozamiejski;kontenerowa stacjonarna;KUJAWSKO-POMORSKIE;Zielonka;;53.662117;17.934017
+249;KpZninBrowarowa;PL0347A;Ωnin;KpZninBrowarowa;16.03.2003;31.12.2010;tào;miejski;w budynku;KUJAWSKO-POMORSKIE;Ωnin;ul. Browarowa 14;52.851667;17.715556
+250;KpZninPotock;PL0348A;Ωnin Starostwo Potockiego;KpZninPotockiego;11.08.2008;01.01.2016;tào;podmiejski;w budynku;KUJAWSKO-POMORSKIE;Ωnin;ul. Potockiego 1;52.848453;17.734086
+251;LbBialaPKopernika;PL0078A;PSSE-Biaàa-Kopernika;LbBialaPKopernika;02.01.1995;31.12.2009;tào;miejski;w budynku;LUBELSKIE;Biaàa Podlaska;ul. Kopernika 7;52.034189;23.102736
+252;LbBialaPPl.TrzechKrzyzy;PL0080A;PSSE-Biaàa-Pl.TrzechKrzyæy;LbBialaPPl.TrzechKrzyzy;01.03.2004;31.12.2009;tào;miejski;kontenerowa stacjonarna;LUBELSKIE;Biaàa Podlaska;pl. Trzech Krzyæy 4;52.023856;23.116042
+253;LbBialySlupRPN;;Biaày Sàup;LbBialySlupRPN;21.01.2002;31.12.2005;tào;pozamiejski;w budynku;LUBELSKIE;Biaày Sàup;;50.591742;22.997811
+254;LbBiaPodOrze;PL0079A;BiaàaP-Orzechowa;LbBialaPOrzechowa;07.04.1993;;tào;miejski;kontenerowa stacjonarna;LUBELSKIE;Biaàa Podlaska;ul. Orzechowa;52.029194;23.149389
+255;LbBiaSlupRPN;PL0349A;Biaày Sàup (RPN);LbBialySlupRPN_Auto;01.01.2006;31.12.2017;tào;pozamiejski;kontenerowa stacjonarna;LUBELSKIE;Biaày Sàup;;50.590806;22.997889
+256;LbBilgorajWSSE;PL0350A;Biàgoraj ul. D•browskiego;LbBilgorajWSSE;04.06.1991;31.12.2008;tào;miejski;w budynku;LUBELSKIE;Biàgoraj;ul. D•browskiego 8;50.533889;22.716667
+257;LbChelJagiel;PL0081A;Cheàm ul. Jagiello‰ska;LbChelmJagWIOS;01.04.2000;31.12.2018;tào;podmiejski;wolnostoj•cy pobornik pyàu;LUBELSKIE;Cheàm;ul. Jagiello‰ska 64;51.130950;23.514603
+258;LbChelmPolWSSE;PL0082A;Cheàm ul. Poàaniecka;LbChelmPolWSSE;16.04.1991;31.12.2008;tào;miejski;w budynku;LUBELSKIE;Cheàm;ul. Poàaniecka 11;51.122778;23.473333
+259;LbChelmSzpWSSE;PL0083A;Cheàm ul. Szpitalna;LbChelmSzpWSSE;05.01.1980;31.12.2009;tào;miejski;w budynku;LUBELSKIE;Cheàm;ul. Szpitalna 48;51.150278;23.457500
+260;LbChelPolan;PL0744A;Cheàm ul.Poàaniecka;LbChelPolan;01.01.2019;;tào;miejski;kontenerowa stacjonarna;LUBELSKIE;Cheàm;ul. Poàaniecka;51.122190;23.472870
+261;LbDorohWIOS;PL0084A;Dorohusk;LbDorohWIOS;01.07.2001;31.08.2006;tào;pozamiejski;w budynku;LUBELSKIE;Dorohusk;ul. teren GZO;51.175556;23.801667
+262;LbFlorianRPN;PL0691A;Florianka RPN;LbFlorianRPN;01.01.2018;;tào;pozamiejski;kontenerowa stacjonarna;LUBELSKIE;Florianka;;50.551894;22.982861
+263;LbHrubieszowWIOS;PL0351A;Hrubiesz¢w Gr¢decka;LbHrubieszowWIOS;06.02.2003;31.12.2009;tào;miejski;w budynku;LUBELSKIE;Hrubiesz¢w;ul. Gr¢decka 36;50.804722;23.913056
+264;LbHrubieszowWSSE;;Hrubiesz¢w Mickiewicza;LbHrubieszowWSSE;02.01.2002;31.12.2003;tào;miejski;w budynku;LUBELSKIE;Hrubiesz¢w;ul. Mickiewicza 2;50.802778;23.896111
+265;LbJarczWolaM;PL0002R;IMGW-Jarczew;LbJarczew;01.10.1985;;tào;pozamiejski;kontenerowa stacjonarna;LUBELSKIE;Jarczew;;51.814367;21.972375
+266;LbKra-awWSSE;PL0352A;Krasnystaw ul. Sikorskiego;LbKra-awWSSE;18.01.1990;31.12.2009;tào;miejski;w budynku;LUBELSKIE;Krasnystaw;ul. Sikorskiego 3a;50.981547;23.170486
+267;LbKrasKoszar;PL0353A;Kraònik ul. Koszarowa;LbKrasnikKoszarowa;01.01.2007;;tào;podmiejski;wolnostoj•cy pobornik pyàu;LUBELSKIE;Kraònik;ul. Koszarowa 10A;50.928239;22.228308
+268;LbKrasnikSpoldziel;PL0354A;Kraònik Ul. Sp¢àdzielcza;LbKrasnikSpoldziel;25.01.1994;31.12.2008;tào;miejski;w budynku;LUBELSKIE;Kraònik;ul. Sp¢àdzielcza 3;50.927486;22.228567
+269;LbKrasnobrodWSSELel;;Krasnobr¢d ul. Lelewela 2;LbKrasnobrodWSSELel;23.01.2002;31.12.2009;tào;miejski;w budynku;LUBELSKIE;Krasnobr¢d;ul. Lelewela 2;50.543850;23.215858
+270;LbLeczna1000Lecia;PL0269A;ù©czna ul. 1000-Lecia;LbLeczna1000Lecia;01.09.2006;31.12.2010;tào;miejski;kontenerowa stacjonarna;LUBELSKIE;ù©czna;ul. 1000-Lecia 12;51.304450;22.883331
+271;LbLublin_Chmielna;;Lublin ul. Chmielna;LbLublin_Chmielna;03.01.1994;31.12.2002;tào;miejski;w budynku;LUBELSKIE;Lublin;ul. Chmielna 10;51.251289;22.555800
+272;LbLublin_Krasn;PL0253A;Lublin Al. Kraònicka;LbLublin_Krasn;01.01.2006;10.05.2010;tào;miejski;kontenerowa stacjonarna;LUBELSKIE;Lublin;al. Kraònicka 2 CD;51.247225;22.523883
+273;LbLublinMaszynowa;PL0356A;Lublin ul. Maszynowa;LbLublinMaszynowa;10.03.1986;31.12.2009;tào;miejski;w budynku;LUBELSKIE;Lublin;ul. Maszynowa 2;51.244431;22.595297
+274;LbLublinNadrzecz;;Lublin Ul. Nadrzeczna;LbLublinNadrzecz;02.01.1991;31.12.2002;tào;miejski;w budynku;LUBELSKIE;Lublin;ul. Nadrzeczna 16;51.222225;22.581822
+275;LbLublinObywat_13;PL0086A;Lublin ul. Obywatelska 13;LbLublinObywat_13;04.10.2000;31.12.2009;tào;miejski;w budynku;LUBELSKIE;Lublin;ul. Obywatelska 13;51.259269;22.568522
+276;LbLublinOgrod;;Lublin Ogr¢d Botaniczny;LbLublinOgrod;05.09.2003;31.12.2006;tào;miejski;kontenerowa stacjonarna;LUBELSKIE;Lublin;ul. Sàawinkowska 3;51.263964;22.514581
+277;LbLublinPiel;PL0087A;Lublin Ul. Piel©gniarek;LbLublinPiel;22.05.2001;31.12.2009;tào;miejski;kontenerowa stacjonarna;LUBELSKIE;Lublin;ul. Piel©gniarek 6;51.239444;22.507500
+278;LbLublinSpokojna;PL0206A;Lublin Ul. Spokojna (ór¢dmieòcie);LbLublinSpokojna;01.01.2003;31.12.2009;tào;miejski;w budynku;LUBELSKIE;Lublin;ul. Spokojna 9;51.250731;22.554769
+279;LbLubObywate;PL0507A;Lublin ul. Obywatelska;LbLublinWIOS;21.05.2010;;tào;miejski;kontenerowa stacjonarna;LUBELSKIE;Lublin;ul. Obywatelska 13;51.259431;22.569133
+280;LbLubSliwins;PL0085A;Lublin Ul. óliwi‰skiego;LbLublin_Sliwins_5;01.07.2001;;tào;miejski;kontenerowa stacjonarna;LUBELSKIE;Lublin;ul. óliwi‰skiego 5;51.273078;22.551675
+281;LbLukowBrowarna;PL0357A;WIOó-ùuk¢w-Browarna;LbLukowBrowarna;03.01.2007;31.12.2010;tào;miejski;kontenerowa stacjonarna;LUBELSKIE;ùuk¢w;ul. Browarna 63;51.928564;22.377758
+282;LbLukowSpoldzielcza;PL0088A;PSSE-ùuk¢w-Sp¢àdzielcza;LbLukowSpoldzielcza;01.02.1999;31.12.2008;tào;miejski;w budynku;LUBELSKIE;ùuk¢w;ul. Spoàdzielcza 4;51.929722;22.380569
+283;LbMiedzPModrzewiowa;;PSSE-Mi©dzyrzecP-Modrzewiowa;LbMiedzPModrzewiowa;15.01.1997;31.12.2003;tào;podmiejski;w budynku;LUBELSKIE;Mi©dzyrzec Podlaski;ul. Modrzewiowa 27;51.996064;22.802539
+284;LBMiedzPStaromiejska;PL0358A;PSSE-Mi©dzyrzecP-Staromiejska;LBMiedzPStaromiejska;05.01.2004;31.12.2008;tào;miejski;w budynku;LUBELSKIE;Mi©dzyrzec Podlaski;ul. Staromiejska 20;51.985278;22.787097
+285;LbNaleczow;PL0710A;Naà©cz¢w;LbNaleczow;22.01.2019;;tào;podmiejski;wolnostoj•cy pobornik pyàu;LUBELSKIE;Naà©cz¢w;Al. Maàachowskiego;51.284931;22.210242
+286;LbNaleczowKasztan;PL0359A;Naà©cz¢w Ul. Kasztanowa;LbNaleczowKasztan;04.01.1993;31.12.2009;tào;miejski;w budynku;LUBELSKIE;Naà©cz¢w;ul. Kasztanowa 1;51.287361;22.208233
+287;LbPulaKarpin;PL0657A;Puàawy ul. Karpi‰skiego;LbPulawyKarp;01.06.2015;;tào;miejski;kontenerowa stacjonarna;LUBELSKIE;Puàawy;ul. Karpi‰skiego 5;51.419047;21.961089
+288;LbPulaSkowie;PL0089A;Puàawy ul. Skowieszy‰ska;LbPulawySkowieszynska;22.07.2003;31.12.2015;tào;podmiejski;wolnostoj•cy pobornik pyàu;LUBELSKIE;Puàawy;ul. Skowieszy‰ska 51;51.410614;21.976375
+289;LbPulawyLubelska;PL0360A;Puàawy Ul. Lubelska;LbPulawyLubelska;04.01.1993;01.01.2015;tào;miejski;w budynku;LUBELSKIE;Puàawy;ul. Lubelska 5;51.417258;21.972761
+290;LbRadzPodSit;PL0270A;Radzy‰P-Sitkowskiego;LbRadzyPSitkowskiego;08.11.2006;;tào;podmiejski;wolnostoj•cy pobornik pyàu;LUBELSKIE;Radzy‰ Podlaski;ul. Sitkowskiego 1b;51.78;22.625944
+291;LbRadzyPPocztowa;PL0090A;PSSE-Radzy‰P-Pocztowa;LbRadzyPPocztowa;01.01.1984;31.12.2009;tào;miejski;w budynku;LUBELSKIE;Radzy‰ Podlaski;ul. Pocztowa 5;51.784558;22.619614
+292;LbRejowiecFabrWIOS;PL0361A;Rejowiec Fabryczny;LbRejowiecFabrWIOS;01.09.2006;31.12.2010;tào;miejski;kontenerowa stacjonarna;LUBELSKIE;Rejowiec Fabryczny;ul. Cheàmska 51A;51.110278;23.246944
+293;LbSwidnikWPolskiego;PL0362A;ówidnik ul. Wojska Polskiego;LbSwidnikWPolskiego;12.01.2004;31.12.2009;tào;miejski;w budynku;LUBELSKIE;ówidnik;ul. Wojska Polskiego 27;51.221919;22.687217
+294;LbSwidnikWyszyns;;ówidnik Ul. Wyszy‰skiego;LbSwidnikWyszyns;24.03.1993;31.12.2003;tào;miejski;w budynku;LUBELSKIE;ówidnik;ul. Wyszy‰skiego 15;51.217625;22.698714
+295;LbSzczebPartyzantow;PL0363A;Szczebrzeszyn;LbSzczebPartyzantow;10.02.2003;31.12.2008;tào;miejski;w budynku;LUBELSKIE;Szczebrzeszyn;ul. Partyzant¢w 35;50.698056;22.971944
+296;LbTomaszowLubWIOS;PL0271A;Tomasz¢w Lubelski ul. Lwowska 68;LbTomaszowLubWIOS;01.09.2006;31.12.2010;tào;miejski;kontenerowa stacjonarna;LUBELSKIE;Tomasz¢w Lubelski;ul. Lwowska 68;50.447500;23.414444
+297;LbTomaszowLubWSSE;PL0364A;Tomasz¢w Lubelski ul. Lwowska 51;LbTomaszowLubWSSE;02.01.1995;31.12.2008;tào;miejski;w budynku;LUBELSKIE;Tomasz¢w Lubelski;ul. Lwowska 51;50.447778;23.416944
+298;LbWilczopole;PL0488A;Lublin-Podmiejska;LbWilczopole;01.09.2006;;tào;pozamiejski;w budynku;LUBELSKIE;Wilczopole;;51.163542;22.598608
+299;LbWlodawWSSE;PL0365A;Wàodawa ul. Pilsudskiego;LbWlodawWSSE;02.01.1985;31.12.2009;tào;miejski;w budynku;LUBELSKIE;Wàodawa;ul. Piàsudskiego 66;51.552308;23.554408
+300;LbZamoHrubie;PL0091A;ZamoòÜ ul. Hrubieszowska 69A;LbZamoscHrubieszowsk;01.01.1992;;tào;miejski;kontenerowa stacjonarna;LUBELSKIE;ZamoòÜ;ul. Hrubieszowska 69A;50.716628;23.290247
+301;LbZamoscWSSE;PL0092A;ZamoòÜ ul. Peowiak¢w 96;LbZamoscWSSE;12.06.1985;31.12.2009;tào;miejski;w budynku;LUBELSKIE;ZamoòÜ;ul. Peowiak¢w 96;50.716111;23.260833
+302;LdAlekslWSSEMSklodow;;Aleksandr¢w ù.-Skàodowskiej Curie1;LdAlekslWSSEMSklodow;05.04.1976;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;Aleksandr¢w ù¢dzki;ul. Skàodowskiej Curie 1;-999;-999
+303;LdBelchatEdward;PL0665A;Beàchat¢w-Edward¢w 5;LdBelchatEdward;01.01.2017;;tào;miejski;wolnostoj•cy pobornik pyàu;ù‡DZKIE;Beàchat¢w;ul. Edward¢w 5;51.356611;19.365806
+304;LdBelchaWSSEMOkrzei;PL0093A;Beàchat¢w-Okrzei49;LdBelchaWSSEMOkrzei;01.01.1988;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;Beàchat¢w;ul. Okrzei S. 49;51.360278;19.367778
+305;LdBrzeReform;PL0366A;Brzeziny-Reformacka1;LdBrzeziWIOSMReforma;01.01.2010;;tào;miejski;wolnostoj•cy pobornik pyàu;ù‡DZKIE;Brzeziny;ul. Reformacka 1;51.797814;19.755769
+306;LdBrzeziWSSEMReforma;;Brzeziny-Reformacka;LdBrzeziWSSEMReforma;16.10.1990;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;Brzeziny;ul. Reformacka 3;-999;-999
+307;LdGajewUjWod;PL0094A;Gajew;LdGajewWIOSAGajew;01.11.2003;;tào;pozamiejski;kontenerowa stacjonarna;ù‡DZKIE;Gajew;Uj©cie wody;52.143250;19.233225
+308;LdKutnKosciu;PL0607A;Kutno-Koòciuszki 26;LdKutnoWIOSMKoscius;01.01.2014;;tào;miejski;wolnostoj•cy pobornik pyàu;ù‡DZKIE;Kutno;ul. Koòciuszki 26;52.234481;19.368186
+309;LdKutnoWIOSMWilcza;PL0095A;Kutno Wilcza;LdKutnoWIOSMWilcza;01.03.1993;31.12.2015;tào;miejski;w budynku;ù‡DZKIE;Kutno;ul. Wilcza 5a;52.228489;19.372206
+310;LdKutnoWSSEMGrunwal;PL0367A;Kutno-Grunwaldzka2;LdKutnoWSSEMGrunwal;01.07.1976;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;Kutno;ul. Grunwaldzka 2;52.229167;19.372222
+311;LdLaskWSSEMWarszaw;PL0255A;ùask-Warszawska;LdLaskWSSEMWarszaw;05.02.1990;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;ùask;ul. Warszawska;51.590000;19.147222
+312;LdLodzCzerni;PL0096A;ù¢d´-Widzew;LdLodzWIOSACzernik;01.11.2003;;tào;miejski;kontenerowa stacjonarna;ù‡DZKIE;ù¢d´;ul. Czernika 1/3;51.758050;19.529786
+313;LdLodzGdansk;PL0543A;ù¢d´-Gda‰ska 16;LdLodzWIOSAGdanska;01.01.2012;;tào;miejski;kontenerowa stacjonarna;ù‡DZKIE;ù¢d´;ul. Gda‰ska 16;51.775411;19.450900
+314;LdLodzJanPaw;PL0635A;ù¢d´-Jana Pawàa II 15;LdLodzJanPaw;27.10.2015;;komunikacyjna;miejski;kontenerowa stacjonarna;ù‡DZKIE;ù¢d´;al. Jana Pawàa II 15;51.754613;19.434925
+315;LdLodzKilins;PL0589A;ù¢d´-Kili‰skiego 102/102a;LdLodzWIOSAKilinsk;01.01.2014;31.12.2017;komunikacyjna;miejski;kontenerowa stacjonarna;ù‡DZKIE;ù¢d´;ul. Kili‰skiego 102/102a;51.763801;19.467132
+316;LdLodzLegion;PL0100A;ù¢d´-Legion¢w 1;LdLodzWSSEMLegiono;01.01.2004;;tào;miejski;wolnostoj•cy pobornik pyàu;ù‡DZKIE;ù¢d´;ul. Legion¢w 1;51.776417;19.452936
+317;LdLodzRudzka;PL0101A;ù¢d´-Rudzka60;LdLodzWSSEMRudzka;01.01.1975;;tào;miejski;wolnostoj•cy pobornik pyàu;ù‡DZKIE;ù¢d´;ul. Rudzka 60;51.705581;19.434842
+318;LdLodzWIOSARubinst;PL0097A;ù¢d´-ór¢dmieòcie;LdLodzWIOSARubinst;01.11.2003;31.12.2014;tào;miejski;w budynku;ù‡DZKIE;ù¢d´;ul. Rubinsteina 77;51.767292;19.455339
+319;LdLodzWSSEMAstrona;PL0368A;ù¢d´-Astronaut¢w;LdLodzWSSEMAstrona;01.01.1968;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;ù¢d´;ul. Astronaut¢w 17;51.726111;19.461944
+320;LdLodzWSSEMDeczyns;PL0099A;ù¢d´-Deczy‰skiego;LdLodzWSSEMDeczyns;01.01.1973;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;ù¢d´;ul. Deczy‰skiego 24;51.803889;19.471111
+321;LdLodzWSSEMPrzybys;PL0036A;ù¢d´-Przybyszewskiego10;LdLodzWSSEMPrzybys;05.03.1965;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;ù¢d´;ul. Przybyszewskiego 10;51.744167;19.467228
+322;LdLodzWSSEMRokicin;;ù¢d´-Rokici‰ska144;LdLodzWSSEMRokicin;02.01.1971;31.12.2003;tào;miejski;w budynku;ù‡DZKIE;ù¢d´;ul. Rokici‰ska 144;51.758056;19.560278
+323;LdLodzWSSEMWici3;PL0037A;ù¢d´-Wici3;LdLodzWSSEMWici3;07.01.1994;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;ù¢d´;ul. Wici 3;51.798611;19.384722
+324;LdLodzWSSEMWilensk;PL0369A;ù¢d´-Wile‰ska25;LdLodzWSSEMWilensk;01.01.1994;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;ù¢d´;ul. Wile‰ska 25;51.752778;19.428333
+325;LdLodzWSSEMWodna40;PL0002A;ù¢d´-WSSE Wodna40;LdLodzWSSEMWodna40;25.12.1998;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;ù¢d´;ul. Wodna 40;51.761667;19.476944
+326;LdLodzWSSEMZachodn;PL0102A;ù¢d´-Zachodnia81;LdLodzWSSEMZachodn;05.01.1967;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;ù¢d´;ul. Zachodnia 81;51.774722;19.455003
+327;LdLodzZachod;PL0098A;ù¢d´-Zachodnia 40;LdLodzWIOSAZachodn;02.09.2003;20.05.2016;komunikacyjna;miejski;kontenerowa stacjonarna;ù‡DZKIE;ù¢d´;ul. Zachodnia 40;51.777603;19.452408
+328;LdLowiczSien;PL0609A;ùowicz-Henryka Sienkiewicza 62;LdLowSienkie;01.01.2015;;tào;miejski;wolnostoj•cy pobornik pyàu;ù‡DZKIE;ùowicz;ul. Henryka Sienkiewicza 62;52.105853;19.939553
+329;LdLowiczWSSEMSwFlori;PL0370A;ùowicz-ów.Floriana3;LdLowiczWSSEMSwFlori;01.01.1994;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;ùowicz;ul. ów. Floriana 3;52.108056;19.936944
+330;LdOpocCurieSk;PL0666A;Opoczno-Curie-Skàodowskiej 5;LdOpocCurieSk;01.01.2017;;tào;miejski;wolnostoj•cy pobornik pyàu;ù‡DZKIE;Opoczno;ul. Curie-Skàodowskiej 5;51.379128;20.282169
+331;LdOpocPlKosc;PL0508A;Opoczno-Pl Koòciuszki 15;LdOpocznWIOSMPlKosci;01.01.2010;01.01.2017;tào;miejski;wolnostoj•cy pobornik pyàu;ù‡DZKIE;Opoczno;pl. Koòciuszki 15;51.375842;20.289236
+332;LdOpocznWSSEMPlKosci;PL0103A;Opoczno-Pl Koòciuszki;LdOpocznWSSEMPlKosci;01.01.1986;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;Opoczno;pl. Koòciuszki;51.375000;20.275008
+333;LdOzorkoWSSEMWigury1;PL0371A;Ozork¢w-Wigury 1;LdOzorkoWSSEMWigury1;04.02.1986;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;Ozork¢w;ul. Wigury 1;51.967222;19.290283
+334;LdPabianWSSEMNowa;PL0372A;Pabianice-Nowa1;LdPabianWSSEMNowa;01.01.1992;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;Pabianice;ul. Nowa 1;51.659167;19.320833
+335;LdPabiKilins;PL0537A;Pabianice-Kili‰skiego 4;LdPabianWIOSMKilinsk;08.12.2009;;tào;miejski;w budynku;ù‡DZKIE;Pabianice;ul. Kili‰skiego 4;51.663181;19.355486
+336;LdPabiKonsta;PL0104A;Pabianice-Polfa;LdPabianWIOSAKonstan;01.11.2003;;przemysàowa;miejski;kontenerowa stacjonarna;ù‡DZKIE;Pabianice;ul. Konstantynowska;51.667981;19.368683
+337;LdPajeczWSSEMZeromsk;PL0373A;Paj©czno-Ωeromskiego 7;LdPajeczWSSEMZeromsk;01.01.2001;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;Paj©czno;ul. Ωeromskiego;51.150556;18.987781
+338;LdParzniUjWo;PL0105A;Parzniewice;LdParzniWIOSAParznie;17.10.2003;;tào;pozamiejski;kontenerowa stacjonarna;ù‡DZKIE;Parzniewice;Uj©cie wody;51.291175;19.517556
+339;LdPiotrkMZGKMkarolin;;Piotrk¢w Tryb. - Karolinowska 51;LdPiotrkMZGKMkarolin;01.06.1983;01.01.2008;przemysàowa;miejski;kontenerowa stacjonarna;ù‡DZKIE;Piotrk¢w Trybunalski;ul. Karolinowska 51;51.425000;19.682222
+340;LdPioTrKraPr;PL0509A;Piotrk¢w Tryb.-Krakowskie Przedmieòcie;LdPiotrkWIOSAKrakPrz;15.12.2009;;tào;miejski;kontenerowa stacjonarna;ù‡DZKIE;Piotrk¢w Trybunalski;ul. Krakowskie Przedmieòcie 13;51.404406;19.696956
+341;LdPiotrkWIOSABelzack;PL0106A;Piotrk¢w Belzacka;LdPiotrkWIOSABelzack;09.03.1999;13.01.2009;tào;miejski;w budynku;ù‡DZKIE;Piotrk¢w Trybunalski;ul. Belzacka 78a;51.406944;19.673056
+342;LdPiotrkWSSEM3goMaja;PL0107A;Piotrk¢wTryb.-3-goMaja8;LdPiotrkWSSEM3goMaja;01.01.1987;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;Piotrk¢w Trybunalski;ul. 3 Maja 8;51.405000;19.693333
+343;LdPioTrSienk;PL0510A;Piotrk¢wTryb.-Sienkiewicza 16;LdPiotrkWIOSMSienkie;01.01.2010;01.01.2015;tào;miejski;w budynku;ù‡DZKIE;Piotrk¢w Trybunalski;ul. Sienkiewicza 16;51.407844;19.688694
+344;LdRadomsFAMEGMGlinia;;Radomsko-Gliniana26;LdRadomsFAMEGMGlinia;01.01.1990;01.04.2006;tào;miejski;kontenerowa stacjonarna;ù‡DZKIE;Radomsko;ul. Gliniana 26;51.068056;19.426667
+345;LdRadomsFAMEGMGolebi;;Radomsko-Goà©bia;LdRadomsFAMEGMGolebi;01.08.1990;01.11.2005;tào;miejski;kontenerowa stacjonarna;ù‡DZKIE;Radomsko;ul. Goà©bia 8;-999;-999
+346;LdRadomsMETALMPrzedb;;Radomsko-Przedborska;LdRadomsMETALMPrzedb;01.01.1990;01.04.2006;tào;miejski;kontenerowa stacjonarna;ù‡DZKIE;Radomsko;ul. Przedborska;51.074722;19.461111
+347;LdRadomsRoln;PL0544A;Radomsko-Rolna2;LdRadomsWIOSMRolna2;01.01.2010;;tào;miejski;kontenerowa stacjonarna;ù‡DZKIE;Radomsko;ul. Rolna 2;51.067439;19.448694
+348;LdRadomsSoko;PL0256A;Radomsko-Sokola4;LdRadomsWIOSASokola4;19.04.2005;20.05.2016;tào;miejski;kontenerowa stacjonarna;ù‡DZKIE;Radomsko;ul. Sokola 4;51.063992;19.451164
+349;LdRadomsWSSEMKomunyP;PL0108A;Radomsko-KomunyParyskiej5;LdRadomsWSSEMKomunyP;01.01.1995;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;Radomsko;ul. Komuny Paryskiej 5;51.069444;19.441111
+350;LdRadomsWSSEMZeromsk;PL0109A;Radomsko-Ωeromskiego 15;LdRadomsWSSEMZeromsk;01.01.2004;01.05.2011;tào;miejski;kontenerowa stacjonarna;ù‡DZKIE;Radomsko;ul. Ωeromskiego 15;51.066111;19.441944
+351;LdRawaMaWIOSMKoscius;PL0511A;Rawa Mazowiecka-Koòciuszki 5;LdRawaMaWIOSMKoscius;01.02.2008;31.12.2011;tào;miejski;w budynku;ù‡DZKIE;Rawa Mazowiecka;ul. Koòciuszki 5;51.763358;20.249978
+352;LdRawaNiepod;PL0545A;Rawa Mazowiecka-Niepodlegàoòci 8;LdRawaMaWIOSMNiepodl;01.01.2010;;tào;miejski;w budynku;ù‡DZKIE;Rawa Mazowiecka;ul. Niepodlegàoòci 8;51.760875;20.250569
+353;LdSieradWIOSMKoscius;PL0374A;Sieradz-Koòciuszki6;LdSieradWIOSMKoscius;01.01.2006;31.12.2011;komunikacyjna;miejski;w budynku;ù‡DZKIE;Sieradz;ul. Koòciuszki 6;51.594444;18.736111
+354;LdSieradWSSEMArmiiKr;;Sieradz-ArmiiKrajowej7;LdSieradWSSEMArmiiKr;01.01.2003;31.03.2004;tào;miejski;w budynku;ù‡DZKIE;Sieradz;ul. Armii Krajowej 7;51.583889;18.710556
+355;LdSieradWSSEMPOW52;PL0375A;Sieradz-POW52;LdSieradWSSEMPOW52;01.06.2004;01.01.2010;komunikacyjna;miejski;w budynku;ù‡DZKIE;Sieradz;ul. POW 52;51.595833;18.720278
+356;LdSieraPolna;PL0636A;Sieradz-Polna 18/20;LdSieraPolna;01.01.2016;;tào;miejski;wolnostoj•cy pobornik pyàu;ù‡DZKIE;Sieradz;ul. Polna 18/20;51.592111;18.734898
+357;LdSierGrunwa;PL0110A;Sieradz-Grunwaldzka 28;LdSieradWSSEMGrunwal;01.01.2004;31.12.2015;tào;miejski;wolnostoj•cy pobornik pyàu;ù‡DZKIE;Sieradz;ul. Grunwaldzka 28;51.590125;18.717333
+358;LdSkierKonop;PL0611A;Skierniewice-Marii Konopnickiej 5;LdSkiernWIOSMKonopni;01.07.2014;;tào;miejski;wolnostoj•cy pobornik pyàu;ù‡DZKIE;Skierniewice;ul. Marii Konopnickiej 5;51.954314;20.149378
+359;LdSkiernWIOSMJagiell;PL0546A;Skierniewice-Jagiello‰ska 28;LdSkiernWIOSMJagiell;01.01.2010;30.06.2014;tào;miejski;w budynku;ù‡DZKIE;Skierniewice;ul. Jagiello‰ska 28;51.959561;20.146183
+360;LdSkiernWIOSMWitaStw;PL0512A;Skierniewice-Wita Stwosza2/4;LdSkiernWIOSMWitaStw;07.03.2008;31.12.2011;tào;miejski;w budynku;ù‡DZKIE;Skierniewice;ul. Wita Stwosza 2/4;51.960719;20.147408
+361;LdSkiernWSSEMKoperni;PL0111A;Skierniewice-Kopernika5;LdSkiernWSSEMKoperni;02.01.1994;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;Skierniewice;ul. Kopernika 5;51.952778;20.152222
+362;LdSkiernWSSEMReymont;PL0112A;Skierniewice-Reymonta 33;LdSkiernWSSEMReymont;01.01.2004;01.05.2011;tào;miejski;w budynku;ù‡DZKIE;Skierniewice;ul. Reymonta 33;51.960000;20.147222
+363;LdSkiernWSSEMWankowi;;Skierniewice-Wa‰kowicza10;LdSkiernWSSEMWankowi;16.01.1991;31.12.2003;tào;miejski;w budynku;ù‡DZKIE;Skierniewice;ul. Wa‰kowicza 10;51.973611;20.148889
+364;LdToMaSwAnto;PL0547A;Tomasz¢wMaz.-ów. Antoniego43;LdTomaszWIOSMSwAnton;01.01.2010;;tào;miejski;wolnostoj•cy pobornik pyàu;ù‡DZKIE;Tomasz¢w Mazowiecki;ul. ów. Antoniego 43/45;51.526258;20.016786
+365;LdTomaszWSSEMSw.Anto;PL0113A;Tomasz¢wMaz.-ów.Antoniego24;LdTomaszWSSEMSw.Anto;01.01.1988;13.08.2014;tào;miejski;kontenerowa stacjonarna;ù‡DZKIE;Tomasz¢w Mazowiecki;ul. ów. Antoniego 24;51.528889;20.010833
+366;LdUniejTermy;PL0667A;Uniej¢w-Termy;LdUniejTermy;01.01.2017;;tào;podmiejski;wolnostoj•cy pobornik pyàu;ù‡DZKIE;Uniej¢w;ul. Zamkowa 1;51.971664;18.790350
+367;LdWielunWSSEMPOW14;PL0208A;Wielu‰-POW14;LdWielunWSSEMPOW14;01.01.2005;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;Wielu‰;ul. POW 14;51.218611;18.581389
+368;LdWielunWSSEMWojskaP;;Wielu‰-WojskaPolskiego;LdWielunWSSEMWojskaP;01.01.2003;01.01.2007;tào;miejski;w budynku;ù‡DZKIE;Wielu‰;ul. Wojska Polskiego;-999;-999
+369;LdWieluPOW12;PL0590A;Wielu‰-POW 12;LdWielunWIOSMPOW;01.01.2012;;tào;miejski;wolnostoj•cy pobornik pyàu;ù‡DZKIE;Wielu‰;ul. P.O.W. 12;51.217828;18.581828
+370;LdZduWoKrole;PL0548A;Zdu‰skaWola-Kr¢lewska10;LdZdWolaWIOSMKrolews;01.01.2010;;tào;miejski;wolnostoj•cy pobornik pyàu;ù‡DZKIE;Zdu‰ska Wola;ul. Kr¢lewska 10;51.601439;18.940122
+371;LdZdWolaWSSEMDabrows;PL0114A;Zdu‰skaWola-D•browskiego1;LdZdWolaWSSEMDabrows;01.01.2003;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;Zdu‰ska Wola;ul. D•browskiego 1;51.601111;18.936944
+372;LdZdWolaWSSEMPlWolno;;Zdu‰ska Wola-Plac Wolnoòci 20;LdZdWolaWSSEMPlWolno;01.01.2001;31.07.2003;tào;miejski;w budynku;ù‡DZKIE;Zdu‰ska Wola;pl. Wolnoòci 20;51.603056;18.934444
+373;LdZdWolaWSSEMSzadkow;;Zdu‰skaWola-Szadkowska4;LdZdWolaWSSEMSzadkow;01.01.2003;01.01.2006;tào;miejski;w budynku;ù‡DZKIE;Zdu‰ska Wola;ul. Szadkowska 4;51.606667;18.939722
+374;LdZgieMielcz;PL0115A;Zgierz-ór¢dmieòcie;LdZgierzWIOSAMielcza;01.09.2003;;tào;miejski;kontenerowa stacjonarna;ù‡DZKIE;Zgierz;ul. Mielczarskiego 1;51.856692;19.421231
+375;LdZgierzWSSEMDabrows;;Zgierz-D•browskiego 12;LdZgierzWSSEMDabrows;01.01.1976;31.05.2000;tào;miejski;w budynku;ù‡DZKIE;Zgierz;ul. D•browskiego 12;51.856944;19.411944
+376;LdZgierzWSSEMStRynek;PL0116A;Zgierz-Pl Jana Pawàa II;LdZgierzWSSEMStRynek;01.01.2000;01.01.2010;tào;miejski;w budynku;ù‡DZKIE;Zgierz;pl. Jana Pawàa II;51.856389;19.404444
+377;LdZloczeWSSEMWieluns;;Zàoczew-Wielu‰ksa(szkoàa);LdZloczeWSSEMWieluns;01.01.2003;31.12.2003;tào;miejski;w budynku;ù‡DZKIE;Zàoczew;ul. Wielu‰ska;51.406944;18.610833
+378;LuDrezdeWSSE;PL0376A;WSSE - Drezdenko;LuDrezdeWSSE;01.05.2002;31.12.2009;tào;miejski;w budynku;LUBUSKIE;Drezdenko;ul. Chrobrego 11;52.839167;15.835578
+379;LuGorzKosGdy;PL0209A;Gorz¢w Wlkp. ul. Kosynier¢w Gdy‰skich;LuGorzowWIOS_AUT;01.01.2005;;tào;miejski;kontenerowa stacjonarna;LUBUSKIE;Gorz¢w Wielkopolski;ul. Kosynier¢w Gdy‰skich;52.738214;15.228667
+380;LuGorzowWSSE_1;PL0272A;WSSE - Gorz¢w ul. Borowskiego;LuGorzowWSSE_1;01.01.2003;31.12.2009;tào;miejski;w budynku;LUBUSKIE;Gorz¢w Wielkopolski;ul. Borowskiego 28;52.737222;15.232222
+381;LuGorzowWSSE_5;PL0377A;WSSE - Gorz¢w ul. Mickiewicza;LuGorzowWSSE_5;01.02.1988;31.12.2009;tào;miejski;w budynku;LUBUSKIE;Gorz¢w Wielkopolski;ul. Mickiewicza;52.739722;15.230000
+382;LuGorzowWSSE_6;PL0378A;WSSE - Gorz¢w ul. Wr¢blewskiego;LuGorzowWSSE_6;01.04.2003;31.12.2009;tào;miejski;w budynku;LUBUSKIE;Gorz¢w Wielkopolski;ul. Wr¢blewskiego;52.754722;15.241944
+383;LuGorzPilsud;PL0492A;Gorz¢w Wlkp. ul. Piàsudskiego;LuGorzowWIOS_MAN;08.01.2010;;tào;miejski;wolnostoj•cy pobornik pyàu;LUBUSKIE;Gorz¢w Wielkopolski;ul. Piàsudskiego;52.747044;15.246294
+384;LuMiedzyWSSE;PL0379A;WSSE - Mi©dzyrzecz;LuMiedzyWSSE;01.01.1992;31.12.2009;tào;miejski;w budynku;LUBUSKIE;Mi©dzyrzecz;ul. Centrum 16;52.442778;15.581389
+385;LuNowaSolMOB;PL0752A;Nowa S¢l, ul. T. Koòciuszki;LuNowaSolMOB;05.12.2018;31.12.2019;tào;miejski;mobilna;LUBUSKIE;Nowa S¢l;T. Koòciuszki 26;51.808662;15.708193
+386;LuNowasoWSSE;PL0380A;WSSE - Nowa S¢l;LuNowasoWSSE;03.01.1990;31.12.2008;tào;miejski;w budynku;LUBUSKIE;Nowa S¢l;ul. Wojska Polskiego 11;51.802500;15.715014
+387;LuSlubWIOS_AUT;PL0210A;Sàubice ul. Woj Pol;LuSlubWIOS_AUT;01.01.2005;31.12.2010;tào;miejski;kontenerowa stacjonarna;LUBUSKIE;Sàubice;ul. Wojska Polskiego;52.355833;14.564167
+388;LuSlubWSSE;PL0381A;WSSE - Sàubice;LuSlubWSSE;01.02.1988;31.12.2009;tào;miejski;w budynku;LUBUSKIE;Sàubice;ul. Mickiewicza 4;52.350278;14.557222
+389;LuSmolBytnic;PL0211A;Smolary Bytnickie;LuSmobytWIOS_AUT;01.01.2005;;tào;pozamiejski;kontenerowa stacjonarna;LUBUSKIE;Smolary Bytnickie;Smolary Bytnickie 45A;52.172222;15.206667
+390;LuSulecDudka;PL0575A;Sul©cin ul. Dudka;LuSulecWIOS_MOB;26.01.2011;;tào;miejski;kontenerowa stacjonarna;LUBUSKIE;Sul©cin;ul. Dudka;52.437722;15.122444
+391;LuSuleciWSSE;PL0382A;WSSE - Sul©cin;LuSuleciWSSE;02.01.1992;31.12.2009;tào;miejski;w budynku;LUBUSKIE;Sul©cin;ul. Magazynowa;52.449722;15.116944
+392;LuSwieboWIOS_MOB;PL0383A;ówiebodzin, ul. ù•ki Zamkowe;LuSwieboWIOS_MOB;07.01.2008;14.01.2009;tào;miejski;mobilna;LUBUSKIE;ówiebodzin;ul. ù•ki Zamkowe;52.247778;15.534722
+393;LuSwieboWSSE;PL0384A;WSSE - ówiebodzin;LuSwieboWSSE;25.05.1990;31.12.2009;tào;miejski;w budynku;LUBUSKIE;ówiebodzin;ul. 1 Maja 10;52.251111;15.531667
+394;LuWsKaziWiel;PL0212A;Wschowa ul. Kazimierza Wielkiego;LuWschowWIOS_AUT;01.01.2005;;tào;miejski;kontenerowa stacjonarna;LUBUSKIE;Wschowa;ul. Kazimierza Wielkiego;51.799722;16.317500
+395;LuZaganWSSE;PL0385A;WSSE - Ωaga‰;LuZaganWSSE;14.01.1991;31.12.2009;tào;miejski;w budynku;LUBUSKIE;Ωaga‰;ul. Szprotawska 25A;51.612500;15.328889
+396;LuZarySzyman;PL0591A;Ωary, ul. Szymanowskiego 8;LuZaryWIOS_AUT;01.09.2012;;tào;miejski;kontenerowa stacjonarna;LUBUSKIE;Ωary;ul. Szymanowskiego 8;51.642656;15.127808
+397;LuZaryWIOS_MAN;PL0513A;Ωary ul. Podchor•æych;LuZaryWIOS_MAN;01.01.2010;31.12.2010;tào;miejski;w budynku;LUBUSKIE;Ωary;ul. Podchor•æych;51.639900;15.136131
+398;LuZaryWIOS_MOB;PL0514A;Ωary ul. Chopina;LuZaryWIOS_MOB;26.01.2010;31.12.2010;tào;miejski;mobilna;LUBUSKIE;Ωary;ul. Chopina;51.641500;15.127500
+399;LuZaryWSSE;PL0386A;WSSE - Ωary;LuZaryWSSE;01.06.1998;31.12.2009;tào;miejski;w budynku;LUBUSKIE;Ωary;ul. Podchor•æych 23a;51.640000;15.135556
+400;LuZaryWSSE_2;PL0387A;WSSE - Ωary ul. 1Maja;LuZaryWSSE_2;01.01.2006;31.12.2009;tào;miejski;BRAK DANYCH;LUBUSKIE;Ωary;ul. 1 Maja;51.634444;15.141111
+401;LuZgoraWSSE_1;PL0388A;WSSE - Zielona G¢ra ul. Jasna;LuZgoraWSSE_1;12.03.1989;31.12.2009;tào;miejski;w budynku;LUBUSKIE;Zielona G¢ra;ul. Jasna 10;51.930000;15.503056
+402;LuZielKrotka;PL0213A;Zielona G¢ra ul. Kr¢tka;LuZgoraWIOS_AUT;01.01.2005;;tào;miejski;kontenerowa stacjonarna;LUBUSKIE;Zielona G¢ra;ul. Kr¢tka;51.939783;15.518861
+403;MpAndrycWSSEKrak1801;;Andrych¢w Krakowska;MpAndrycWSSEKrak1801;01.01.2001;31.12.2009;tào;miejski;w budynku;MAùOPOLSKIE;Andrych¢w;ul. Krakowska 86;49.853333;19.340556
+404;MpBochKonfed;PL0549A;Bochnia, ul. Konfederat¢w Barskich;MpBochniWIOSKBar0106;01.01.2011;;tào;miejski;wolnostoj•cy pobornik pyàu;MAùOPOLSKIE;Bochnia;ul. Konfederat¢w Barskich;49.969017;20.439511
+405;MpBochniWSSEKazi0104;PL0302A;Bochnia Kazimierza Wielkiego 67;MpBochniWSSEKazi0104;01.01.2003;31.12.2008;tào;miejski;w budynku;MAùOPOLSKIE;Bochnia;ul. Kazimierza Wielkiego 67;49.959167;20.420556
+406;MpBochniWSSEKons0105;PL0389A;Bochnia Kostytucji 3 Maja Nr 5;MpBochniWSSEKons0105;01.01.2004;31.12.2010;tào;miejski;BRAK DANYCH;MAùOPOLSKIE;Bochnia;ul. Kostytucji 3 Maja Nr 5;49.972778;20.428056
+407;MpBochniWSSESoln0102;;Bochnia Solna;MpBochniWSSESoln0102;01.01.2003;31.12.2003;tào;miejski;BRAK DANYCH;MAùOPOLSKIE;Bochnia;ul. Solna;49.970000;20.432222
+408;MpBrzeskWIOSWiej0202;PL0626A;Brzesko, ul. Wiejska;MpBrzeskWIOSWiej0202;01.01.2014;31.12.2014;tào;miejski;mobilna;MAùOPOLSKIE;Brzesko;ul. Wiejska;49.975953;20.603222
+409;MpBrzeskWSSEGlow0201;PL0390A;Brzesko Gàowackiego;MpBrzeskWSSEGlow0201;01.01.2001;31.12.2008;tào;miejski;w budynku;MAùOPOLSKIE;Brzesko;ul. Gàowackiego 51;49.967500;20.607783
+410;MpBrzeszKosc;PL0668A;Brzeszcze, ul. Koòcielna;MpBrzeszKosc;01.01.2017;17.01.2018;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Brzeszcze;Koòcielna;49.966667;19.146061
+411;MpBukowKolejMOB;PL0612A;Bukowno, ul. Kolejowa;MpBukownWIOSKole1206;01.01.2015;31.12.2015;tào;miejski;mobilna;MAùOPOLSKIE;Bukowno;ul. Kolejowa;50.266239;19.462286
+412;MpChrzanWSSEGrzy0301;PL0303A;Chrzan¢w Grzybowskiego;MpChrzanWSSEGrzy0301;01.01.2001;31.12.2009;tào;miejski;w budynku;MAùOPOLSKIE;Chrzan¢w;ul. Grzybowskiego 7;50.136944;19.397222
+413;MpChrzaPlTysMOB;PL0637A;Chrzan¢w, Pl. Tysi•clecia;MpChrzaPlTysMOB;01.01.2016;31.12.2016;tào;miejski;mobilna;MAùOPOLSKIE;Chrzan¢w;Pl. Tysi•clecia;50.144028;19.406556
+414;MpDabrowWIOSZare0401;PL0627A;Dabrowa Tarnowska, ul. Zar©by;MpDabrowWIOSZare0401;01.01.2014;31.12.2014;tào;miejski;mobilna;MAùOPOLSKIE;D•browa Tarnowska;ul. Zar©by;50.177519;20.984028
+415;MpDobczSzkolMOB;PL0638A;Dobczyce, ul. Szkolna;MpDobczSzkolMOB;01.01.2016;31.12.2016;tào;miejski;mobilna;MAùOPOLSKIE;Dobczyce;ul. Szkolna;49.881108;20.100819
+416;MpDobrowWSSEPils0401;;D•browa Tarnowska Piàsudskiego;MpDobrowWSSEPils0401;01.01.2001;31.12.2004;tào;miejski;w budynku;MAùOPOLSKIE;D•browa Tarnowska;ul. Piàsudskiego 14;50.170833;20.983611
+417;MpGorlicWSSELegi0501;PL0391A;Gorlice Legion¢w;MpGorlicWSSELegi0501;01.01.2001;31.12.2010;tào;miejski;w budynku;MAùOPOLSKIE;Gorlice;ul. Legion¢w 12;49.655000;21.156111
+418;MpGorlKrasin;PL0478A;Gorlice, ul. Krasi‰skiego;MpGorlicWIOSKras0511;01.01.2009;;tào;miejski;wolnostoj•cy pobornik pyàu;MAùOPOLSKIE;Gorlice;ul. Krasi‰skiego;49.658889;21.163336
+419;MpKalZebRyneMOB;PL0639A;Kalwaria Zebrzydowska, Rynek;MpKalZebRyneMOB;01.01.2016;31.12.2016;tào;miejski;mobilna;MAùOPOLSKIE;Kalwaria Zebrzydowska;Rynek;49.867344;19.676722
+420;MpKaszowLisz;PL0640A;Kasz¢w;MpKaszowLisz;01.01.2016;;tào;podmiejski;kontenerowa stacjonarna;MAùOPOLSKIE;Kasz¢w;Bory;50.025028;19.726833
+421;MpKetyWyspiaMOB;PL0613A;K©ty, ul. Wyspia‰skiego;MpKetyWIOSWysp1304;01.01.2015;31.12.2015;tào;miejski;mobilna;MAùOPOLSKIE;K©ty;ul. Wyspia‰skiego;49.876936;19.215600
+422;MpKrakAlKras;PL0012A;Krak¢w, Aleja Krasi‰skiego;MpKrakowWIOSAKra6117;01.01.2003;;komunikacyjna;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Krak¢w;al. Krasi‰skiego;50.057678;19.926189
+423;MpKrakBujaka;PL0501A;Krak¢w, ul. Bujaka;MpKrakowWIOSBuja6119;01.01.2010;;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Krak¢w;ul. Bujaka;50.010575;19.949189
+424;MpKrakBulwar;PL0039A;Krak¢w, ul. Bulwarowa;MpKrakowWIOSBulw6118;01.01.2003;;przemysàowa;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Krak¢w;ul. Bulwarowa;50.069308;20.053492
+425;MpKrakDietla;PL0641A;Krak¢w, ul. Dietla;MpKrakDietla;01.01.2016;;komunikacyjna;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Krak¢w;ul. Dietla;50.057447;19.946008
+426;MpKrakOsPias;PL0642A;Krak¢w, os. Piast¢w;MpKrakOsPias;01.01.2016;;tào;miejski;wolnostoj•cy pobornik pyàu;MAùOPOLSKIE;Krak¢w;os. Piast¢w;50.098508;20.018269
+427;MpKrakowWIOSPrad6115;PL0038A;Krowodrza-Krak¢w, szpital Jana Pawàa II;MpKrakowWIOSPrad6115;01.01.2003;28.02.2010;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Krak¢w;ul. Pr•dnicka;50.087500;19.926111
+428;MpKrakowWSSEKapi6108;PL0392A;Krak¢w Swoszowice K•pielowa;MpKrakowWSSEKapi6108;01.01.2003;31.12.2009;tào;miejski;w budynku;MAùOPOLSKIE;Krak¢w;ul. Swoszowice K•pielowa 70;49.991667;19.935000
+429;MpKrakowWSSEPrad6102;;Krakow Pradnicka 76;MpKrakowWSSEPrad6102;01.01.2003;31.12.2004;tào;miejski;w budynku;MAùOPOLSKIE;Krak¢w;ul. Pr•dnicka 76;50.087500;19.938056
+430;MpKrakowWSSERPod6113;;Krak¢w Rynek Podg¢rski;MpKrakowWSSERPod6113;01.01.2001;31.12.2004;tào;miejski;w budynku;MAùOPOLSKIE;Krak¢w;ul. Rynek Podg¢rski;50.040000;19.943333
+431;MpKrakSwoszo;PL0735A;Krak¢w, os. Swoszowice;MpKrakSwoszo;01.01.2019;;tào;miejski;wolnostoj•cy pobornik pyàu;MAùOPOLSKIE;Krak¢w;Lusi‰ska;49.991442;19.936792
+432;MpKrakTelime;PL0669A;Krak¢w, ul. Telimeny;MpKrakTelime;01.01.2017;01.06.2018;tào;miejski;wolnostoj•cy pobornik pyàu;MAùOPOLSKIE;Krak¢w;ul. Telimeny 9;50.019036;20.016822
+433;MpKrakWadow;PL0670A;Krak¢w, os. Wad¢w;MpKrakWadow;01.01.2017;;przemysàowa;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Krak¢w;Wad¢w;50.100569;20.122561
+434;MpKrakZloRog;PL0643A;Krak¢w, ul. Zàoty R¢g;MpKrakZloRog;01.01.2016;;tào;miejski;wolnostoj•cy pobornik pyàu;MAùOPOLSKIE;Krak¢w;Zàoty R¢g;50.081197;19.895358
+435;MpKrynicDiet;PL0743A;Krynica, ul. Bulwary Dietla;MpKrynicDiet;01.01.2019;;tào;miejski;mobilna;MAùOPOLSKIE;Krynica-Zdr¢j;Bulwary Dietla;49.416978;20.956147
+436;MpKrynicWIOSNowo1008;PL0479A;Krynica Nowotarskiego;MpKrynicWIOSNowo1008;01.01.2009;31.12.2009;tào;miejski;mobilna;MAùOPOLSKIE;Krynica-Zdr¢j;ul. Nowotarskiego;49.417778;20.957500
+437;MpKrynicWIOSPark1009;PL0515A;Krynica, ul. Park Sportowy;MpKrynicWIOSPark1009;01.01.2010;31.12.2010;tào;miejski;mobilna;MAùOPOLSKIE;Krynica-Zdr¢j;ul. Park Sportowy;49.427533;20.951200
+438;MpKrynicWSSENowo1002;;Krynica Nowotarskiego RWM;MpKrynicWSSENowo1002;01.01.2005;31.12.2008;tào;miejski;w budynku;MAùOPOLSKIE;Krynica;ul. Nowotarskiego RWM;-999;-999
+439;MpKrzeszWIOSKulc0605;;Krzeszowice Plac Kulczy‰skiego;MpKrzeszWIOSKulc0605;01.01.2002;31.12.2002;tào;miejski;BRAK DANYCH;MAùOPOLSKIE;Krzeszowice;pl. Kulczy‰skiego 1;-999;-999
+440;MpLimanoBoleMOB;PL0614A;Limanowa, ul. Matki Boæej Bolesnej;MpLimanoWIOSMBBo0706;01.01.2015;31.12.2015;tào;miejski;mobilna;MAùOPOLSKIE;Limanowa;Zygmunta Augusta;49.698525;20.424119
+441;MpMaPodhWIOSKosc1508;PL0117A;Mak¢w Podhala‰ski;MpMaPodhWIOSKosc1508;15.12.2004;31.12.2010;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Mak¢w Podhala‰ski;ul. Koòciuszki 5;49.730278;19.681389
+442;MpMiechoWIOSKono0802;PL0628A;Miech¢w, ul. Konopnickiej;MpMiechoWIOSKono0802;01.01.2014;31.12.2014;tào;miejski;mobilna;MAùOPOLSKIE;Miech¢w;ul. Konopnickiej;50.360036;20.038672
+443;MpMiechoWIOSKsSk0801;;Miech¢w Ksi©dza Skorupki;MpMiechoWIOSKsSk0801;01.01.2002;31.12.2003;tào;miejski;w budynku;MAùOPOLSKIE;Miech¢w;ul. Ksi©dza Skorupki 5;50.354722;20.024722
+444;MpMuszynKity;PL0685A;Muszyna, ul. A. Kity 17;MpMuszynKity;01.01.2017;17.01.2018;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Muszyna;ul. A. Kity;49.354447;20.894361
+445;MpMuszynKityMOB;PL0644A;Muszyna, ul. Kity;MpMuszynKityMOB;01.01.2016;31.12.2016;tào;miejski;mobilna;MAùOPOLSKIE;Muszyna;ul. Kity;49.354464;20.894375
+446;MpMuszynWSSERyne1001;PL0393A;Muszyna Rynek 14 Szkoàa Podst.;MpMuszynWSSERyne1001;01.01.2001;31.12.2009;tào;miejski;w budynku;MAùOPOLSKIE;Muszyna;ul. Rynek 14;49.353611;20.891944
+447;MpMuszynZloc;PL0693A;Muszyna Zàockie;MpMuszynZloc;01.01.2018;31.12.2018;tào;pozamiejski;mobilna;MAùOPOLSKIE;Zàockie;Zàockie 79;49.374147;20.879581
+448;MpMyslenWIOSKazi0901;;Myslenice Kazimierza Wielkiego;MpMyslenWIOSKazi0901;01.01.2002;31.12.2002;tào;miejski;BRAK DANYCH;MAùOPOLSKIE;Myòlenice;ul. Kazimierza Wielkiego 199;-999;-999
+449;MpMyslenWIOSKosc0902;;Myòlenice Koòciuszki;MpMyslenWIOSKosc0902;01.01.2002;31.12.2003;tào;miejski;w budynku;MAùOPOLSKIE;Myòlenice;ul. Koòciuszki 16;49.826667;19.936389
+450;MpMyslenWIOSRyne0905;;Mobilna Myòlenice Rynek;MpMyslenWIOSRyne0905;09.08.2004;30.10.2004;tào;miejski;mobilna;MAùOPOLSKIE;Myòlenice;ul. Rynek;49.835000;19.938056
+451;MpMyslenWIOSRyne0906;PL0118A;Myòlenice Rynek;MpMyslenWIOSRyne0906;16.12.2004;31.12.2008;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Myòlenice;ul. Rynek;49.835000;19.938056
+452;MpMysleRynekMOB;PL0615A;Myòlenice, Rynek;MpMyslenWIOSRyne0907;01.01.2015;31.12.2015;tào;miejski;mobilna;MAùOPOLSKIE;Myòlenice;Rynek;49.834922;19.938114
+453;MpNiepo3Maja;PL0125A;Niepoàomice, ul. 3 Maja;MpWielicWIOSNiep1904;01.01.2003;;tào;miejski;wolnostoj•cy pobornik pyàu;MAùOPOLSKIE;Niepoàomice;ul. 3 Maja;50.035117;20.212689
+454;MpNiepolWIOSRyne1907;;Niepoàomice Rynek mobilna;MpNiepolWIOSRyne1907;01.01.2006;31.01.2007;tào;miejski;mobilna;MAùOPOLSKIE;Niepoàomice;ul. Rynek;-999;-999
+455;MpNoSaczNadb;PL0550A;Nowy S•cz, ul. Nadbrzeæna;MpNSaczWIOSNadb6205;01.09.2010;;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Nowy S•cz;ul. Nadbrzeæna;49.619281;20.714403
+456;MpNoSaczWSSENawo17a;;Nowy S•cz Nawojowska 17a;MpNoSaczWSSENawo17a;01.01.2004;31.12.2004;tào;miejski;w budynku;MAùOPOLSKIE;Nowy S•cz;ul. Nawojowska 17a;49.613889;20.704444
+457;MpNoTargPSlo;PL0671A;Nowy Targ, Plac Sàowackiego;MpNoTargPSlo;21.03.2016;;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Nowy Targ;Plac Sàowackiego;49.483597;20.028992
+458;MpNoTargWSSESzaf1102;PL0304A;Nowy Targ Szaflarska;MpNoTargWSSESzaf1102;01.01.2001;31.12.2009;tào;miejski;BRAK DANYCH;MAùOPOLSKIE;Nowy Targ;ul. Szaflarska;49.474444;20.025833
+459;MpNowyTaWIOSPows1114;PL0629A;Nowy Targ, ul. Powsta‰c¢w;MpNowyTaWIOSPows1114;01.01.2014;31.12.2014;tào;miejski;mobilna;MAùOPOLSKIE;Nowy Targ;ul. Powsta‰c¢w;49.476097;20.026881
+460;MpNSaczWIOSPija6204;PL0119A;Nowy S•cz, Pijarska;MpNSaczWIOSPija6204;20.08.2003;30.09.2010;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Nowy S•cz;ul. Pijarska;49.627222;20.688333
+461;MpNSaczWSSETarn6202;PL0305A;Nowy S•cz Tarnowska 28;MpNSaczWSSETarn6202;01.01.2004;31.12.2009;tào;miejski;w budynku;MAùOPOLSKIE;Nowy S•cz;ul. Tarnowska 28;49.635278;20.693056
+462;MpOlkuCegiel;PL0754A;Olkusz, ul. Cegielniana;MpOlkuCegiel;01.01.2019;;tào;miejski;wolnostoj•cy pobornik pyàu;MAùOPOLSKIE;Olkusz;Cegielniana;50.284000;19.564044
+463;MpOlkuFrNull;PL0306A;Olkusz, ul. Francesco Nullo;MpOlkuszWIOSNull1205;01.04.2003;16.04.2018;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Olkusz;ul. Francesco Nullo;50.277569;19.569869
+464;MpOswiecBema;PL0694A;Oòwi©cim, ul. J. Bema;MpOswiecBema;01.01.2018;;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Oòwi©cim;J. Bema;50.033083;19.245275
+465;MpOswiecWIOSSnia1302;PL0630A;Oòwi©cim, ul. óniadeckiego;MpOswiecWIOSSnia1302;01.01.2014;31.12.2014;tào;miejski;mobilna;MAùOPOLSKIE;Oòwi©cim;ul. óniadeckiego;50.035447;19.239331
+466;MpOswiecWIOSSnia1304;;Oòwi©cim mobilna;MpOswiecWIOSSnia1304;01.01.2005;31.12.2008;tào;miejski;mobilna;MAùOPOLSKIE;Oòwi©cim;ul. óniadeckiego;50.034167;19.245278
+467;MpOswiecWSSEWiez1301;PL0307A;Oòwi©cim Wi©´ni¢w Oòwi©cimia;MpOswiecWSSEWiez1301;01.01.2001;31.12.2009;tào;miejski;w budynku;MAùOPOLSKIE;Oòwi©cim;ul. Wi©´ni¢w Oòwi©cimia 1;50.034167;19.200556
+468;MpPiwnicWSSERyne1004;;Piwniczna Rynek 2;MpPiwnicWSSERyne1004;08.03.2004;31.12.2005;tào;miejski;w budynku;MAùOPOLSKIE;Piwniczna;ul. Rynek 2;49.437500;20.708611
+469;MpPiwnZdrojoMOB;PL0645A;Piwniczna-Zdr¢j, ul. Zdrojowa;MpPiwnZdrojoMOB;01.01.2016;31.12.2016;tào;miejski;mobilna;MAùOPOLSKIE;Piwniczna;ul. Zdrojowa;49.444056;20.719889
+470;MpProszoWIOS3Maj1402;;Proszowice UmiG;MpProszoWIOS3Maj1402;01.01.2002;31.12.2003;tào;miejski;w budynku;MAùOPOLSKIE;Proszowice;ul. 3 maja 72;50.188056;20.290000
+471;MpProszWIOSKrol1404;PL0120A;Proszowice, ul. Kr¢lewska;MpProszWIOSKrol1404;16.12.2004;31.12.2014;tào;miejski;wolnostoj•cy pobornik pyàu;MAùOPOLSKIE;Proszowice;ul. Kr¢lewska 72;50.192181;20.299711
+472;MpRabkaOrkan;PL0672A;Rabka-Zdr¢j, ul. Orkana;MpRabkaOrkan;01.01.2017;;tào;miejski;wolnostoj•cy pobornik pyàu;MAùOPOLSKIE;Rabka-Zdr¢j;Orkana;49.608647;19.966008
+473;MpRabkaWIOSChop1113;PL0631A;Rabka-Zdr¢j, ul. Chopina;MpRabkaWIOSChop1113;01.01.2014;31.12.2014;tào;miejski;mobilna;MAùOPOLSKIE;Rabka-Zdr¢j;ul. Chopina;49.608753;19.965894
+474;MpRabkaWIOSRudn1112;PL0480A;Rabka ul. Rudnika;MpRabkaWIOSRudn1112;01.01.2009;31.12.2009;tào;miejski;mobilna;MAùOPOLSKIE;Rabka-Zdr¢j;ul. prof. Rudnika;49.603611;19.967500
+475;MpRabkaWSSEOrka1105;;Rabka Orkana;MpRabkaWSSEOrka1105;01.01.2004;31.01.2007;tào;miejski;w budynku;MAùOPOLSKIE;Rabka-Zdr¢j;ul. Orkana 28;-999;-999
+476;MpSkawOsOgro;PL0273A;Skawina, os. Ogrody;MpSkawinWIOSOsie0606;01.01.2003;;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Skawina;os. Ogrody;49.971047;19.830422
+477;MpSlomWolnosMOB;PL0616A;Sàomniki, ul. Wolnoòci;MpSlomniWIOSWoln0611;01.01.2015;31.12.2015;tào;miejski;mobilna;MAùOPOLSKIE;Sàomniki;ul. Wolnoòci;50.243442;20.082194
+478;MpSuchaBWIOSHand1512;PL0551A;Sucha Beskidzka, ul. Handlowa;MpSuchaBWIOSHand1512;16.09.2011;31.12.2014;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Sucha Beskidzka;ul. Handlowa;49.740644;19.588325
+479;MpSuchaNiesz;PL0646A;Sucha Beskidzka, ul. Nieszczy‰skiej;MpSuchaNiesz;10.06.2017;;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Sucha Beskidzka;ul. Nieszczy‰skiej;49.743131;19.600339
+480;MpSuchaWIOSBeni1501;;Sucha Beskidzka Beniowskiego;MpSuchaWIOSBeni1501;01.01.2002;31.12.2002;tào;miejski;BRAK DANYCH;MAùOPOLSKIE;Sucha Beskidzka;ul. Beniowskiego 2;-999;-999
+481;MpSuchaWIOSMick1502;;Sucha Beskidzka Mickiewicza LOK;MpSuchaWIOSMick1502;01.01.2003;31.12.2003;tào;miejski;w budynku;MAùOPOLSKIE;Sucha Beskidzka;ul. Miskiewicza 9;49.738333;19.592778
+482;MpSuchSemika;PL0617A;Sucha Beskidzka, ul. Semika;MpSuchaBWIOSSemi1513;01.01.2015;31.12.2015;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Sucha Beskidzka;ul. Semika;49.740711;19.592275
+483;MpSzarowSpok;PL0618A;Szar¢w, ul. Spokojna;MpSzarowWIOS1909;04.05.2015;;tào;podmiejski;kontenerowa stacjonarna;MAùOPOLSKIE;Szar¢w;ul. Spokojna;50.007500;20.259167
+484;MpSzarowWIOS1901;;Szar¢w1901;MpSzarowWIOS1901;01.01.2002;31.12.2002;tào;podmiejski;BRAK DANYCH;MAùOPOLSKIE;Szar¢w;ul. Szar¢w 241;-999;-999
+485;MpSzarowWIOS1908;PL0487A;Szar¢w;MpSzarowWIOS1908;01.01.2009;31.12.2015;tào;podmiejski;w budynku;MAùOPOLSKIE;Szar¢w;;50.007014;20.258475
+486;MpSzczawJanaMOB;PL0619A;Szczawnica, ul. Jana Wiktora;MpSzczawWIOSSzal1116;01.01.2015;31.12.2015;tào;miejski;mobilna;MAùOPOLSKIE;Szczawnica;ul. Jana Wiktora;49.425886;20.484947
+487;MpSzymbaGorl;PL0121A;Szymbark;MpSzymbaWIOS0507;01.11.2004;;tào;pozamiejski;kontenerowa stacjonarna;MAùOPOLSKIE;Szymbark;Szymbark 430;49.633714;21.116833
+488;MpTarBitStud;PL0502A;Tarn¢w, ul. Bitwy pod Studziankami;MpTarnowWIOSBitw6304;01.01.2010;;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Tarn¢w;ul. Bitwy pod Studziankami;50.020169;21.004167
+489;MpTarnowWIOSSoli6303;PL0122A;Tarn¢w Al. Solidarnoòci;MpTarnowWIOSSoli6303;01.01.2001;31.12.2009;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Tarn¢w;al. Solidarnoòci;50.016111;20.983611
+490;MpTarnowWSSEMosc6301;;Tarn¢w ul.Moòcickiego 10;MpTarnowWSSEMosc6301;01.01.2001;31.12.2005;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Tarn¢w;ul. Moòcickiego 10;50.006667;20.975278
+491;MpTarnowWSSEWest6302;;Tarn¢w Westerplatte;MpTarnowWSSEWest6302;01.01.2003;31.12.2008;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Tarn¢w;ul. Westerplatte 10;50.023333;21.005000
+492;MpTarRoSitko;PL0647A;Tarn¢w, ul. Ks. Romana Sitko;MpTarRoSitko;01.01.2016;;komunikacyjna;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Tarn¢w;ul. Ks. Romana Sitko;50.018253;20.992578
+493;MpTrzebiWIOSPils0303;PL0123A;Trzebinia;MpTrzebiWIOSPils0303;23.01.2004;31.08.2010;przemysàowa;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Trzebinia;ul. Piàsudskiego;50.160833;19.472778
+494;MpTrzebOsZWM;PL0552A;Trzebinia, os. Zwi•zku Walki Màodych;MpTrzebiWIOSZWM0305;01.01.2010;;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Trzebinia;os. Zwi•zku Walki Màodych;50.159406;19.477464
+495;MpTuchChopin;PL0481A;Tuch¢w, ul. Chopina;MpTuchowWIOSSzop1602;01.01.2009;;tào;miejski;wolnostoj•cy pobornik pyàu;MAùOPOLSKIE;Tuch¢w;ul. Chopina;49.894169;21.051061
+496;MpWadowiWIOSPSka1805;PL0124A;Wadowice, os. Pod Skarp•;MpWadowiWIOSPSka1805;16.12.2004;31.12.2014;tào;miejski;wolnostoj•cy pobornik pyàu;MAùOPOLSKIE;Wadowice;os. Pod Skarp•;49.872761;19.497942
+497;MpWadowiWIOSPska1807;;wadowice mobilna;MpWadowiWIOSPska1807;01.01.2005;31.12.2008;tào;miejski;mobilna;MAùOPOLSKIE;Wadowice;os. Pod Skarp•;49.871944;19.498333
+498;MpWadowiWIOSTeat1802;;Wadowice Teatralna;MpWadowiWIOSTeat1802;01.01.2002;31.12.2003;tào;miejski;w budynku;MAùOPOLSKIE;Wadowice;ul. Teatralna 1;49.884722;19.489722
+499;MpWielDembowMOB;PL0648A;Wieliczka, ul. Dembowskiego;MpWielDembowMOB;01.01.2016;31.12.2016;tào;miejski;mobilna;MAùOPOLSKIE;Wieliczka;ul. Dembowskiego;49.988250;20.059000
+500;MpWielicWIOSOSP1902;;Wieliczka OSP;MpWielicWIOSOSP1902;01.01.2002;31.12.2003;tào;miejski;w budynku;MAùOPOLSKIE;Wieliczka;ul. OSP Plac Targowy;49.975833;20.057778
+501;MpWolbroWIOSFabr1204;;Wolbrom Fabryczna;MpWolbroWIOSFabr1204;01.01.2002;31.10.2003;tào;miejski;BRAK DANYCH;MAùOPOLSKIE;Wolbrom;ul. Fabryczna 46;-999;-999
+502;MpWysowaWSSE0502;;Uòcie Gorlickie Wysowa;MpWysowaWSSE0502;01.01.2000;31.12.2004;tào;pozamiejski;w budynku;MAùOPOLSKIE;Uòcie Gorlickie Wysowa;ul. Wysowa;49.424722;21.176389
+503;MpZabieWapie;PL0728A;Zabierz¢w, ul. Wapienna;MpZabieWapie;01.01.2019;;tào;miejski;wolnostoj•cy pobornik pyàu;MAùOPOLSKIE;Zabierz¢w;Wapienna;50.116028;19.800639
+504;MpZakopaSien;PL0126A;Zakopane, ul. Sienkiewicza;MpZakopaWIOSRown1701;01.04.2003;;tào;miejski;kontenerowa stacjonarna;MAùOPOLSKIE;Zakopane;ul. Sienkiewicza;49.293564;19.960083
+505;MzBelsIGFPAN;PL0014A;Belsk-IGFPAN;MzBelskIGFPAN;01.07.1991;;tào;pozamiejski;kontenerowa stacjonarna;MAZOWIECKIE;Belsk Duæy;Osiedle PAN 1;51.835242;20.791912
+506;MzBialaKmiciMOB;PL0712A;Biaàa-Kmicica;MzBialaKmiciMOB;01.01.2019;;przemysàowa;podmiejski;mobilna;MAZOWIECKIE;Biaàa;ul. Andrzeja Kmicica 33;52.602534;19.645100
+507;MzCiechSienkWSSE;;Ciechan¢w-Sienkiewicza;MzCiechSienkWSSE;01.07.1979;31.12.2006;tào;miejski;w budynku;MAZOWIECKIE;Ciechan¢w;ul. Sienkiewicza;52.882650;20.594756
+508;MzCiechStrazacka;PL0127A;Ciechan¢w-Straæacka;MzCiechStrazacka;01.07.1992;31.12.2014;tào;miejski;w budynku;MAZOWIECKIE;Ciechan¢w;ul. Straæacka 6;52.878436;20.613288
+509;MzGostMajaWSSE;;Gostynin-Maja;MzGostMajaWSSE;09.04.1998;31.12.2007;tào;miejski;w budynku;MAZOWIECKIE;Gostynin;ul. 3 Maja 17;52.425533;19.460439
+510;MzGranicaKPN;PL0128A;Granica-KPN;MzGranicaKPN;01.08.2003;;tào;pozamiejski;kontenerowa stacjonarna;MAZOWIECKIE;Granica;ul. Kampinoski Park Narodowy;52.285858;20.454653
+511;MzGrodziskWSSE;;Grodzisk Maz-Koòciuszki;MzGrodziskWSSE;01.01.2005;31.12.2007;tào;miejski;w budynku;MAZOWIECKIE;Grodzisk Mazowiecki;ul. Koòciuszki 32a;52.109081;20.625174
+512;MzGutyDuCzer;PL0649A;Guty Duæe;MzGutyDuCzer;01.01.2016;;tào;pozamiejski;kontenerowa stacjonarna;MAZOWIECKIE;Guty Duæe;Guty Duæe 4;52.943172;21.288167
+513;MzKonJezMos;PL0673A;Konstancin-Jeziorna-Wierzejewskiego;MzKonJezMos;01.01.2017;;tào;podmiejski;mobilna;MAZOWIECKIE;Konstancin-Jeziorna;Wierzejewskiego 12;52.080625;21.111186
+514;MzKonJezZrodWSSE;;Konstancin Jeziorna - çr¢dlana;MzKonJezZrodWSSE;15.06.1989;31.12.2006;tào;miejski;w budynku;MAZOWIECKIE;Konstancin-Jeziorna;ul. çr¢dlana 6/8;52.084541;21.113746
+515;MzKozienSwierWSSE;;Kozienice-ówierczewskiego;MzKozienSwierWSSE;01.01.1984;31.12.2003;tào;miejski;w budynku;MAZOWIECKIE;Kozienice;ul. ówierczewskiego 27;51.585630;21.545647
+516;MzLegionBronWSSE;;Legionowo-Broniewskiego;MzLegionBronWSSE;06.11.1991;31.12.2009;tào;miejski;w budynku;MAZOWIECKIE;Legionowo;ul. Broniewskiego 6;52.399686;20.927147
+517;MzLegZegrzyn;PL0129A;Legionowo-Zegrzy‰ska;MzLegionZegIMGW;01.08.2003;;tào;podmiejski;kontenerowa stacjonarna;MAZOWIECKIE;Legionowo;ul. Zegrzy‰ska 38;52.407578;20.955928
+518;MzMakMMickWSSE;;Mak¢w-Mazowiecki-Mickiewicza;MzMakMMickWSSE;01.01.1985;31.12.2006;tào;miejski;w budynku;MAZOWIECKIE;Mak¢w Mazowiecki;ul. Mickiewicza 31;52.864687;21.094026
+519;MzMinMazKaziMOB;PL0753A;Mi‰sk Mazowiecki-Kazikowskiego;MzMinMazKaziMOB;01.01.2019;;tào;miejski;mobilna;MAZOWIECKIE;Mi‰sk Mazowiecki;Zygmunta Kazikowskiego 18;52.178766;21.560968
+520;MzMinskKilinWSSE;PL0394A;Mi‰sk-Kili‰skiego;MzMinskKilinWSSE;01.01.2004;31.12.2009;tào;miejski;w budynku;MAZOWIECKIE;Mi‰sk Mazowiecki;ul. Kili‰skiego 10;52.179811;21.566510
+521;MzMinskKoscWSSE;;Mi‰sk-Koòciuszki;MzMinskKoscWSSE;01.01.1992;31.12.2003;tào;miejski;w budynku;MAZOWIECKIE;Mi‰sk Mazowiecki;ul. Koòciuszki 9;52.180470;21.558658
+522;MzMlawaMajaWSSE;;Màawa-Maja;MzMlawaMajaWSSE;01.01.1980;31.12.2006;tào;miejski;w budynku;MAZOWIECKIE;Màawa;ul. 1 Maja 6;53.112359;20.381051
+523;MzMlawOrdona;PL0516A;Màawa-Ordona;MzMlawaOrdona;01.01.2006;01.01.2018;tào;miejski;wolnostoj•cy pobornik pyàu;MAZOWIECKIE;Màawa;ul. Ordona 14;53.111908;20.371725
+524;MzNowDwChemWSSE;PL0130A;Nowy Dw¢r-Chemik¢w;MzNowDwChemWSSE;01.01.2004;31.12.2009;tào;miejski;w budynku;MAZOWIECKIE;Nowy Dw¢r Mazowiecki;ul. Chemik¢w;52.429424;20.724131
+525;MzOstMazSikorWSSE;PL0395A;Ostr¢w Mazowiecka-Sikorskiego;MzOstMazSikorWSSE;01.01.1980;31.12.2009;tào;miejski;w budynku;MAZOWIECKIE;Ostr¢w Mazowiecka;ul. Generaàa Sikorskiego 3;52.803259;21.890476
+526;MzOstroHalle;PL0620A;Ostroà©ka-Hallera;MzOstrolHallera;01.01.2015;;tào;miejski;wolnostoj•cy pobornik pyàu;MAZOWIECKIE;Ostroà©ka;gen. J. Hallera 12;53.083736;21.579322
+527;MzOstrolKoscWSSE;;Ostroà©ka-Koòciuszki;MzOstrolKoscWSSE;01.01.1982;31.12.2006;tào;miejski;w budynku;MAZOWIECKIE;Ostroà©ka;ul. Koòciuszki 19;53.085319;21.568983
+528;MzOstrolTargowa;PL0131A;Ostroà©ka-Targowa;MzOstrolTargowa;03.01.1994;31.12.2014;tào;miejski;wolnostoj•cy pobornik pyàu;MAZOWIECKIE;Ostroà©ka;ul. Targowa 4;53.084023;21.589205
+529;MzOtwoBrzozo;PL0539A;Otwock-Brzozowa;MzOtwockBrzoz;11.05.2010;;tào;podmiejski;kontenerowa stacjonarna;MAZOWIECKIE;Otwock;ul. Brzozowa 2;52.115725;21.237297
+530;MzOtwockBrzozWSSE;PL0132A;Otwock-BrzozowaWSSE;MzOtwockBrzozWSSE;02.01.1980;31.12.2009;tào;miejski;w budynku;MAZOWIECKIE;Otwock;ul. Brzozowa 2;52.115444;21.237658
+531;MzPiaseczDworWSSE;PL0133A;Piaseczno-Dworska;MzPiaseczDworWSSE;01.10.1981;31.12.2009;tào;miejski;w budynku;MAZOWIECKIE;Piaseczno;ul. Dworska;52.051445;21.005582
+532;MzPiasPulask;PL0134A;Piast¢w-Puàaskiego;MzPiastowPulask;01.08.2003;;tào;podmiejski;kontenerowa stacjonarna;MAZOWIECKIE;Piast¢w;ul. Puàaskiego 6/8;52.191728;20.837489
+533;MzPiastWarszWSSE;;Piast¢w-Warszawska;MzPiastWarszWSSE;04.01.1994;31.12.2003;przemysàowa;miejski;w budynku;MAZOWIECKIE;Piast¢w;ul. Warszawska 24;52.186581;20.843524
+534;MzPionkiSienWSSE;;Pionki-Sienkiewicza;MzPionkiSienWSSE;09.01.1995;31.12.2003;tào;miejski;w budynku;MAZOWIECKIE;Pionki;ul. Sienkiewicza 11;51.478028;21.451383
+535;MzPlockJasnaWSSE;;Pàock-Jasna;MzPlockJasnaWSSE;14.04.1986;31.12.2006;tào;miejski;w budynku;MAZOWIECKIE;Pàock;ul. Jasna 8;52.554005;19.667701
+536;MzPlockKolegWSSE;PL0135A;Pàock-Kolegialna;MzPlockKolegWSSE;27.02.2004;31.12.2009;tào;miejski;w budynku;MAZOWIECKIE;Pàock;ul. Kolegialna 20;52.542222;19.695556
+537;MzPlockKolodWSSE;;Pàock-Piasta Koàodzieja;MzPlockKolodWSSE;02.01.1990;31.12.2003;tào;miejski;w budynku;MAZOWIECKIE;Pàock;ul. Piasta Koàodzieja 4;52.550865;19.690580
+538;MzPlockLaczWSSE;;Pàock-ù•czniczek;MzPlockLaczWSSE;10.01.1991;31.12.2003;tào;miejski;w budynku;MAZOWIECKIE;Pàock;ul. ù•czniczek 14;52.539936;19.751334
+539;MzPlockOpsis;;Pàock-Opsis;MzPlockOpsis;27.02.1995;31.12.2006;komunikacyjna;miejski;w budynku;MAZOWIECKIE;Pàock;ul. Jachowicza 44;52.549779;19.691923
+540;MzPlockPiaskaWSSE;;Pàock-Piaska;MzPlockPiaskaWSSE;05.01.1987;31.12.2006;tào;miejski;w budynku;MAZOWIECKIE;Pàock;ul. Piaska 5;52.544338;19.724452
+541;MzPlockPKN1;PL0396A;Pàock-Trzepowo;MzPlockPKN1;01.12.1996;31.12.2009;przemysàowa;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Trzepowo;ul. Trzepowo 56;52.588800;19.724289
+542;MzPlockPKN2;PL0397A;Pàock-Maszewo;MzPlockPKN2;01.10.1994;31.12.2009;tào;pozamiejski;kontenerowa stacjonarna;MAZOWIECKIE;Maszewo Duæe;ul. Maszewo Duæe 154;52.584167;19.611400
+543;MzPlockPKN3;;Pàock-Cheàpowo;MzPlockPKN3;01.01.1993;31.12.2005;przemysàowa;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Cheàpowo;ul. Dàuga;52.567500;19.687500
+544;MzPlocKroJad;PL0398A;Pàock-Gimnazjum;MzPlockPKN;01.01.1993;;przemysàowa;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Pàock;ul. Kr¢lowej Jadwigi 4;52.556279;19.687672
+545;MzPlocMiReja;PL0136A;Pàock-Reja;MzPlockReja;01.08.2003;;tào;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Pàock;ul. Reja 28;52.550938;19.709791
+546;MzPlonskSienWSSE;;Pào‰sk-Sienkiewicza;MzPlonskSienWSSE;01.01.1987;31.12.2003;tào;miejski;w budynku;MAZOWIECKIE;Pào‰sk;ul. Sienkiewicza 7a;52.629778;20.375560
+547;MzPruszKraszeWSSE;PL0399A;Pruszk¢w-Kraszewskiego;MzPruszKraszeWSSE;01.01.2004;31.12.2009;tào;miejski;w budynku;MAZOWIECKIE;Pruszk¢w;ul. Kraszewskiego 14;52.162262;20.812831
+548;MzPruszMajWSSE;;Pruszk¢w-Majowa;MzPruszMajWSSE;01.10.1980;31.12.2003;tào;miejski;w budynku;MAZOWIECKIE;Pruszk¢w;ul. Majowa 14;52.171540;20.810253
+549;MzPultusKoscWSSE;;Puàtusk-Koòciuszki;MzPultusKoscWSSE;01.01.1987;31.12.2003;tào;miejski;w budynku;MAZOWIECKIE;Puàtusk;ul. Koòciuszki 16;52.709643;21.083912
+550;MzPultusMajaWSSE;;Puàtusk-Maja;MzPultusMajaWSSE;01.01.2004;31.12.2006;tào;miejski;w budynku;MAZOWIECKIE;Puàtusk;ul. 3 Maja 20;52.707685;21.084498
+551;MzRad25Czerw;PL0137A;Radom-Czerwca;MzRadomCz;01.07.2010;;tào;miejski;wolnostoj•cy pobornik pyàu;MAZOWIECKIE;Radom;ul. 25 Czerwca 1976 70;51.406080;21.166819
+552;MzRadHallera;PL0493A;Radom-Hallera;MzRadomHallera;23.06.2010;;tào;miejski;wolnostoj•cy pobornik pyàu;MAZOWIECKIE;Radom;ul. Hallera;51.415324;21.171285
+553;MzRadomAlekWSSE;;Radom-J¢zef¢w;MzRadomAlekWSSE;06.11.1987;31.12.2006;tào;miejski;w budynku;MAZOWIECKIE;Radom;ul. Aleksandrowicza 5;51.437739;21.161865
+554;MzRadomCzWSSE;;Radom-CzerwcaWSSE;MzRadomCzWSSE;01.01.2004;31.12.2009;tào;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Radom;ul. 25 Czerwca;51.400128;21.162633
+555;MzRadomLubonWSSE;;Radom-Lubo‰skiego;MzRadomLubonWSSE;22.01.1992;31.12.2003;tào;miejski;w budynku;MAZOWIECKIE;Radom;ul. Lubo‰skiego 2;51.390409;21.170235
+556;MzRadomPulask;;Radom-Puàaskiego;MzRadomPulask;22.04.1996;31.12.2006;tào;miejski;w budynku;MAZOWIECKIE;Radom;ul. Puàaskiego 9;51.425210;21.158278
+557;MzRadTochter;PL0138A;Radom-Tochtermana;MzRadomTochter;01.08.2003;;tào;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Radom;ul. Tochtermana 1;51.399084;21.147474
+558;MzSiedChrobWSSE;;Siedlce-Chrobrego;MzSiedChrobWSSE;01.01.1994;31.12.2003;tào;miejski;w budynku;MAZOWIECKIE;Siedlce;ul. Chrobrego 19;52.183080;22.275010
+559;MzSiedKonars;PL0538A;Siedlce-Konarskiego;MzSiedlceKonar;01.01.2012;;tào;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Siedlce;ul. Konarskiego 11;52.172145;22.282001
+560;MzSiedPodlasWSSE;;Siedlce-Podlaska;MzSiedPodlasWSSE;01.01.1990;31.12.2004;tào;miejski;w budynku;MAZOWIECKIE;Siedlce;ul. Podlaska 8;52.160795;22.255203
+561;MzSiedPoniatWSSE;;Siedlce-Poniatowskiego;MzSiedPoniatWSSE;01.01.2008;31.12.2009;tào;miejski;w budynku;MAZOWIECKIE;Siedlce;ul. Poniatowskiego 31;52.176298;22.288741
+562;MzSiedSienkWSSE;;Siedlce-Sienkiewicza;MzSiedSienkWSSE;03.01.1994;31.12.2004;tào;miejski;w budynku;MAZOWIECKIE;Siedlce;ul. Sienkiewicza 32;52.165962;22.278046
+563;MzSiedStarowWSSE;;Siedlce-Starowiejska;MzSiedStarowWSSE;01.01.1998;31.12.2003;tào;miejski;w budynku;MAZOWIECKIE;Siedlce;ul. Starowiejska 66;52.166475;22.292956
+564;MzSiedWoszczWSSE;;Siedlce-Woszczerowicza;MzSiedWoszczWSSE;01.01.2005;31.12.2007;tào;miejski;w budynku;MAZOWIECKIE;Siedlce;ul. Woszczerowicza 9;52.164444;22.279722
+565;MzSierpcPiastWSSE;;Sierpc-Piastowska;MzSierpcPiastWSSE;03.02.1987;31.12.2006;tào;miejski;w budynku;MAZOWIECKIE;Sierpc;ul. Piastowska 24;52.853175;19.666716
+566;MzSochPlocWSSE;PL0400A;Sochaczew-Pàocka;MzSochPlocWSSE;01.01.2004;31.12.2009;tào;miejski;w budynku;MAZOWIECKIE;Sochaczew;ul. Pàocka;52.231793;20.219171
+567;MzSochSierpWSSE;;Sochaczew-Sierpnia;MzSochSierpWSSE;01.01.2004;31.12.2005;tào;miejski;w budynku;MAZOWIECKIE;Sochaczew;ul. 15 Sierpnia 4;52.221772;20.234649
+568;MzSokPodSierpWSSE;;Sokoà¢w Podlaski-Sierpnia;MzSokPodSierpWSSE;01.01.1994;31.12.2003;tào;miejski;w budynku;MAZOWIECKIE;Sokoà¢w Podlaski;ul. 1 Sierpnia 1d;52.405721;22.234814
+569;MzTluszczJKiel;PL0139A;Tàuszcz-Kielaka;MzTluszczJKiel;01.08.2003;31.12.2010;tào;podmiejski;kontenerowa stacjonarna;MAZOWIECKIE;Tàuszcz;ul. Jana Kielaka 1;52.425833;21.429167
+570;MzWarAKrzywo;PL0214A;Warszawa-Anieli Krzywo‰;MzWarszAKrzywon;01.01.2011;;tào;miejski;wolnostoj•cy pobornik pyàu;MAZOWIECKIE;Warszawa;ul. Anieli Krzywo‰;52.228649;20.917513
+571;MzWarAKrzywWSSE;;Warszawa-Anieli Krzywo‰WSSE;MzWarAKrzywWSSE;01.01.2004;31.12.2009;tào;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Warszawa;ul. Anieli Krzywo‰;52.228649;20.917513
+572;MzWarAlNiepo;PL0140A;Warszawa-Komunikacyjna;MzWarNiepodKom;01.08.2003;;komunikacyjna;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Warszawa;al. Niepodlegàoòci 227/233;52.219298;21.004724
+573;MzWarBajkowa;PL0717A;Warszawa-Bajkowa;MzWarBajkowa;01.01.2019;;tào;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Warszawa;Bajkowa 17/21;52.188474;21.176233
+574;MzWarChrosci;PL0739A;Warszawa-Chroòcickiego;MzWarChrosci;01.01.2019;;tào;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Warszawa;Chroòcickiego 16/18;52.207742;20.906073
+575;MzWarKondrat;PL0143A;Warszawa-Targ¢wek;MzWarTarKondra;01.08.2003;;tào;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Warszawa;ul. Kondratowicza 8;52.290864;21.042458
+576;MzWarMarszal;PL0592A;Warszawa-Marszaàkowska;MzWarszMarsz;01.01.2013;31.12.2017;komunikacyjna;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Warszawa;ul. Marszaàkowska 68;52.225157;21.014803
+577;MzWarPodlesn;PL0044A;Warszawa-Podleòna;MzWarPodIMGW;30.09.2003;;tào;miejski;w budynku;MAZOWIECKIE;Warszawa;ul. Podleòna 61;52.280939;20.962156
+578;MzWarPorajow;PL0034A;Warszawa-Poraj¢w;MzWarszPorajow;01.01.1991;04.01.2016;przemysàowa;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Warszawa;ul. Poraj¢w 3;52.314516;20.958614
+579;MzWarPuszSol;PL0033A;Warszawa-Puszczy Solskiej;MzWarszPuszSolska;22.08.1998;04.01.2016;przemysàowa;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Warszawa;ul. Puszczy Solskiej 5;52.226408;20.908633
+580;MzWarszAlJerozol;;Warszawa-Aleje Jerozolimskie;MzWarszAlJerozol;01.01.1993;31.12.2004;tào;miejski;w budynku;MAZOWIECKIE;Warszawa;al. Jerozolimskie 30;52.231631;21.018900
+581;MzWarszArmLudWSSE;;Warszawa-Armii Ludowej;MzWarszArmLudWSSE;01.10.1989;31.12.2003;komunikacyjna;miejski;w budynku;MAZOWIECKIE;Warszawa;ul. Armii Ludowej 16;52.217723;21.011722
+582;MzWarszBednarWSSE;;Warszawa-Bednarska;MzWarszBednarWSSE;01.09.1976;31.12.2006;komunikacyjna;miejski;w budynku;MAZOWIECKIE;Warszawa;ul. Bednarska 2/4;52.245977;21.020429
+583;MzWarszBernWoda;PL0215A;Warszawa-Bernardy‰ska;MzWarszBernWoda;26.04.1996;31.12.2013;przemysàowa;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Warszawa;ul. Przy Bernardy‰skiej Wodzie 7;52.191733;21.051053
+584;MzWarszBialobWSSE;;Warszawa-Biaàobrzeska;MzWarszBialobWSSE;01.01.1994;31.12.2006;tào;miejski;w budynku;MAZOWIECKIE;Warszawa;ul. Biaàobrzeska 26;52.213226;20.973755
+585;MzWarszBorKomWSSE;PL0309A;Warszawa-Bora Komorowskiego;MzWarszBorKomWSSE;14.03.1995;31.12.2008;tào;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Warszawa;ul. Bora Komorowskiego 31;52.225194;21.087355
+586;MzWarszHertzaWSSE;;Warszawa-Hertza;MzWarszHertzaWSSE;02.01.1980;31.12.2003;tào;miejski;w budynku;MAZOWIECKIE;Warszawa;ul. Hertza 8;52.224538;21.152749
+587;MzWarszKochanWSSE;;Warszawa-Kochanowskiego;MzWarszKochanWSSE;02.01.1980;31.12.2003;tào;miejski;w budynku;MAZOWIECKIE;Warszawa;ul. Kochanowskiego 21;52.267161;20.949530
+588;MzWarszKrucza;PL0010A;Warszawa-Krucza;MzWarszKrucza;01.01.1990;31.12.2013;tào;miejski;w budynku;MAZOWIECKIE;Warszawa;ul. Krucza 5/11;52.224583;21.019039
+589;MzWarszLazurowa;;Warszawa - Lazurowa;MzWarszLazurowa;01.11.1991;31.12.2008;przemysàowa;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Warszawa;ul. Lazurowa;52.220278;20.897500
+590;MzWarszOskLanWSSE;;Warszawa-Oskara Lange;MzWarszOskLanWSSE;01.01.1996;31.12.2003;tào;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Warszawa;ul. Oskara Lange;52.181540;21.008873
+591;MzWarszSGGW;PL0274A;Warszawa-Nowoursynowska;MzWarszSGGW;01.02.2001;31.12.2012;tào;miejski;w budynku;MAZOWIECKIE;Warszawa;ul. Nowoursynowska 166;52.160556;21.047778
+592;MzWarszSuwalWSSE;;Warszawa-Suwalska;MzWarszSuwalWSSE;03.04.1995;31.12.2003;tào;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Warszawa;ul. Suwalska 14;52.295469;21.029065
+593;MzWarszZelazWSSE;PL0142A;Warszawa-Ωelazna;MzWarszZelazWSSE;01.09.1976;31.12.2009;tào;miejski;w budynku;MAZOWIECKIE;Warszawa;ul. Ωelazna 79;52.237499;20.987930
+594;MzWarTolstoj;PL0308A;Warszawa-Toàstoja;MzWarszBielany;15.05.2000;;tào;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Warszawa;ul. Toàstoja 2;52.285073;20.933018
+595;MzWarWokalna;PL0141A;Warszawa-Ursyn¢w;MzWarszUrsynow;01.08.2003;;tào;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Warszawa;ul. Wokalna 1;52.160772;21.033819
+596;MzWarZeganWSSE;PL0216A;Warszawa-Ωega‰ska;MzWarZeganWSSE;01.01.2004;31.12.2009;tào;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Warszawa;ul. Ωega‰ska;52.205769;21.169522
+597;MzWolOgrodowa;PL0404A;Woàomin-Ogrodowa;MzWolOgrodowa;20.09.2010;23.04.2013;tào;miejski;w budynku;MAZOWIECKIE;Woàomin;ul. Ogrodowa 4;52.344675;21.239511
+598;MzWolomLegionWSSE;;Woàomin-Legion¢w;MzWolomLegionWSSE;03.01.2000;31.12.2006;tào;miejski;w budynku;MAZOWIECKIE;Woàomin;ul. Legion¢w 78;52.338759;21.241824
+599;MzWyszDaszynWSSE;;Wyszk¢w-Daszy‰skiego;MzWyszDaszynWSSE;01.01.1982;31.12.2006;tào;miejski;w budynku;MAZOWIECKIE;Wyszk¢w;ul. Daszy‰skiego 28;52.593993;21.458079
+600;MzZwolenWSSE;;Zwole‰-Koòciuszki;MzZwolenWSSE;01.01.2004;31.12.2006;tào;miejski;w budynku;MAZOWIECKIE;Zwole‰;ul. Koòciuszki 11;51.355810;21.578566
+601;MzZyrardMoniuszWSSE;;Ωyrard¢w-Moniuszki;MzZyrardMoniuszWSSE;30.05.1988;31.12.2006;tào;miejski;w budynku;MAZOWIECKIE;Ωyrard¢w;ul. Moniuszki 40;52.057147;20.450546
+602;MzZyraRoosev;PL0144A;Ωyrard¢w-Roosevelta;MzZyrardRoosevel;01.08.2003;;tào;miejski;kontenerowa stacjonarna;MAZOWIECKIE;Ωyrard¢w;ul. Roosevelta 2;52.053811;20.429892
+603;OpBrzeg101;PL0405A;Brzeg manualna 101;OpBrzeg101;13.12.1978;31.12.2009;tào;miejski;w budynku;OPOLSKIE;Brzeg;ul. Armii Krajowej 22;50.857500;17.463611
+604;OpGlubKochan;PL0217A;Gàubczyce manualna 1;OpGlub1pyl;01.01.2005;01.01.2016;tào;miejski;wolnostoj•cy pobornik pyàu;OPOLSKIE;Gàubczyce;ul. Kochanowskiego 23;50.200942;17.816453
+605;OpGlubRatusz;PL0650A;Gàubczyce manualna;OpGlubRatusz;01.01.2016;;tào;miejski;wolnostoj•cy pobornik pyàu;OPOLSKIE;Gàubczyce;ul. Ratuszowa 9;50.200778;17.83051
+606;OpGora12728;;G¢ra ów. Anny lokalna 12728;OpGora12728;31.12.1991;30.06.2006;BRAK DANYCH;pozamiejski;kontenerowa stacjonarna;OPOLSKIE;G¢ra ów. Anny;ul. Leònicka;50.451667;18.163333
+607;OpJanusz12394;;Januszkowice lokalna 12394;OpJanusz12394;27.11.1990;30.06.2006;BRAK DANYCH;pozamiejski;kontenerowa stacjonarna;OPOLSKIE;Januszkowice;ul. Pi©kna;50.395833;18.138333
+608;OpKKozBSmial;PL0218A;K-Ko´le automat 1;OpKkozle1a;01.01.2005;;tào;miejski;kontenerowa stacjonarna;OPOLSKIE;K©dzierzyn-Ko´le;ul. Bolesàawa ómiaàego 5;50.349608;18.236575
+609;OpKkozle243;;K-Ko´le manualna 243;OpKkozle243;10.10.2001;31.12.2004;tào;miejski;w budynku;OPOLSKIE;K©dzierzyn-Ko´le;ul. Chrobrego 28;50.338333;18.134167
+610;OpKkozle61;;K-Ko´le manualna 61;OpKkozle61;10.01.1980;31.12.2005;tào;miejski;w budynku;OPOLSKIE;K©dzierzyn-Ko´le;ul. Anny 14;50.334444;18.147222
+611;OpKkozleSP10;;K-Ko´le BASKI-SP10;OpKkozleSP10;01.01.2004;31.12.2004;przemysàowa;miejski;kontenerowa stacjonarna;OPOLSKIE;K©dzierzyn-Ko´le;ul. Ksi•æ•t Opolskich;50.369444;18.327778
+612;OpKkozleSP3;;K-Ko´le BASKI-SP3;OpKkozleSP3;01.01.2004;31.12.2004;przemysàowa;miejski;kontenerowa stacjonarna;OPOLSKIE;K©dzierzyn-Ko´le;ul. Przodownik¢w Pracy;50.323611;18.251389
+613;OpKkozleSP7;;K-Ko´le BASKI-SP7;OpKkozleSP7;01.01.2004;31.12.2004;tào;miejski;kontenerowa stacjonarna;OPOLSKIE;K©dzierzyn-Ko´le;ul. Gagarina;50.344444;18.227778
+614;OpKlucz227;PL0145A;Kluczbork manualna 227;OpKlucz227;01.01.2004;31.12.2009;tào;miejski;w budynku;OPOLSKIE;Kluczbork;ul. Rynek_ratusz;50.973056;18.214167
+615;OpKlucz235;PL0406A;Kluczbork manualna 235;OpKlucz235;15.07.2002;31.12.2009;tào;miejski;w budynku;OPOLSKIE;Kluczbork;ul. Jagiello‰ska 3;50.974444;18.217508
+616;OpKluczMicki;PL0517A;Kluczbork manualna 2;OpKlucz2pyl;06.08.2010;;tào;miejski;wolnostoj•cy pobornik pyàu;OPOLSKIE;Kluczbork;ul. Mickiewicza 10;50.972181;18.207575
+617;OpNamys2pyl;PL0219A;Namysà¢w manualna 2;OpNamys2pyl;01.01.2005;05.08.2010;tào;miejski;BRAK DANYCH;OPOLSKIE;Namysà¢w;ul. Maria‰ska 2;51.072222;17.718889
+618;OpNysa237;;Nysa manualna 237;OpNysa237;01.01.2001;31.12.2009;tào;miejski;w budynku;OPOLSKIE;Nysa;ul. Tkacka 2;50.473611;17.333556
+619;OpNysaRodzie;PL0593A;Nysa manualna 3;OpNysa3pyl;28.10.2013;;tào;miejski;wolnostoj•cy pobornik pyàu;OPOLSKIE;Nysa;ul. Rodziewicz¢wny 1;50.458989;17.331906
+620;OpOlesno3pyl;PL0220A;Olesno manualna 3;OpOlesno3pyl;01.01.2005;01.04.2011;tào;miejski;BRAK DANYCH;OPOLSKIE;Olesno;ul. Solny Rynek 1;50.876389;18.418611
+621;OpOlesSlowac;PL0553A;Olesno automat 4;OpOlesno4a;01.11.2011;;tào;miejski;kontenerowa stacjonarna;OPOLSKIE;Olesno;ul. Sàowackiego;50.876983;18.416878
+622;OpOpole244;;Opole manualna 244;OpOpole244;12.01.2002;31.12.2003;tào;miejski;w budynku;OPOLSKIE;Opole;ul. Sosnkowskiego 40-42;50.682222;17.946111
+623;OpOpole246;PL0146A;Opole manualna 246;OpOpole246;01.01.2004;31.12.2009;tào;miejski;BRAK DANYCH;OPOLSKIE;Opole;ul. Oleska 64;50.675278;17.937222
+624;OpOpole45;;Opole manualna 45;OpOpole45;10.02.2003;31.12.2006;tào;miejski;w budynku;OPOLSKIE;Opole;ul. Mickiewicza 1;50.666111;17.937778
+625;OpOpole45p;;Opole manualna 45p;OpOpole45p;01.01.2002;31.12.2004;tào;miejski;w budynku;OPOLSKIE;Opole;ul. Mickiewicza 1;50.666111;17.937778
+626;OpOpoleKoszy;PL0674A;Opole automat 5;OpOpoleKoszy;01.01.2017;;tào;miejski;kontenerowa stacjonarna;OPOLSKIE;Opole;ul. Koszyka 21;50.666736;17.899137
+627;OpOpoleMinor;PL0221A;Opole automat 3;OpOpole3a;01.01.2005;31.12.2016;tào;miejski;kontenerowa stacjonarna;OPOLSKIE;Opole;ul. Minoryt¢w;50.666961;17.922797
+628;OpOpoleOsAKr;PL0494A;Opole manualna 4;OpOpole4pyl;01.01.2010;;tào;miejski;wolnostoj•cy pobornik pyàu;OPOLSKIE;Opole;os. Armii Krajowej;50.676856;17.950278
+629;OpPrud189;PL0407A;Prudnik manualna 189;OpPrud189;15.03.1991;31.12.2009;tào;miejski;w budynku;OPOLSKIE;Prudnik;ul. Klasztorna 4;50.321111;17.577500
+630;OpPrud189p;;Prudnik manualna 189p;OpPrud189p;01.06.2001;31.12.2007;tào;miejski;w budynku;OPOLSKIE;Prudnik;ul. Klasztorna 4;50.321111;17.577778
+631;OpPrudPodgor;PL0719A;Prudnik mobilna;OpPrudPodgor;01.01.2019;;tào;miejski;mobilna;OPOLSKIE;Prudnik;ul. Podg¢rna 5;50.320858;17.591909
+632;OpSkozleSP5;;K-Ko´le BASKI-SP5;OpSkozleSP5;01.01.2004;31.12.2004;przemysàowa;pozamiejski;kontenerowa stacjonarna;OPOLSKIE;Stare Ko´le;ul. Szkolna;50.306944;18.219444
+633;OpStrzel239;;Strzelce manualna 239;OpStrzel239;01.01.2000;31.12.2004;tào;miejski;w budynku;OPOLSKIE;Strzelce Opolskie;ul. Krakowska 19;50.509444;18.303611
+634;OpStrzel247;PL0408A;Strzelce manualna 247;OpStrzel247;01.01.2005;31.12.2009;tào;miejski;w budynku;OPOLSKIE;Strzelce Opolskie;ul. Piàsudskiego 20;50.513889;18.303892
+635;OpZdze12392;PL0409A;Zdzieszowice lokalna 12392;OpZdze12392;27.11.1990;31.12.2008;tào;miejski;kontenerowa stacjonarna;OPOLSKIE;Zdzieszowice;ul. Sienkiewicza;50.435278;18.132514
+636;OpZdziePiast;PL0222A;Zdzieszowice automat 2;OpZdze2a;01.01.2005;;tào;miejski;kontenerowa stacjonarna;OPOLSKIE;Zdzieszowice;ul. Piast¢w 6;50.423533;18.120739
+637;PdAugSzpitalna;;August¢w ul.Szpitalna 12;PdAugSzpitalna;01.01.1994;31.12.2002;tào;miejski;w budynku;PODLASKIE;August¢w;ul. Szpitalna 12;53.851342;22.993628
+638;PdAugustoZdrMOB;PL0675A;August¢w - mobilne;PdAugustoZdrMOB;01.01.2017;31.12.2019;tào;miejski;mobilna;PODLASKIE;August¢w;ul. Zdrojowa;53.859528;23.000750
+639;PdBialPulPie;PL0149A;Biaàystok-Podmiejska;PdBialyPodmiejska;01.09.2004;21.12.2017;tào;podmiejski;kontenerowa stacjonarna;PODLASKIE;Biaàystok;ul. 42 Puàku Piechoty;53.138614;23.229903
+640;PdBialWarsza;PL0496A;Biaàystok-Warszawska;PdBialyWarszawska;01.01.2010;;tào;miejski;kontenerowa stacjonarna;PODLASKIE;Biaàystok;ul. Warszawska 75 A;53.129306;23.181744
+641;PdBialWaszyn;PL0148A;Biaàystok-Miejska;PdBialyMiejska;01.09.2004;;tào;miejski;kontenerowa stacjonarna;PODLASKIE;Biaàystok;ul. Waszyngtona 16;53.126689;23.155869
+642;PdBialyBroniewsk;;Bialystok ul. Broniewskiego 1;PdBialyBroniewsk;01.01.1994;31.12.2002;tào;miejski;w budynku;PODLASKIE;Biaàystok;ul. Broniewskiego 1;53.140469;23.134272
+643;PdBialyLegionowa;;Biaàystok ul Legionowa 8;PdBialyLegionowa;01.01.1998;31.12.2003;tào;miejski;w budynku;PODLASKIE;Biaàystok;ul. Legionowa 8;53.130933;23.159853
+644;PdBialyLegionowa8;PL0147A;BIAùYSTOK LEGIONOWA 8 POSESJA;PdBialyLegionowa8;01.11.2003;31.12.2009;tào;miejski;kontenerowa stacjonarna;PODLASKIE;Biaàystok;ul. Legionowa 8;53.131111;23.158889
+645;PdBialyPorzeczkowa;;Biaàystok ul Porzeczkowa 11;PdBialyPorzeczkowa;01.01.1994;31.12.2002;tào;miejski;w budynku;PODLASKIE;Biaàystok;ul. Porzeczkowa 11;53.151186;23.119169
+646;PdBialyWarszaw;;Biaàystok ul. Warszawska 57 A;PdBialyWarszaw;01.01.1983;31.12.2002;tào;miejski;w budynku;PODLASKIE;Biaàystok;ul. Warszawska 57 A;53.131078;23.174142
+647;PdBiePodKosciuszki;;Bielsk Podlaski ul Koòciuszki 16;PdBiePodKosciuszki;01.01.1994;31.12.2002;tào;miejski;w budynku;PODLASKIE;Bielsk Podlaski;ul. Koòciuszki 16;52.769472;23.187025
+648;PdBorsukowiz;PL0150A;Borsukowizna-Wiejska;PdBorsuWiejska;01.09.2004;;tào;pozamiejski;kontenerowa stacjonarna;PODLASKIE;Borsukowizna;;53.215492;23.642153
+649;PdGrajewKonsty3M;;Grajewo ul Konstytucji 3 Maja 3;PdGrajewKonsty3M;02.01.1995;31.12.2002;tào;miejski;w budynku;PODLASKIE;Grajewo;ul. Konstytucji 3 Maja 3;53.643994;22.461244
+650;PdGrajNowickiego;;Grajewo - lab. mobilne;PdGrajNowickiego;01.01.2005;31.12.2005;tào;miejski;mobilna;PODLASKIE;Grajewo;ul. T. Nowickiego;53.648508;22.450900
+651;PdHajnowkJagMOB;PL0651A;Hajn¢wka-mobilne;PdHajnowkJagMOB;01.01.2015;31.12.2016;tào;miejski;mobilna;PODLASKIE;Hajn¢wka;ul. Wàadysàawa Jagieàày;52.739528;23.586139
+652;PdLomSikorsk;PL0151A;Lomza Sikorskiego 48/94;PdLomzaSikorskiego;01.01.2002;;tào;miejski;kontenerowa stacjonarna;PODLASKIE;ùomæa;ul. Sikorskiego 48/94;53.181394;22.054381
+653;PdLomzaKopernika16;;Lomza Kopernika16;PdLomzaKopernika16;01.07.1996;30.04.2004;tào;miejski;w budynku;PODLASKIE;ùomæa;ul. Kopernika;53.174836;22.075947
+654;PdLomzaSadowa;;ùomæa ul Sadowa 3;PdLomzaSadowa;02.01.1994;31.12.2002;tào;miejski;w budynku;PODLASKIE;ùomæa;ul. Sadowa 3;53.177778;22.082500
+655;PdSiemPilsudskiego;;Siemiatycze - lab. mobilne;PdSiemPilsudskiego;18.01.2008;31.12.2008;tào;miejski;mobilna;PODLASKIE;Siemiatycze;ul. Piàsudskiego;52.423019;22.863833
+656;PdSokol1Maja;;Sok¢àka ul 1- go Maja 13;PdSokol1Maja;03.01.1991;31.12.2002;tào;miejski;w budynku;PODLASKIE;Sok¢àka;ul. 1 Maja 13;53.404722;23.499444
+657;PdSuw1Maja;;Suwaàki ul. 1 - go Maja 12;PdSuw1Maja;01.01.1994;31.12.2002;tào;miejski;w budynku;PODLASKIE;Suwaàki;ul. 1 Maja;54.099675;22.935967
+658;PdSuwPulaski;PL0152A;Suwaàki, ul. Puàaskiego 73;PdSuwPulaski;18.03.1992;31.12.2017;tào;miejski;kontenerowa stacjonarna;PODLASKIE;Suwaàki;ul. Puàaskiego;54.117878;22.934608
+659;PdSuwPulaskp;PL0706A;Suwaàki, ul. Puàaskiego 26;PdSuwPulaskp;01.08.2018;;tào;miejski;kontenerowa stacjonarna;PODLASKIE;Suwaàki;ul. Puàaskiego 26;54.116056;22.938750
+660;PdZambObronZamb;;Zambr¢w ul Obro‰c¢w Zambrowa 50;PdZambObronZamb;02.01.1997;31.12.2002;tào;miejski;w budynku;PODLASKIE;Zambr¢w;ul. Obro‰c¢w Zambrowa 50;52.985556;22.253333
+661;PkCzarnaWSSENafGaz;PL0153A;Czarna-OòrNaftaGaz-WSSE;PkCzarnaWSSENafGaz;01.01.1994;31.12.2006;tào;pozamiejski;w budynku;PODKARPACKIE;Czarna;ul. Oòrodek Wyp-Szkol Nafta-Gaz;49.308889;22.663903
+662;PkDebicaWSSEParkow;PL0154A;D©bica-Parkowa-WSSE;PkDebicaWSSEParkow;01.01.1999;31.12.2009;tào;miejski;w budynku;PODKARPACKIE;D©bica;ul. Parkowa 2;50.046667;21.402222
+663;PkDebiGrottg;PL0621A;D©bica-Grottgera-WIOS;PkDebicaWIOSGrottgera;01.01.2015;;tào;miejski;wolnostoj•cy pobornik pyàu;PODKARPACKIE;D©bica;Grottgera 3;50.054786;21.416256
+664;PkGorzycWSSEKEN;;Gorzyce-KEN-WSSE;PkGorzycWSSEKEN;07.01.1991;31.12.2002;przemysàowa;miejski;w budynku;PODKARPACKIE;Gorzyce;ul. Komisji Edukacji Narodowej;50.657792;21.845280
+665;PkHorZdrParkMOB;PL0716A;Horyniec-Zdr¢j-Park;PkHorZdrParkMOB;01.01.2019;30.12.2019;tào;podmiejski;mobilna;PODKARPACKIE;Horyniec-Zdr¢j;aleja Przyja´ni;50.192100;23.361425
+666;PkHorZdrWSSESobies;PL0155A;Horyniec-Zdr¢j-Sobieskiego-WSSE;PkHorZdrWSSESobies;01.01.1979;31.12.2009;tào;pozamiejski;w budynku;PODKARPACKIE;Horyniec-Zdr¢j;ul. Sobieskiego 60;50.189167;23.362222
+667;PkIwonZdrRab;PL0676A;Iwonicz-Zdr¢j-WIOS;PkIwonZdrRab;01.01.2017;;tào;podmiejski;wolnostoj•cy pobornik pyàu;PODKARPACKIE;Iwonicz-Zdr¢j;Ksi©dza R•ba;49.565183;21.791308
+668;PkIwZdrWSSEToros;;IwoniczZdr-Torosiewicza-WSSE;PkIwZdrWSSEToros;01.01.1986;31.12.2006;tào;miejski;w budynku;PODKARPACKIE;Iwonicz-Zdr¢j;ul. Torosiewicza 2;49.561388;21.788880
+669;PkJarosPruch;PL0554A;Jarosàaw-PWSTE-WIOS;PkJarosWIOSPWSTE;01.01.2012;;tào;miejski;wolnostoj•cy pobornik pyàu;PODKARPACKIE;Jarosàaw;Pruchnicka;50.012083;22.674772
+670;PkJarosWIOSJanPawII;PL0410A;Jarosàaw-JanaPawàaII-WIOS;PkJarosWIOSJanPawII;01.09.2007;31.12.2010;tào;miejski;rozproszona;PODKARPACKIE;Jarosàaw;ul. Jana Pawàa II;50.015833;22.672778
+671;PkJarosWSSE3Maja;PL0411A;Jarosàaw - 3 Maja -WSSE;PkJarosWSSE3Maja;01.01.2008;31.12.2009;tào;miejski;w budynku;PODKARPACKIE;Jarosàaw;ul. 3 Maja;50.013333;22.693056
+672;PkJarosWSSEGrunw;PL0156A;Jarosàaw-Grunwaldzka-WSSE;PkJarosWSSEGrunw;01.01.2002;31.12.2009;tào;miejski;w budynku;PODKARPACKIE;Jarosàaw;ul. Grunwaldzka 7;50.016389;22.680278
+673;PkJasloSikor;PL0518A;Jaslo-Sikorskiego-WIOS;PkJasloWIOSSikorskiego;01.08.2009;;tào;miejski;kontenerowa stacjonarna;PODKARPACKIE;Jasào;Sikorskiego;49.744886;21.454617
+674;PkJasloWIOSFabr;PL0412A;Jasào-Fabryczna-WIOS;PkJasloWIOSFabr;11.09.2007;31.07.2009;tào;miejski;mobilna;PODKARPACKIE;Jasào;ul. Fabryczna;49.754444;21.541117
+675;PkJasloWIOSFlor;PL0157A;Jasào-Floria‰ska-WIOS;PkJasloWIOSFlor;01.03.2003;31.12.2011;tào;miejski;w budynku;PODKARPACKIE;Jasào;ul. Floria‰ska 108;49.739167;21.482778
+676;PkJasloWIOSFlor2;PL0275A;Jasào-Floria‰ska-WIOS2;PkJasloWIOSFlor2;04.08.2006;31.12.2010;tào;miejski;kontenerowa stacjonarna;PODKARPACKIE;Jasào;ul. Floria‰ska 108;49.739444;21.482222
+677;PkJasloWIOSMickiew;;Jasào-Mickiewicza-WIOS;PkJasloWIOSMickiew;01.01.1993;31.12.2003;tào;miejski;w budynku;PODKARPACKIE;Jasào;ul. Mickiewicza;49.748056;21.463889
+678;PkJasloWSSE3Maja;;Jasào-3Maja-WSSE;PkJasloWSSE3Maja;01.01.1984;31.12.2003;tào;miejski;w budynku;PODKARPACKIE;Jasào;ul. 3 Maja 68;49.739444;21.483056
+679;PkJasloWSSEFloria;;Jasào-Floria‰ska-WSSE;PkJasloWSSEFloria;01.01.1988;31.12.2003;tào;miejski;w budynku;PODKARPACKIE;Jasào;ul. Floria‰ska 108;49.747500;21.471667
+680;PkJasloWSSEKoralew;;Jasào-Koralewskiego-WSSE;PkJasloWSSEKoralew;01.01.1997;31.08.2005;tào;miejski;w budynku;PODKARPACKIE;Jasào;ul. Koralewskiego 13;49.747222;21.471389
+681;PkJasloWSSESrocz;;Jasào-Sroczy‰skiego-WSSE;PkJasloWSSESrocz;01.01.1998;31.12.2006;tào;miejski;w budynku;PODKARPACKIE;Jasào;ul. Sroczy‰skiego;49.751944;21.482778
+682;PkKolbWSSETyszk;;Kobuszowa-Tyszkiew-WSSE;PkKolbWSSETyszk;18.04.2000;31.12.2002;tào;miejski;w budynku;PODKARPACKIE;Kolbuszowa;ul. Tyszkiewicz¢w 5;50.248056;21.778889
+683;PkKomanWSSEOsZdr;;Koma‰cza-OòrodekZdr-WSSE;PkKomanWSSEOsZdr;01.01.1993;31.12.2006;tào;pozamiejski;w budynku;PODKARPACKIE;Koma‰cza;ul. Oòrodek Zdrowia;49.336111;22.068889
+684;PkKrempnaMPN;PL0622A;Krempna-MPN-WIOS;PkKrempnaWIOSMPN;06.10.2014;;tào;pozamiejski;kontenerowa stacjonarna;PODKARPACKIE;Krempna;;49.511297;21.498606
+685;PkKrempWIOSGrab;;Grab-WIOó;PkKrempWIOSGrab;01.01.1996;30.04.2004;tào;pozamiejski;w budynku;PODKARPACKIE;Grab;ul. Grab;49.433611;21.445000
+686;PkKrosKletow;PL0413A;Krosno-Klet¢wki;PkKrosnoWIOSKletowki;01.01.2008;;tào;miejski;rozproszona;PODKARPACKIE;Krosno;Klet¢wki;49.690169;21.749700
+687;PkKrosnoWSSEKisiel;;Krosno-Kisielewskiego-WSSE;PkKrosnoWSSEKisiel;01.01.1992;31.12.2004;tào;miejski;w budynku;PODKARPACKIE;Krosno;ul. Kisielewskiego 12;49.683889;21.755278
+688;PkKrosnoWSSEKisielewskiego;PL0257A;Krosno-Kisielewskiego;PkKrosnoWSSEKisielewskiego;01.01.2006;31.12.2009;tào;miejski;w budynku;PODKARPACKIE;Krosno;ul. Kisielewskiego 12;49.683611;21.755556
+689;PkKrosnoWSSELewak;PL0159A;Krosno-Lewakowskiego-WSSE;PkKrosnoWSSELewak;01.01.1984;31.12.2006;tào;miejski;w budynku;PODKARPACKIE;Krosno;ul. Lewakowskiego 14;49.693889;21.755278
+690;PkKrosnoWSSEStasz;;Krosno-Staszica-WSSE;PkKrosnoWSSEStasz;01.01.1984;31.12.2003;tào;miejski;w budynku;PODKARPACKIE;Krosno;ul. Staszica;49.691667;21.767222
+691;PkLeskoWSSERynek;PL0160A;Lesko-Rynek-WSSE;PkLeskoWSSERynek;01.01.2004;31.12.2009;tào;miejski;w budynku;PODKARPACKIE;Lesko;ul. Rynek1;49.468889;22.331111
+692;PkLubaczWSSEMickiew;;Lubacz¢w-Mickiewicza-WSSE;PkLubaczWSSEMickiew;01.01.1981;31.12.2003;tào;miejski;w budynku;PODKARPACKIE;Lubacz¢w;ul. Mickiewicza 45;50.160833;23.120833
+693;PkMielBierna;PL0677A;Mielec-Biernackiego-WIOS;PkMielBierna;01.01.2017;;tào;miejski;kontenerowa stacjonarna;PODKARPACKIE;Mielec;Biernackiego;50.299128;21.440942
+694;PkMielPogodn;PL0652A;Mielec-Pogodna-WIOS;PkMielPogodn;01.01.2016;;przemysàowa;miejski;wolnostoj•cy pobornik pyàu;PODKARPACKIE;Mielec;Pogodna 2;50.318036;21.486372
+695;PkMielSolski;PL0623A;Mielec-MOSIR-WIOS;PkMielecWIOSSolskiego;06.10.2014;31.12.2016;tào;miejski;kontenerowa stacjonarna;PODKARPACKIE;Mielec;ul. Solskiego;50.300761;21.434331
+696;PkMielWSSEGrunw;PL0223A;MIelec-Grunwaldzka-WSSE;PkMielWSSEGrunw;01.01.2004;31.12.2009;tào;miejski;w budynku;PODKARPACKIE;Mielec;ul. Grunwaldzka 7;50.296667;21.435833
+697;PkMielWSSESklodow;;MIelec-M.C.Skàodowskiej-WSSE;PkMielWSSESklodow;01.01.1992;31.12.2004;tào;miejski;w budynku;PODKARPACKIE;Mielec;ul. M. Curie Skàodowskiej 6;50.295278;21.441667
+698;PkMielZaStre;PL0258A;Mielec - Zarz•d Strefy;PkMielWIOSZarzStr;29.08.2005;31.12.2015;tào;miejski;rozproszona;PODKARPACKIE;Mielec;ul. Zarz•d Strefy;50.304008;21.471200
+699;PkNiskoSzkla;PL0276A;Nisko-Szklarniowa-WIOS;PkNiskoWIOSSzklar;01.01.1989;;tào;miejski;kontenerowa stacjonarna;PODKARPACKIE;Nisko;Szklarniowa;50.529892;22.112467
+700;PkPolanWSSEStPomp;PL0161A;Pola‰czyk-St.pomp-WSSE;PkPolanWSSEStPomp;01.01.1994;31.12.2006;tào;pozamiejski;w budynku;PODKARPACKIE;Pola‰czyk;ul. stacja pomp wody pitnej;49.370000;22.426389
+701;PkPrzemGrunw;PL0594A;Przemysl-Grunwaldzka-WIOS;PkPrzemyslWIOSGrunw;01.01.2013;;tào;miejski;kontenerowa stacjonarna;PODKARPACKIE;Przemyòl;Grunwaldzka;49.784339;22.756239
+702;PkPrzemWIOSDolin;;Przemyòl-Doli‰skiego-WIOó;PkPrzemWIOSDolin;03.11.1993;30.04.2002;tào;miejski;w budynku;PODKARPACKIE;Przemyòl;ul. Doli‰skiego 4;49.786667;22.758056
+703;PkPrzemWIOSPDom;PL0162A;Przemyòl-Pl.Dominika‰ski-WIOS;PkPrzemWIOSPDom;01.01.2002;31.12.2011;tào;miejski;w budynku;PODKARPACKIE;Przemyòl;pl. Dominika‰ski;49.782778;22.766667
+704;PkPrzemWSSEGlaz;;Przemyòl-Glazera-WSSE;PkPrzemWSSEGlaz;01.01.1993;31.12.2003;tào;miejski;w budynku;PODKARPACKIE;Przemyòl;ul. Glazera 9;49.786667;22.759167
+705;PkPrzemWSSEMariac;;Przemyòl-Mariacka-WSSE;PkPrzemWSSEMariac;13.03.1985;30.06.2005;tào;miejski;w budynku;PODKARPACKIE;Przemyòl;ul. Mariacka 4;49.778333;22.788611
+706;PkPrzemyslWIOSMick;PL0414A;Przemyòl-Mickiewicza-WIOS;PkPrzemyslWIOSMick;11.09.2007;31.12.2012;tào;miejski;mobilna;PODKARPACKIE;Przemyòl;ul. Mickiewicza;49.782433;22.782908
+707;PkPrzewWSSERynek;;Przeworsk-Rynek-WSSE;PkPrzewWSSERynek;01.01.1981;31.12.2003;tào;miejski;w budynku;PODKARPACKIE;Przeworsk;ul. Rynek 1;50.056389;22.478056
+708;PkRymZdrPark;PL0678A;Ryman¢w-Zdr¢j-Samorz•d;PkRymZdrPark;01.01.2017;;tào;podmiejski;kontenerowa stacjonarna;PODKARPACKIE;Ryman¢w-Zdr¢j;Parkowa 5;49.546539;21.851006
+709;PkRymZdrWSSEZdr;PL0163A;Ryman¢w Zdr¢j - Zdrojowa - WSSE;PkRymZdrWSSEZdr;01.01.1986;31.12.2006;tào;miejski;w budynku;PODKARPACKIE;Ryman¢w-Zdr¢j;ul. Zdrojowa 53;49.546944;21.849444
+710;PkRzeszPilsu;PL0736A;Rzesz¢w-Piàsudskiego;PkRzeszPilsu;01.01.2019;;komunikacyjna;miejski;kontenerowa stacjonarna;PODKARPACKIE;Rzesz¢w;Piàsudskiego;50.040675;22.004656
+711;PkRzeszRejta;PL0495A;Rzesz¢w-Nowe Miasto;PkRzeszWIOSNoweMiasto;01.02.2010;;tào;miejski;kontenerowa stacjonarna;PODKARPACKIE;Rzesz¢w;Rejtana;50.024242;22.010575
+712;PkRzeszWIOSLang;;Rzesz¢w-Langiewicza WIOS;PkRzeszWIOSLang;01.01.1993;31.12.2004;tào;miejski;pasywna;PODKARPACKIE;Rzesz¢w;ul. Langiewicza 26;50.031111;21.985000
+713;PkRzeszWIOSSzop;PL0224A;Rzesz¢w-Szopena WIOS;PkRzeszWIOSSzop;01.01.2005;31.12.2012;tào;miejski;kontenerowa stacjonarna;PODKARPACKIE;Rzesz¢w;ul. Szopena;50.034031;22.010733
+714;PkRzeszWSSEGrunw;;Rzesz¢w-Grunwaldzka-WSSE;PkRzeszWSSEGrunw;01.01.2001;31.12.2003;tào;miejski;w budynku;PODKARPACKIE;Rzesz¢w;ul. Grunwaldzka;50.040278;22.001944
+715;PkRzeszWSSEPilsud;PL0225A;Rzesz¢w-Pilsudskiego-WSSE;PkRzeszWSSEPilsud;01.01.2004;31.12.2009;komunikacyjna;miejski;w budynku;PODKARPACKIE;Rzesz¢w;ul. Piàsudskiego;50.041389;22.001667
+716;PkRzeszWSSEPoniat;PL0226A;Rzesz¢w-Poniatowskiego-WSSE;PkRzeszWSSEPoniat;01.01.1989;31.12.2009;tào;miejski;w budynku;PODKARPACKIE;Rzesz¢w;ul. Poniatowskiego 4;50.033889;21.996944
+717;PkRzeszWSSESkubisz;PL0227A;Rzesz¢w-Skubisza-WSSE;PkRzeszWSSESkubisz;01.01.1989;31.12.2006;tào;miejski;w budynku;PODKARPACKIE;Rzesz¢w;ul. Skubisza 9;50.053889;21.981944
+718;PkRzeszWSSEWierzb;PL0228A;Rzesz¢w-Wierzbowa-WSSE;PkRzeszWSSEWierzb;01.01.1989;31.12.2009;tào;miejski;w budynku;PODKARPACKIE;Rzesz¢w;ul. Wierzbowa 16;50.034167;22.014444
+719;PkSanokWSSEJanPawl;PL0229A;Sanok-JanaPawàa-WSSE;PkSanokWSSEJanPawl;01.01.1984;31.12.2009;tào;miejski;w budynku;PODKARPACKIE;Sanok;ul. Jana Pawàa II 38;49.571111;22.197778
+720;PkSanokWSSEJezier;PL0230A;Sanok-Jezierskiego-WSSE;PkSanokWSSEJezier;01.01.1984;31.12.2009;tào;miejski;w budynku;PODKARPACKIE;Sanok;ul. Jezierskiego 39;49.550278;22.201111
+721;PkSanokWSSEMickew;;Sanok-Mickiewicza-WSSE;PkSanokWSSEMickew;01.01.1984;31.12.2003;tào;miejski;w budynku;PODKARPACKIE;Sanok;ul. Mickiewicza;49.560278;22.201944
+722;PkSanoSadowa;PL0555A;Sanok-Sadowa-WIOS;PkSanokWIOSSadowa;01.01.2012;;tào;miejski;wolnostoj•cy pobornik pyàu;PODKARPACKIE;Sanok;Sadowa;49.571731;22.195892
+723;PkStWolWoPol;PL0696A;Stalowa Wola - Woj. Polskiego;PkStWolWoPol;01.01.2018;;tào;miejski;rozproszona;PODKARPACKIE;Stalowa Wola;Wojska Polskiego 9;50.577828;22.054336
+724;PkStWolWSSENiezl;PL0231A;StalowaWola-Niezàomnych-WSSE;PkStWolWSSENiezl;01.01.1989;31.12.2009;tào;miejski;w budynku;PODKARPACKIE;Stalowa Wola;ul. NIezàomnych 66;50.570833;22.048611
+725;PkTarnDabrow;PL0595A;Tarnobrzeg-M.Dabrowskiej-WIOS;PkTarnobWIOSDabrow;01.04.2012;;tào;miejski;wolnostoj•cy pobornik pyàu;PODKARPACKIE;Tarnobrzeg;Marii D•browskiej;50.575742;21.688367
+726;PkTarnobWIOSSwBarb;PL0232A;Tarnobrzeg-ów Barbary-WIOó;PkTarnobWIOSSwBarb;01.04.2000;31.12.2011;tào;miejski;w budynku;PODKARPACKIE;Tarnobrzeg;ul. ów. Barbary 12;50.568889;21.683894
+727;PkTarnobWSSE1Maja;PL0233A;Tarnobrzeg-1goMaja-WSSE;PkTarnobWSSE1Maja;01.01.1965;31.12.2009;tào;miejski;w budynku;PODKARPACKIE;Tarnobrzeg;ul. 1 Maja 5;50.569722;21.664444
+728;PkTarnobWSSEWarszaw;;Tarnobrzeg-Warszawska-WSSE;PkTarnobWSSEWarszaw;06.04.1999;31.12.2003;tào;miejski;w budynku;PODKARPACKIE;Tarnobrzeg;ul. Warszawska 378;50.636111;21.753889
+729;PkTarnobWSSEWiejs;;Tarnobrzeg-Wiejska-WSSE;PkTarnobWSSEWiejs;04.06.1999;31.12.2003;tào;miejski;w budynku;PODKARPACKIE;Tarnobrzeg;ul. Wiejska 4;50.586111;21.686111
+730;PkUsDolWSSEKoper;PL0277A;Ustrzyki Dolne-Kopernika-WSSE;PkUsDolWSSEKoper;01.01.2007;31.12.2009;tào;miejski;w budynku;PODKARPACKIE;Ustrzyki Dolne;ul. Kopernika;49.430833;22.590556
+731;PkUstDolWSSEBelz;PL0259A;UstrzykiDln-Beàska-WSSE;PkUstDolWSSEBelz;01.01.1996;31.12.2006;tào;miejski;w budynku;PODKARPACKIE;Ustrzyki Dolne;ul. Beàska 7;49.430556;22.588611
+732;Pm.00.s218m;PL0416A;WSSE Gdynia órodmieòcie;Pm.00.s218m;01.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;Gdynia;ul. Ωwirki i Wigury 14;54.515556;18.538889
+733;Pm.00.s231m;PL0417A;WSSE Sopot;Pm.00.s231m;01.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;Sopot;ul. Chrobrego 6/8;54.440000;18.568333
+734;Pm.00.s234m;PL0418A;WSSE Gdynia Karwiny;Pm.00.s234m;01.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;Gdynia;ul. Staffa 10;54.473333;18.498333
+735;Pm.00.s237m;PL0278A;WIOó Gdynia - Piàsudskiego;Pm.00.s237m;17.08.2004;31.12.2011;komunikacyjna;miejski;w budynku;POMORSKIE;Gdynia;ul. Piàsudskiego 52/54;54.508097;18.539853
+736;Pm.00.s428m;PL0419A;WSSE Gda‰sk Wrzeszcz D©binki;Pm.00.s428m;24.04.2003;31.12.2009;tào;miejski;w budynku;POMORSKIE;Gda‰sk;ul. D©binki 4;54.365833;18.627778
+737;Pm.00.s473m;PL0420A;WSSE Gda‰sk Nowy Port;Pm.00.s473m;05.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;Gda‰sk;ul. Na Zasp© 31a;54.402222;18.664167
+738;Pm.00.s476m;PL0421A;WSSE Gda‰sk Wrzeszcz;Pm.00.s476m;05.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;Gda‰sk;ul. Legion¢w 11;54.386111;18.612222
+739;Pm.00.s477m;PL0279A;WSSE Gda‰sk ór¢dmieòcie;Pm.00.s477m;01.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;Gda‰sk;ul. Rajska 6;54.355278;18.650556
+740;Pm.00.s479m;PL0422A;WSSE Gda‰sk Morena;Pm.00.s479m;05.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;Gda‰sk;ul. Jaòkowa Dolina 105;54.358333;18.586111
+741;Pm.01w.01m;PL0280A;WIOó-Gdynia;Pm.01w.01m;01.02.2007;31.03.2008;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Gdynia;ul. Kopernika;54.494444;18.554167
+742;Pm.02.s631m;PL0423A;WSSE Chojnice;Pm.02.s631m;02.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;Chojnice;ul. Szpitalna 3;53.695000;17.557778
+743;Pm.04.s472m;PL0424A;WSSE Pruszcz Gda‰ski;Pm.04.s472m;01.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;Pruszcz Gda‰ski;ul. Wojska Polskiego 9;54.259722;18.633611
+744;Pm.06.s711m;PL0425A;WSSE Koòcierzyna;Pm.06.s711m;01.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;Koòcierzyna;ul. Rynek 9;54.122500;17.978611
+745;Pm.06.s712m;PL0167A;WIOó Koòcierzyna - Staszica;Pm.06.s712m;26.05.2003;31.12.2011;tào;miejski;w budynku;POMORSKIE;Koòcierzyna;ul. Staszica 6;54.119167;17.968611
+746;Pm.07.s005m;PL0426A;WSSE Kwidzyn;Pm.07.s005m;05.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;Kwidzyn;ul. Chopina 40;53.733056;18.926111
+747;Pm.08.s076m;PL0427A;WSSE L©bork;Pm.08.s076m;05.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;L©bork;ul. Czoàgist¢w 5;54.539167;17.742778
+748;Pm.08.s077m;PL0428A;WSSE ùeba;Pm.08.s077m;05.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;ùeba;ul. Nadmorska 8;54.764722;17.563889
+749;Pm.09.s067m;PL0429A;WSSE Malbork;Pm.09.s067m;05.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;Malbork;ul. Konopnickiej 6;54.031667;19.034167
+750;Pm.12.s063m;PL0430A;WSSE Ustka;Pm.12.s063m;05.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;Ustka;ul. Marynarki Polskiej 5;54.588056;16.854167
+751;Pm.13.s618m;PL0431A;WSSE Starogard;Pm.13.s618m;02.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;Starogard Gda‰ski;ul. Rynek - Ratusz Miejski;53.966667;18.534444
+752;Pm.14.s512m;PL0432A;WSSE Tczew;Pm.14.s512m;05.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;Tczew;ul. Obro‰c¢w Westerplatte 10;54.090278;18.797222
+753;Pm14TCZEw06m;PL0164A;Tczew manualny;Pm14TCZEw06m;01.08.2004;31.12.2009;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Tczew;ul. Jarosàawa D•browskiego;54.086944;18.797222
+754;Pm.15.s128m;PL0433A;WSSE Wejherowo;Pm.15.s128m;01.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;Wejherowo;ul. Obro‰c¢w Helu 3;54.608611;18.248056
+755;Pm.63.s073m;PL0434A;WSSE Sàupsk;Pm.63.s073m;01.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;Sàupsk;ul. Szarych Szereg¢w 15;54.468611;17.036111
+756;Pm.63.s079m;PL0170A;WSSE Sàupsk - Towarowa/Piotra Skargi;Pm.63.s079m;01.01.2004;31.12.2009;tào;miejski;w budynku;POMORSKIE;Sàupsk;ul. Towarowa 1/Piotra Skargi 8;54.464444;17.013056
+757;Pm.63.wDSMm;PL0172A;WIOó DS Sàupsk - Kniaziewicza malualny;Pm.63.wDSMm;20.01.2001;31.12.2012;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Sàupsk;ul. Kniaziewicza 30;54.463611;17.046667
+758;Pm.a09a;PL0053A;AM9 Gdynia Redàowo;Pm.a09a;01.09.1999;31.12.2009;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Gdynia;ul. Kopernika;54.483333;18.550000
+759;Pm.aw07m;PL0521A;WIOó Tczew - Targowa;Pm.aw07m;01.01.2010;28.02.2011;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Tczew;ul. Targowa;54.082164;18.786156
+760;PmGac;PL0281A;WIOó GaÜ - Sàowi‰ski Park Narodowy;Pm.D;01.07.2004;31.12.2015;tào;pozamiejski;wolnostoj•cy pobornik pyàu;POMORSKIE;GaÜ;;54.693806;17.458067
+761;PmGdaGleboka;PL0166A;WIOó Gda‰sk - Gà©boka;Pm.00.s481m;01.01.2004;31.12.2016;tào;miejski;wolnostoj•cy pobornik pyàu;POMORSKIE;Gda‰sk;ul. Gà©boka 11;54.352722;18.673417
+762;PmGdaKacze02;PL0046A;AM2 Gda‰sk Stogi;Pm.a02a;01.10.1996;31.12.2019;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Gda‰sk;ul. Kacze‰ce;54.367778;18.701111
+763;PmGdaLecz08m;PL0522A;WIOó Gda‰sk - Leczkowa;Pm.aw08m;01.05.2008;;tào;miejski;wolnostoj•cy pobornik pyàu;POMORSKIE;Gda‰sk;ul. Leczkowa;54.380279;18.620274
+764;PmGdaLeczk08;PL0052A;AM8 Gda‰sk Wrzeszcz;Pm.a08a;01.10.1998;;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Gda‰sk;ul. Leczkowa;54.380279;18.620274
+765;PmGdaOstrz05;PL0049A;AM5 Gda‰sk Szad¢àki;Pm.a05a;01.05.1998;01.01.2019;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Gda‰sk;ul. Ostrzycka;54.328336;18.557781
+766;PmGdaPoWie01;PL0045A;AM1 Gda‰sk ór¢dmieòcie;Pm.a01a;01.10.1996;;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Gda‰sk;ul. Powsta‰c¢w Warszawskich;54.353336;18.635283
+767;PmGdaPowWiel;PL0497A;Zaspa;Pm.01w.02m;01.01.2010;;tào;miejski;wolnostoj•cy pobornik pyàu;POMORSKIE;Gda‰sk;ul. Powsta‰c¢w Wielkopolskich;54.398639;18.614333
+768;PmGdaWyzwo03;PL0047A;AM3 Gda‰sk Nowy Port;Pm.a03a;01.09.1998;;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Gda‰sk;ul. Wyzwolenia;54.400833;18.657497
+769;PmGdyJozBema;PL0557A;WIOó Gdynia - Bema;Pm.00.w237m;01.01.2012;31.12.2019;tào;miejski;wolnostoj•cy pobornik pyàu;POMORSKIE;Gdynia;ul. Bema;54.50805;18.539831
+770;PmGdyPoreb04;PL0048A;AM4 Gdynia Pog¢rze;Pm.a04a;01.03.1997;;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Gdynia;ul. Por©bskiego;54.560836;18.493331
+771;PmGdySzaf09N;PL0520A;AM9 Gdynia D•browa;Pm.a09aN;01.12.2009;;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Gdynia;ul. Szafranowa;54.465758;18.464911
+772;PmGdyWendy10;PL0310A;AM10 Gdynia ór¢dmieòcie;Pm.a10a;01.12.2000;31.12.2019;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Gdynia;ul. Wendy;54.525274;18.536382
+773;PmKartWejher;PL0282A;WIOó Kartuzy;Pm05KARTw01m;25.02.2003;31.12.2015;tào;miejski;w budynku;POMORSKIE;Kartuzy;ul. Wejhera;54.334194;18.199944
+774;PmKosTargo12;PL0558A;AM12 Koòcierzyna Targowa;Pm.AM12.a;01.01.2012;;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Koòcierzyna;ul. Targowa;54.120694;17.975861
+775;PmKwiSportow;PL0562A;WIOó Kwidzyn - Sportowa;Pm.Kwidz.Sport.m;20.06.2010;31.12.2019;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Kwidzyn;ul. Sportowa;53.722361;18.936917
+776;PmLebaRabkaE;PL0004R;IMGW ùeba - R•bka;Pm08LEBAiEMEPa;01.01.2000;;tào;podmiejski;w budynku;POMORSKIE;ùeba;R•bka 1a;54.754139;17.534528
+777;PmLebMalcz16;PL0560A;AM16 L©bork Malczewskiego;Pm.AM16.a;01.01.2012;;tào;miejski;kontenerowa stacjonarna;POMORSKIE;L©bork;ul. Malczewskiego;54.546167;17.746194
+778;PmLinieKos17;PL0561A;AM17 Liniewko Koòcierskie;Pm.AM17.a;01.01.2012;;tào;pozamiejski;kontenerowa stacjonarna;POMORSKIE;Liniewko Koòcierskie;;54.104111;18.182972
+779;PmMalMicki15;PL0559A;AM15 Malbork Mickiewicza;Pm.AM15.a;01.01.2012;;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Malbork;ul. Mickiewicza;54.031247;19.032899
+780;PmSlupKniazi;PL0171A;AM11 Sàupsk Kniaziewicza;Pm.63.wDSAa;01.01.2003;;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Sàupsk;ul. Kniaziewicza 30;54.463611;17.046722
+781;PmSlupOrzesz;PL0519A;WIOó Sàupsk Orzeszkowej;Pm.63.wDSPm;01.01.2011;31.12.2015;tào;miejski;wolnostoj•cy pobornik pyàu;POMORSKIE;Sàupsk;ul. Orzeszkowej;54.475611;17.030733
+782;PmSopBitPl06;PL0050A;AM6 Sopot;Pm.a06a;01.07.1998;;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Sopot;ul. Bitwy pod Pàowcami;54.431667;18.579722
+783;PmStaGdaLubi;PL0311A;POLPHARMA Starogard Gda‰ski - Lubichowska;Pm.polpharma.01.a;01.01.2007;31.12.2017;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Starogard Gda‰ski;ul. Lubichowska;53.965664;18.527636
+784;PmTczeTarg07;PL0051A;AM7 Tczew;Pm.a07a;01.07.1998;31.12.2016;tào;miejski;kontenerowa stacjonarna;POMORSKIE;Tczew;ul. Targowa;54.085836;18.787506
+785;PmWejhPlWejh;PL0169A;WIOó Wejherowo - Jakuba Wejhera;Pm.15.s129m;01.07.2003;31.12.2018;tào;miejski;wolnostoj•cy pobornik pyàu;POMORSKIE;Wejherowo;pl. Jakuba Wejhera 8;54.601139;18.239361
+786;PmWladywHallera;PL0168A;WIOó Wàadysàawowo - Hallera;Pm11WLADw07m;23.09.2004;31.12.2015;tào;miejski;wolnostoj•cy pobornik pyàu;POMORSKIE;Wàadysàawowo;ul. Hallera;54.793639;18.409944
+787;SkBuskoRzew;PL0435A;WSSE Busko Zdr¢j ul. Rzewuskiego;SkBuskoRzew;04.01.1993;31.12.2009;tào;miejski;w budynku;óWI®TOKRZYSKIE;Busko-Zdr¢j;ul. Rzewuskiego 2;50.456472;20.719294
+788;SkBuskoWios;PL0436A;WIOó Busko Zdr¢j, ul. Rzewuskiego;SkBuskoWios;01.01.2008;23.10.2009;tào;miejski;w budynku;óWI®TOKRZYSKIE;Busko-Zdr¢j;ul. Rzewuskiego 1;50.456087;20.71942
+789;SkBuskRokosz;PL0523A;Busko-Zdr¢j, ul. Rokosza;SkBuskoWios2;01.01.2010;;tào;miejski;wolnostoj•cy pobornik pyàu;óWI®TOKRZYSKIE;Busko-Zdr¢j;ul. Rokosza 1;50.453621;20.715640
+790;SkChecBiaZag;PL0437A;Ch©ciny ul. Biaàego Zagà©bia;SkChecBiaZag;01.02.1995;30.11.2009;tào;podmiejski;w budynku;óWI®TOKRZYSKIE;Ch©ciny;ul. Biaàego Zagà©bia 1;50.80448;20.469887
+791;SkKielGalcz;PL0438A;WSSE Kielce ul. Gaàczy‰skiego;SkKielGalcz;17.07.1985;31.12.2009;tào;miejski;w budynku;óWI®TOKRZYSKIE;Kielce;ul. Gaàczy‰skiego 7;50.883611;20.646667
+792;SkKielIXWiek;;WSSE Kielce Al. IX Wiek¢w Kielc;SkKielIXWiek;03.01.1994;31.12.2004;tào;miejski;w budynku;óWI®TOKRZYSKIE;Kielce;al. IX Wiek¢w Kielc 3;50.87594;20.629325
+793;SkKielJagiel;PL0283A;Kielce, ul. Jagiello‰ska;SkKielJagielWios;01.01.2010;24.05.2018;tào;miejski;kontenerowa stacjonarna;óWI®TOKRZYSKIE;Kielce;ul. Jagiello‰ska 68;50.872549;20.604998
+794;SkKielJagielWSSE;;WSSE Kielce ul. Jagiello‰ska;SkKielJagielWSSE;14.01.1974;31.12.2009;tào;miejski;kontenerowa stacjonarna;óWI®TOKRZYSKIE;Kielce;ul. Jagiello‰ska 68;50.872538;20.605046
+795;SkKielKusoci;PL0482A;Kielce, ul. Kusoci‰skiego;SkKielKusoc;11.08.2008;;tào;podmiejski;wolnostoj•cy pobornik pyàu;óWI®TOKRZYSKIE;Kielce;ul. Kusoci‰skiego 51;50.854218;20.602583
+796;SkKielTargow;PL0704A;Kielce, ul. Targowa;SkKielTargow;01.07.2018;;tào;miejski;kontenerowa stacjonarna;óWI®TOKRZYSKIE;Kielce;ul. Targowa 3;50.878998;20.633692
+797;SkKielTransp;PL0173A;Kielce WIOó Al. IX Wiek¢w Kielc;SkKielTransp;05.04.2002;31.12.2009;komunikacyjna;miejski;w budynku;óWI®TOKRZYSKIE;Kielce;al. IX Wiek¢w Kielc 3;50.875;20.629167
+798;SkKielWarsza;PL0653A;Kielce, ul. Warszawska;SkKielWarsza;29.09.2015;;tào;miejski;wolnostoj•cy pobornik pyàu;óWI®TOKRZYSKIE;Kielce;ul. Warszawska;50.894374;20.657988
+799;SkKonsGranatMOB;PL0697A;Ko‰skie, MOBILNA;SkKonsGranatMOB;01.01.2018;31.12.2018;tào;miejski;mobilna;óWI®TOKRZYSKIE;Ko‰skie;ul. ks. J¢zefa Granata;51.189524;20.408892
+800;SkKonskArmKr;PL0439A;WSSE Ko‰skie ul. Armii Krajowej;SkKonskArmKr;05.01.1994;31.12.2009;tào;miejski;w budynku;óWI®TOKRZYSKIE;Ko‰skie;ul. Armii Krajowej 22;51.197886;20.412946
+801;SkMalo11List;PL0596A;Maàogoszcz, ul. 11 Listopada;SkMalogCemen3;01.01.2013;12.07.2017;tào;miejski;w budynku;óWI®TOKRZYSKIE;Maàogoszcz;ul. 11 Listopada;50.808305;20.271141
+802;SkMalogCemen;;Maàogoszcz Cementownia;SkMalogCemen;01.01.2003;01.03.2009;tào;pozamiejski;w budynku;óWI®TOKRZYSKIE;Maàogoszcz;Oczyszczalnia óciek¢w Komunalnych;50.827467;20.288276
+803;SkMalogCemen2;PL0525A;Maàogoszcz, ul. 11 Listopada_cem2;SkMalogCemen2;01.01.2010;31.12.2012;tào;miejski;w budynku;óWI®TOKRZYSKIE;Maàogoszcz;ul. 11 Listopada;50.808311;20.271165
+804;SkMaloSlonec;PL0698A;Maàogoszcz, ul. Sàoneczna;SkMaloSlonec;01.10.2017;;tào;miejski;kontenerowa stacjonarna;óWI®TOKRZYSKIE;Maàogoszcz;ul. Sàoneczna 18;50.809563;20.266099
+805;SKNowinyCemen;PL0284A;Nowiny;SKNowinyCemen;11.02.2004;01.03.2009;przemysàowa;pozamiejski;kontenerowa stacjonarna;óWI®TOKRZYSKIE;Sitk¢wka Nowiny;ul. Przemysàowa 32;50.803894;20.543278
+806;SkNowiParkow;PL0563A;Nowiny, ul. Parkowa;SkNowinyCemen2;01.01.2010;;tào;podmiejski;kontenerowa stacjonarna;óWI®TOKRZYSKIE;Nowiny;ul. Parkowa;50.823108;20.533506
+807;SkOstrowKatD;;Ostrowiec ów. K•ty Denkowskie;SkOstrowKatD;01.07.1999;31.12.2005;przemysàowa;podmiejski;w budynku;óWI®TOKRZYSKIE;Ostrowiec ówi©tokrzyski;ul. K•ty Denkowskie;50.945917;21.462007
+808;SkOstrowOsSl;;WSSE Ostrowiec ówi©tokrzyski Os. Sàoneczne;SkOstrowOsSl;03.01.1994;31.12.2007;tào;miejski;w budynku;óWI®TOKRZYSKIE;Ostrowiec ówi©tokrzyski;os. Sàoneczne 43;50.945938;21.389985
+809;SkOstrowSams;PL0285A;Ostrowiec ówi©tokrzyski ul. Samsonowicza;SkOstrowSams;01.07.1999;01.02.2009;przemysàowa;podmiejski;w budynku;óWI®TOKRZYSKIE;Ostrowiec ówi©tokrzyski;ul. Samsonowicza 2;50.948629;21.433543
+810;SkOstrowWios;;WIOó Ostrowiec ówi©tokrzyski, os. Sàoneczne;SkOstrowWios;14.12.2004;31.12.2007;tào;miejski;w budynku;óWI®TOKRZYSKIE;Ostrowiec ówi©tokrzyski;os. Sàoneczne 43;50.945942;21.390117
+811;SkOzarOsWzgo;PL0564A;Oæar¢w, Os. Wzg¢rze 52;SkOzarowOsWz52;01.01.2012;;tào;miejski;wolnostoj•cy pobornik pyàu;óWI®TOKRZYSKIE;Oæar¢w;os. Wzg¢rze 52;50.887132;21.660726
+812;SkOzarowMiec;PL0286A;Mieczysàaw¢w;SkOzarowMiec;01.01.1993;31.12.2011;tào;pozamiejski;w budynku;óWI®TOKRZYSKIE;Mieczysàaw¢w;ul. Mieczysàaw¢w 14;50.947775;21.729241
+813;SkOzarowOsWz;PL0287A;Oæar¢w Os. Wzg¢rze;SkOzarowOsWz;01.01.1993;31.12.2011;tào;podmiejski;kontenerowa stacjonarna;óWI®TOKRZYSKIE;Oæar¢w;ul. Leòna 26;50.893171;21.655157
+814;SkPolaRuszcz;PL0565A;Poàaniec, ul. Ruszcza‰ska;SkPolanRuszcz;01.01.2012;;tào;miejski;kontenerowa stacjonarna;óWI®TOKRZYSKIE;Poàaniec;ul. Ruszcza‰ska 23;50.429014;21.277367
+815;SkSandomMac;PL0440A;WSSE Sandomierz ul. Maciejowskiego;SkSandomMac;03.01.2000;31.12.2009;tào;miejski;w budynku;óWI®TOKRZYSKIE;Sandomierz;ul. Maciejowskiego 17;50.685;21.729167
+816;SkSkarZielnaMOB;PL0731A;Skaræysko-Kamienna, MOBILNA;SkSkarZielnaMOB;01.01.2019;31.12.2019;tào;miejski;mobilna;óWI®TOKRZYSKIE;Skaræysko-Kamienna;ul. Zielna 27;51.121100;20.880631
+817;SkSkarzSlow;PL0441A;WSSE Skaræysko-Kamienna ul. Sàowackiego;SkSkarzSlow;03.01.1994;31.12.2009;tào;miejski;w budynku;óWI®TOKRZYSKIE;Skaræysko-Kamienna;ul. Sàowackiego 25;51.114444;20.866111
+818;SkSolecZdroj;PL0680A;Solec-Zdr¢j;SkSolecZdroj;01.01.2017;;tào;podmiejski;wolnostoj•cy pobornik pyàu;óWI®TOKRZYSKIE;Solec Zdr¢j;;50.358659;20.886184
+819;SkStaracMur;PL0442A;WSSE Starachowice ul. Murarska;SkStaracMur;03.01.1994;31.12.2009;tào;miejski;w budynku;óWI®TOKRZYSKIE;Starachowice;ul. Murarska 14;51.050517;21.092158
+820;SkStaracZlota;;WIOó Starachowice, ul. Zàota;SkStaracZlota;14.12.2004;31.12.2007;tào;miejski;w budynku;óWI®TOKRZYSKIE;Starachowice;ul. Zàota 6;51.05048;21.084699
+821;SkStaraZlota;PL0566A;Starachowice, ul. Zàota;SkStaracZlota2;01.01.2012;;tào;miejski;kontenerowa stacjonarna;óWI®TOKRZYSKIE;Starachowice;ul. Zàota;51.050611;21.084175
+822;SkSwietKrzyz;PL0443A;Stacja ZMóP UJK w Kielcach;SkSwKrzyzZM;01.01.2003;;tào;pozamiejski;kontenerowa stacjonarna;óWI®TOKRZYSKIE;ówi©ty Krzyæ;;50.86225;21.053006
+823;SkTrzciOsiek;PL0288A;Trzcianka;SkPolanTrzc;01.01.1997;09.09.2016;tào;pozamiejski;wolnostoj•cy pobornik pyàu;óWI®TOKRZYSKIE;Trzcianka;Trzcianka 7;50.486298;21.394103
+824;SlBedziBedz_kosci;;B©dzin_kosci-WSSE;SlBedziBedz_kosci;01.01.1992;31.12.2004;tào;miejski;kontenerowa stacjonarna;óL§SKIE;B©dzin;ul. Koòciuszki 58;-999;-999
+825;SlBielbBiel_broni;;BielskoB_broniew-WSSE;SlBielbBiel_broni;01.01.1992;31.12.2007;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Bielsko-Biaàa;ul. Broniewskiego 21;-999;-999
+826;SlBielbBiel_langi;;BielskoB_langiew-WIOó;SlBielbBiel_langi;01.01.1992;30.06.2004;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Bielsko-Biaàa;ul. Langiewicza 28;-999;-999
+827;SlBielKossak;PL0234A;Bielsko-Biaàa, ul. Kossak-Szczuckiej 19;SlBielbBiel_kossa;01.01.2005;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Bielsko-Biaàa;ul. Kossak-Szczuckiej;49.813464;19.027318
+828;SlBielPartyz;PL0705A;Bielsko-Biaàa, ul.Partyzant¢w;SlBielPartyz;01.01.2018;;komunikacyjna;miejski;kontenerowa stacjonarna;óL§SKIE;Bielsko-Biaàa;ul. Partyzant¢w;49.802075;19.048610
+829;SlBielSterni;PL0499A;Bielsko-Biaàa, ul. Sternicza;SlBielbBiel_stern;30.12.2009;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Bielsko-Biaàa;ul. Sternicza 4;49.806389;19.023194
+830;SlBytomByto_modrz;PL0020A;Bytom_modrz-WIOó;SlBytomByto_modrz;01.01.1994;31.12.2010;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Bytom;ul. Modrzewskiego 5;50.333333;18.896111
+831;SlBytomByto_parko;;Bytom_park-WSSE;SlBytomByto_parko;01.01.1992;31.12.2007;tào;miejski;BRAK DANYCH;óL§SKIE;Bytom;ul. Parkowa 2;-999;-999
+832;SlChorzChor_bator;PL0235A;Chorz¢w_batory-WIOó;SlChorzChor_bator;01.01.2005;31.12.2010;komunikacyjna;miejski;kontenerowa stacjonarna;óL§SKIE;Chorz¢w;ul. Trasa A4 Dz.Batory;50.254167;18.936944
+833;SlCiesMickie;PL0236A;Cieszyn, ul. Mickiewicza 13;SlCieszCies_13mic;01.01.2005;31.12.2019;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Cieszyn;ul. Mickiewicza 13;49.738136;18.639069
+834;SlCieszCies_dojaz;PL0289A;Cieszyn-dojazdowa-WSSE;SlCieszCies_dojaz;01.01.2005;31.12.2009;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Cieszyn;ul. Dojazdowa 2;49.751667;18.627500
+835;SlCieszCies_rynek;;Cieszyn_rynek-WSSE;SlCieszCies_rynek;01.01.1992;31.03.2004;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Cieszyn;ul. G¢rny Rynek 6;-999;-999
+836;SlCzerKopaln;PL0597A;Czerwionka-Leszczyny, ul. Kopalniana;SlCzerKopaln;22.12.2013;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Czerwionka-Leszczyny;ul. Kopalniana;50.16385;18.659977
+837;SlCzestCzes_arkra;PL0174A;Cz©stochowa_ak - WIOó;SlCzestCzes_arkra;01.01.1992;31.12.2009;komunikacyjna;miejski;kontenerowa stacjonarna;óL§SKIE;Cz©stochowa;ul. Armii Krajowej 2;50.817778;19.117500
+838;SlCzestCzes_biega;;Cz©stochowa_biegan-WSSE;SlCzestCzes_biega;01.01.1992;30.04.2004;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Cz©stochowa;ul. Biega‰skiego 45;-999;-999
+839;SlCzestCzes_boyaz;;Cz©stochowa_boya-WSSE;SlCzestCzes_boyaz;01.01.1992;31.12.2007;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Cz©stochowa;ul. Boya Ωele‰skiego 4a;-999;-999
+840;SlCzestCzes_rzasa;;Cz©stochowa_rz•sawska-WIOó;SlCzestCzes_rzasa;01.01.2005;31.12.2005;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Cz©stochowa;ul. Rz•sawska 24/28;-999;-999
+841;SlCzestoArmK;PL0526A;Cz©stochowa, ul. AK/Jana Pawàa II;SlCzestCzes_arkr1;01.01.2010;;komunikacyjna;miejski;kontenerowa stacjonarna;óL§SKIE;Cz©stochowa;ul. Armii Krajowej 2;50.817217;19.118997
+842;SlCzestoBacz;PL0184A;Cz©stochowa, ul. Baczy‰skiego 2;SlCzestCzes_baczy;01.01.1992;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Cz©stochowa;ul. Baczy‰skiego 2;50.836389;19.130111
+843;SlCzestoZana;PL0498A;Cz©stochowa, ul. Zana 6;SlCzestCzes_zana6;01.01.2010;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Cz©stochowa;ul. Zana 6;50.801918;19.106961
+844;SlDabro1000L;PL0237A;D•browa G¢rnicza, ul. Tysi•clecia 25a;SlDabroDabr_1000L;01.01.2005;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;D•browa G¢rnicza;ul. 1000-lecia 25 a;50.329111;19.231222
+845;SlDabroDabr_legio;;D•brG¢r_leg-WSSE;SlDabroDabr_legio;01.01.1992;31.12.2003;tào;miejski;BRAK DANYCH;óL§SKIE;D•browa G¢rnicza;ul. Legion¢w Polskich 69;-999;-999
+846;SlDabroDabr_ziolo;;D•bG¢r_zioà-WIOó;SlDabroDabr_ziolo;01.01.1992;31.12.2004;tào;miejski;kontenerowa stacjonarna;óL§SKIE;D•browa G¢rnicza;ul. Zioàowa (Okradzion¢w);-999;-999
+847;SlGliwicMewy;PL0238A;Gliwice, ul. Mewy 34;SlGliwiGliw_mewy;01.01.2005;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Gliwice;ul. Mewy 34;50.279481;18.655736
+848;SlGliwiGliw_kujaw;;Gliwice_kujaw-WIOó/WSSE;SlGliwiGliw_kujaw;01.01.1992;30.09.2004;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Gliwice;ul. Kujawska;-999;-999
+849;SlGodGliniki;PL0527A;God¢w, ul. Gliniki;SlGodowWodz_wodzi;07.09.2009;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;God¢w;ul. Gliniki;49.921875;18.471278
+850;SlJastrJast_harce;PL0444A;Jastrz©bie_harcer-WSSE;SlJastrJast_harce;01.01.1992;31.12.2009;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Jastrz©bie-Zdr¢j;ul. Harcerska 14b;49.952222;18.610278
+851;SlJaworJawo_poczt;PL0445A;Jaworzno_pocztowa-WSSE;SlJaworJawo_poczt;01.01.2005;31.12.2009;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Jaworzno;ul. Pocztowa 7;50.202222;19.277222
+852;SlKatoKossut;PL0008A;Katowice, ul. Kossutha 6;SlKatowKato_kossu;01.01.1992;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Katowice;ul. Kossutha 6;50.264611;18.975028
+853;SlKatoPlebA4;PL0567A;Katowice, ul. Plebiscytowa/A4;SlKatowKato_aleja;01.01.2011;;komunikacyjna;miejski;kontenerowa stacjonarna;óL§SKIE;Katowice;al. G¢rnoòl•ska;50.246795;19.019469
+854;SlKatowKato_racib;PL0022A;Katowice_raciborska-WSSE;SlKatowKato_racib;01.01.2005;31.12.2009;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Katowice;ul. Raciborska 39;50.255278;19.004167
+855;SlKatowKato_weste;;Katowice_wester-WSSE;SlKatowKato_weste;01.01.1992;31.12.2007;tào;miejski;BRAK DANYCH;óL§SKIE;Katowice;ul. Obro‰c¢w Westerplatte 51;-999;-999
+856;SlKlobuKlob_zamko;;Kàobuck_zamkowa-WSSE;SlKlobuKlob_zamko;01.01.1992;30.09.2003;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Kàobuck;ul. Zamkowa 12;-999;-999
+857;SlKnurJedNar;PL0483A;Knur¢w, ul. Jednoòci Narodowej 5;SlKnuroKnu1_gliwi;29.04.2009;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Knur¢w;ul. Jednoòci Narodowej 5;50.233167;18.655722
+858;SlKuzniGliw_wiejs;;Ku´nia Nieb_gliwic-WIOó;SlKuzniGliw_wiejs;01.01.1992;31.12.2004;tào;pozamiejski;kontenerowa stacjonarna;óL§SKIE;Ku´nia Nieborowicka;ul. Wiejska 12;-999;-999
+859;SlLubliLubl_dworc;;Lubliniec_dworcowa-WSSE;SlLubliLubl_dworc;01.01.1992;30.09.2003;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Lubliniec;ul. Dworcowa 17;-999;-999
+860;SlLublPiasko;PL0290A;Lubliniec, ul. Piaskowa;SlLubliLubl_piask;01.01.2005;31.12.2018;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Lubliniec;ul. Piaskowa 56;50.658357;18.69622
+861;SlLublSzymal;PL0707A;Lubliniec, ul. ks. Szymaày;SlLublSzymal;01.09.2018;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Lubliniec;ul. Ks. Pàk. Jana Szymaày 3;50.675693;18.682065
+862;SlMiastMias_norwi;PL0447A;Miasteczko óL._norwida-WSSE;SlMiastMias_norwi;01.01.2005;31.12.2009;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Miasteczko ól•skie;ul. Norwida;50.489722;18.918333
+863;SlMiastMias_wycis;;Miasteczko ól_wycislika-WSSE;SlMiastMias_wycis;01.01.1992;31.12.2004;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Miasteczko ól•skie;ul. Wyciòlika 52;-999;-999
+864;SlMiastMias_zygli;;Miasteczko ól._Zyglinek-WSSE;SlMiastMias_zygli;01.01.2005;31.12.2006;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Miasteczko ól•skie;ul. Ωyglinek;-999;-999
+865;SlMyszkMysz_straz;;Myszk¢w_strazacka-WSSE;SlMyszkMysz_straz;01.01.1992;30.09.2003;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Myszk¢w;ul. Straæacka 45;-999;-999
+866;SlMyszMiedzi;PL0484A;Myszk¢w, ul. Miedziana 3;SlMyszkMysz_myszk;01.01.2008;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Myszk¢w;ul. Miedziana 3;50.579733;19.3267
+867;SlPiekaPiek_darwi;;Piekaryól-darw-WIOó;SlPiekaPiek_darwi;01.01.1992;31.12.2004;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Piekary ól•skie;ul. Darwina;-999;-999
+868;SlPiekaPiek_party;;Piekaryól_part-WSSE;SlPiekaPiek_party;01.01.1992;31.12.2006;tào;miejski;BRAK DANYCH;óL§SKIE;Piekary ól•skie;ul. Partyzant¢w;-999;-999
+869;SlPszczBoged;PL0528A;Pszczyna, ul. Bogedaina;SlPszczPszc_boged;30.12.2009;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Pszczyna;ul. Bogedaina;49.972177;18.947218
+870;SlRacibRaci_boruc;;Racib¢rz_borucin-WSSE;SlRacibRaci_boruc;01.01.2005;31.12.2007;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Borucin;St.Uzd.Wody;-999;-999
+871;SlRacibRaci_studz;PL0291A;Racib¢rz_studzienna-WIOó;SlRacibRaci_studz;01.01.2005;31.12.2010;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Racib¢rz;ul. Studzienna St. IMGW;50.060833;18.191111
+872;SlRacibRaci_towar;;Racib¢rz_towarzy-WSSE;SlRacibRaci_towar;01.01.1992;31.12.2004;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Racib¢rz;"ul. Tow.Gimnastycznego""Sok¢à""";-999;-999
+873;SlRudasRuda_1maja;;Rudaól_1maja_WIOó;SlRudasRuda_1maja;01.01.1992;31.12.2013;tào;miejski;BRAK DANYCH;óL§SKIE;Ruda ól•ska;ul. 1 Maja 318;50.271944;18.863056
+874;SlRybniBorki;PL0239A;Rybnik, ul. Borki 37 d;SlRybniRybn_borki;01.01.2005;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Rybnik;ul. Borki 37 d;50.111181;18.516139
+875;SlRybniRybn_janie;;Rybnik_janie-WSSE;SlRybniRybn_janie;01.01.1992;30.06.2004;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Rybnik;ul. Kpt. Janiego (Wawok);-999;-999
+876;SlRybniRybn_szafr;PL0448A;Rybnik_szafr-WSSE;SlRybniRybn_szafr;01.01.1992;31.12.2009;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Rybnik;ul. Szafranka 7;50.095556;18.547500
+877;SlSosnoLubel;PL0529A;Sosnowiec, ul. Lubelska 51;SlSosnoSosn_lubel;01.04.2010;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Sosnowiec;ul. Lubelska 51;50.285956;19.184399
+878;SlSosnoSosn_narut;PL0041A;Sosnowiec_narut-WIOó/WSSE;SlSosnoSosn_narut;01.01.1992;29.02.2008;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Sosnowiec;ul. Narutowicza;50.273889;19.146956
+879;SlTarnoLitew;PL0530A;Tarnowskie G¢ry, ul. Litewska;SlTarnoTarn_litew;01.01.2010;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Tarnowskie G¢ry;ul. Litewska;50.444736;18.829639
+880;SlTychyTolst;PL0240A;Tychy, ul. Toàstoja 1;SlTychyTych_tolst;01.01.2005;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Tychy;ul. Toàstoja 1;50.099903;18.990236
+881;SlUstroCies_sanat;PL0029A;Ustro‰_sanat-WIOó;SlUstroCies_sanat;01.03.1996;31.12.2009;tào;miejski;w budynku;óL§SKIE;Ustro‰;ul. Sanatoryjna 1;49.724722;18.825000
+882;SlUstronSana;PL0568A;Ustro‰, ul. Sanatoryjna 7;SlUstroCies_sana7;01.01.2012;;tào;podmiejski;kontenerowa stacjonarna;óL§SKIE;Ustro‰;ul. Sanatoryjna 7;49.719731;18.826722
+883;SlWodzGalczy;PL0241A;Wodzisàaw ól•ski, ul. Gaàczy‰skiego 1;SlWodziWodz_galcz;01.01.2005;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Wodzisàaw ól•ski;ul. Gaàczy‰skiego 1;50.007629;18.455548
+884;SlWodziWodz_bogum;PL0292A;Wodzisàaw_boguminska-WSSE;SlWodziWodz_bogum;01.01.1992;31.12.2009;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Wodzisàaw ól•ski;ul. Bogumi‰ska 3;50.000556;18.458333
+885;SlWojkoBedz_pader;;Wojkowice_pader-WIOó;SlWojkoBedz_pader;01.01.1992;31.12.2004;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Wojkowice;ul. Paderewskiego 88;-999;-999
+886;SlZabrzZabr_3maja;;Zabrze_3maja-WSSE;SlZabrzZabr_3maja;01.01.1992;31.12.2007;tào;miejski;BRAK DANYCH;óL§SKIE;Zabrze;ul. 3 Maja 64;-999;-999
+887;SlZabrzZabr_wolno;;Zabrze_wolno-WIOS;SlZabrzZabr_wolno;01.01.1992;31.12.2004;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Zabrze;ul. Wolnoòci;-999;-999
+888;SlZabSkloCur;PL0242A;Zabrze, ul. M. Curie-Skàodowskiej 34;SlZabrzZabr_sklod;01.01.2001;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Zabrze;ul. M. Skàodowskiej-Curie 34;50.3165;18.772375
+889;SlZawGalczyn;PL0746A;Zawiercie, ul. K.I.Gaàczy‰skiego 3;SlZawGalczyn;12.08.2019;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Zawiercie;ul. K.I.Gaàczy‰skiego 3;50.493045;19.439012
+890;SlZawieZawi_listo;;Zawiercie-11listop-WSSE;SlZawieZawi_listo;01.01.1992;31.12.2004;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Zawiercie;ul. 11 Listopada 15;-999;-999
+891;SlZawieZawi_pilsu;;Zawiercie_piàsuds-WSSE;SlZawieZawi_pilsu;01.01.1992;31.12.2007;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Zawiercie;ul. Piàsudskiego 47;-999;-999
+892;SlZawSkloCur;PL0293A;Zawiercie, ul. M. Skàodowskiej-Curie 16;SlZawieZawi_zawie;01.07.2006;31.12.2018;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Zawiercie;ul. Skàodowskiej-Curie 16;50.47954;19.43301
+893;SlZlotPotLes;PL0243A;Zàoty Potok, Leònicz¢wka;SlZlotyJano_lesni;01.01.2005;;tào;pozamiejski;kontenerowa stacjonarna;óL§SKIE;Zàoty Potok;Leònicz¢wka Kamienna G¢ra;50.710889;19.458797
+894;SlZorymZory_wojsk;PL0449A;Ωory_wojska-WSSE;SlZorymZory_wojsk;01.01.2005;31.12.2009;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Ωory;ul. Wojska Polskiego 25;50.045278;18.684444
+895;SlZorySikor2;PL0684A;Ωory, Os. Gen. Wàadysàawa Sikorskiego 52_(2);SlZorySikor2;01.01.2017;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Ωory;ul. Sikorskiego 52;50.029416;18.689527
+896;SlZorySikors;PL0489A;Ωory, Os. Gen. Wàadysàawa Sikorskiego 52;SlZoryzZory_sikor;19.08.2008;31.12.2016;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Ωory;ul. Sikorskiego 52;50.028681;18.691222
+897;SlZywieKoper;PL0294A;Ωywiec, ul. Kopernika 83 a;SlZywieZywi_koper;01.01.2005;;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Ωywiec;ul. Kopernika 83 a;49.671602;19.234446
+898;SlZywieSlowa;PL0450A;Ωywiec, ul.Sàowackiego 2;SlZywieZywi_slowa;01.01.2005;31.12.2014;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Ωywiec;ul. Sàowackiego 2;49.687897;19.205877
+899;SlZywieZywi_krasi;;Ωywiec_krasin-WSSE;SlZywieZywi_krasi;01.01.1992;31.03.2004;tào;miejski;kontenerowa stacjonarna;óL§SKIE;Ωywiec;ul. Krasi‰skiego 3;-999;-999
+900;WmBartoWSSE_Boh_War;PL0451A;Bartoszyce-PSSE;WmBartoWSSE_Boh_War;03.01.2003;31.12.2009;tào;miejski;w budynku;WARMI„SKO-MAZURSKIE;Bartoszyce;ul. Bohater¢w Warszawy;54.252222;20.810278
+901;WmDzialdWSSE_Biedraw;PL0452A;Dzialdowo-PSSE;WmDzialdWSSE_Biedraw;03.01.2003;31.12.2009;tào;miejski;w budynku;WARMI„SKO-MAZURSKIE;Dziaàdowo;pl. Biedrawy;53.232778;20.177778
+902;WmElbBazynsk;PL0295A;WIOó Elbl•g ul. Baæy‰skiego;WmElblagWIOS_Bazynsk;15.06.2005;;tào;miejski;kontenerowa stacjonarna;WARMI„SKO-MAZURSKIE;Elbl•g;ul. Baæy‰skiego 6;54.167847;19.410942
+903;WmElblagWSSE_Hetma;PL0453A;Elblag - GSSE - Hetmanska;WmElblagWSSE_Hetma;01.01.2003;31.12.2009;tào;miejski;w budynku;WARMI„SKO-MAZURSKIE;Elbl•g;ul. Hetmanska;54.185278;19.405556
+904;WmElblagWSSE_Kalen;PL0454A;Elblag - GSSE - Kalenkiewicza;WmElblagWSSE_Kalen;01.01.2003;31.12.2009;tào;miejski;w budynku;WARMI„SKO-MAZURSKIE;Elbl•g;ul. Kalenkiewicza;54.154722;19.406944
+905;WmElblagWSSE_Krole;PL0455A;Elblag - GSSE - Kr¢lewiecka;WmElblagWSSE_Krole;01.01.2004;31.12.2009;tào;miejski;w budynku;WARMI„SKO-MAZURSKIE;Elbl•g;ul. Kr¢lewiecka;54.179167;19.430556
+906;WmElblagWSSE_Zajchow;PL0456A;Elblag - GSSE - Zajchowskiego;WmElblagWSSE_Zajchow;01.01.2003;31.12.2009;tào;miejski;w budynku;WARMI„SKO-MAZURSKIE;Elbl•g;ul. Zajchowskiego;54.164722;19.415833
+907;WmElkStadion;PL0681A;WIOó Eàk;WmElkStadion;01.01.2017;;tào;miejski;kontenerowa stacjonarna;WARMI„SKO-MAZURSKIE;Eàk;ul. Piàsudskiego 27;53.828455;22.348450
+908;WmElkWIOS_PM10;;Eàk - ul. Toru‰ska - WIOó PM10;WmElkWIOS_PM10;01.03.2005;29.02.2008;tào;miejski;w budynku;WARMI„SKO-MAZURSKIE;Eàk;ul. Toru‰ska 8 A;53.831389;22.350278
+909;WmElk_WSSE_Toru;PL0457A;Elk-PSSE-Torunska;WmElk_WSSE_Toru;03.01.2003;31.12.2009;tào;miejski;w budynku;WARMI„SKO-MAZURSKIE;Eàk;ul. Toru‰ska 6A/1;53.831389;22.350278
+910;WmGizyckWIOS_Wodoc;PL0485A;WIOó Giæycko ul.Wodoci•gowa;WmGizyckWIOS_Wodoc;01.01.2009;31.12.2009;tào;miejski;w budynku;WARMI„SKO-MAZURSKIE;Giæycko;ul. Wodoci•gowa;54.042500;21.781389
+911;WmGizyckWSSE_Suwals;PL0458A;Gizycko-PSSE-Suwalska;WmGizyckWSSE_Suwals;03.01.2003;31.12.2009;tào;miejski;w budynku;WARMI„SKO-MAZURSKIE;Giæycko;ul. Suwalska 3;54.036389;21.786389
+912;WmGlitajn;PL0654A;WIOó Glitajny;WmGlitajn;07.04.2015;31.12.2020;przemysàowa;podmiejski;wolnostoj•cy pobornik pyàu;WARMI„SKO-MAZURSKIE;Glitajny;;54.184728;21.152914
+913;WmGoldJacwie;PL0312A;WIOó Goàdap ul. JaÜwieska;WmGoldapWIOS_Jacwies;07.06.2005;;tào;miejski;kontenerowa stacjonarna;WARMI„SKO-MAZURSKIE;Goàdap;ul. JaÜwieska 17;54.305908;22.307681
+914;WmGoldUzdrowMOB;PL0750A;WIOó Goàdap-Uzdrowisko;WmGoldUzdrowMOB;01.01.2019;31.12.2019;tào;miejski;mobilna;WARMI„SKO-MAZURSKIE;Goàdap;Promenada Zdrojowa 20;54.328176;22.332173
+915;WmIlawAnders;PL0598A;WIOó Iàawa ul.Andersa;WmIlawaAnd;01.01.2013;;tào;miejski;wolnostoj•cy pobornik pyàu;WARMI„SKO-MAZURSKIE;Iàawa;Andersa 8a;53.587950;19.564703
+916;WmIlawaWSSE_Anders;PL0459A;Ilawa-PSSE-Andersa;WmIlawaWSSE_Anders;03.01.2003;31.12.2009;tào;miejski;w budynku;WARMI„SKO-MAZURSKIE;Iàawa;ul. Andersa 8;53.586944;19.583333
+917;WmKetrzWSSE_Pilsud;PL0460A;Ketrzyn-PSSE-Piàsudskiego;WmKetrzWSSE_Pilsud;03.01.2003;31.12.2009;tào;miejski;w budynku;WARMI„SKO-MAZURSKIE;K©trzyn;pl. Piàsudskiego;54.078333;21.371944
+918;WmKorszeR;PL0655A;WIOó Korsze;WmKorszeR;04.09.2014;30.03.2017;tào;miejski;wolnostoj•cy pobornik pyàu;WARMI„SKO-MAZURSKIE;Korsze;Reymonta 2;54.170325;21.135050
+919;WmMragowWSSE_Krolew;;Mragowo-WSSE-Krolewiecka;WmMragowWSSE_Krolew;03.01.2003;31.12.2004;tào;miejski;w budynku;WARMI„SKO-MAZURSKIE;Mr•gowo;ul. Kr¢lewiecka 60b;53.874444;21.303611
+920;WmMragParkow;PL0296A;WIOó Mr•gowo ul. Parkowa;WmMragowWIOS_Parkowa;01.08.2005;31.12.2016;tào;miejski;kontenerowa stacjonarna;WARMI„SKO-MAZURSKIE;Mr•gowo;ul. Parkowa;53.866133;21.296122
+921;WmNiTraugutt;PL0531A;WIOó Nidzica ul.Traugutta;WmNidzicaWIOS_Traugut;27.03.2009;;tào;miejski;wolnostoj•cy pobornik pyàu;WARMI„SKO-MAZURSKIE;Nidzica;ul. Traugutta;53.361144;20.422036
+922;WmOlsPuszkin;PL0175A;WIOó Olsztyn ul. Puszkina;WmOlsztyWIOS_Puszkin;01.06.2004;;tào;miejski;kontenerowa stacjonarna;WARMI„SKO-MAZURSKIE;Olsztyn;ul. Puszkina 16;53.789233;20.486075
+923;WmOlsztyWSSE_Niepodl;PL0461A;Olsztyn - WSSE - Niepodlegàoòci;WmOlsztyWSSE_Niepodl;01.01.2003;31.12.2009;tào;miejski;w budynku;WARMI„SKO-MAZURSKIE;Olsztyn;ul. Niepodlegàoòci;53.770833;20.490000
+924;WmOlsztyWSSE_Zolnier;PL0297A;Olsztyn - WSEE Ωoànierska;WmOlsztyWSSE_Zolnier;01.01.2003;31.12.2009;tào;miejski;w budynku;WARMI„SKO-MAZURSKIE;Olsztyn;ul. Ωoànierska;53.770833;20.490000
+925;WmOstrChrobr;PL0176A;WIOó Ostr¢da ul. Chrobrego;WmOstrodWIOS_Chrobre;01.06.2004;31.12.2016;tào;miejski;kontenerowa stacjonarna;WARMI„SKO-MAZURSKIE;Ostr¢da;ul. Chrobrego 3;53.692469;19.969778
+926;WmOstrodWSSE_Czarnec;PL0462A;Ostroda-PSSE-Czarneckiego;WmOstrodWSSE_Czarnec;03.01.2003;31.12.2009;tào;miejski;w budynku;WARMI„SKO-MAZURSKIE;Ostr¢da;ul. Czarneckiego;53.696111;19.963333
+927;WmOstrPilsud;PL0682A;WIOó Ostr¢da Piàsudskiego;WmOstrPilsud;01.01.2017;;tào;miejski;kontenerowa stacjonarna;WARMI„SKO-MAZURSKIE;Ostr¢da;Piàsudskiego 4;53.694628;19.968892
+928;WmPuszczaBor;PL0005R;KMó Puszcza Borecka;WmPuszcz_IOS_Borecka;01.01.1994;;tào;pozamiejski;rozproszona;WARMI„SKO-MAZURSKIE;Diabla G¢ra;Diabla G¢ra;54.124819;22.038056
+929;WmSzczytWSSE_Sklodow;PL0463A;Szczytno-PSSE-Skàodowskiej;WmSzczytWSSE_Sklodow;03.01.2003;31.12.2009;tào;miejski;w budynku;WARMI„SKO-MAZURSKIE;Szczytno;ul. Curie Skàodowskiej;53.565278;20.988889
+930;WpBoroDrapal;PL0573A;Borowiec-Drapalka;WpWKP011/10;01.01.2011;;tào;pozamiejski;kontenerowa stacjonarna;WIELKOPOLSKIE;Bor¢wiec;ul. Drapaàka 4;52.276794;17.074114
+931;WpChodziez57196;;Chodzieæ ul. Reymonta 12;WpChodziez57196;01.01.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Chodzieæ;ul. Reymonta 12;-999;-999
+932;WpGniePaczko;PL0569A;Gniezno, ul. Paczkowskiego;WpGnieznoPM10/11;01.01.2011;;tào;miejski;wolnostoj•cy pobornik pyàu;WIELKOPOLSKIE;Gniezno;ul. Paczkowskiego;52.539861;17.611961
+933;WpGniezno63302;;Gniezno, ul. Jana Pawàa II 2;WpGniezno63302;01.01.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Gniezno;ul. Jana Pawàa II 2;-999;-999
+934;WpGnieznoPM10;PL0177A;Gniezno, ul Jana Pawàa II 2PM10;WpGnieznoPM10;01.04.2004;31.05.2011;tào;miejski;BRAK DANYCH;WIELKOPOLSKIE;Gniezno;ul. Jana Pawàa II 2;52.536111;17.605278
+935;WpGostyn41153;;Gosty‰, ul. K. Marcinkowskiego 8/9;WpGostyn41153;22.04.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Gosty‰;ul. K. Marcinkowskiego 8/9;-999;-999
+936;WpJarocin25218;;Jarocin, ul. W•ska 2;WpJarocin25218;14.04.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Jarocin;ul. W•ska 2;-999;-999
+937;WpKaliSawick;PL0503A;Kalisz-Wyszynskiego;WpWKPKalisz007/10;01.01.2010;;tào;miejski;kontenerowa stacjonarna;WIELKOPOLSKIE;Kalisz;ul.Wyszy‰skiego;51.748103;18.049310
+938;WpKalisz25001;;Kalisz, ul. Serbinowska 5;WpKalisz25001;14.04.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Kalisz;ul. Serbinowska 5;-999;-999
+939;WpKalisz25002;;Kalisz, ul. Nowy ówiat 2a;WpKalisz25002;14.04.2003;31.12.2005;tào;miejski;w budynku;WIELKOPOLSKIE;Kalisz;ul. Nowy ówiat 2a;-999;-999
+940;WpKaliszMajkow;PL0464A;Kalisz, ul. Tuwima 4;WpKaliszMajkow;25.04.2003;31.12.2009;tào;miejski;w budynku;WIELKOPOLSKIE;Kalisz;ul. Tuwima 4;51.775000;18.080556
+941;WpKaliszPM10;PL0178A;Kalisz, ul. Nowy ówiat 2aPM10;WpKaliszPM10;01.01.2007;31.12.2009;tào;miejski;BRAK DANYCH;WIELKOPOLSKIE;Kalisz;ul. Nowy ówiat 2a;51.757222;18.086667
+942;WpKaliszRynek251010;;Kalisz, Rynek Gà¢wny;WpKaliszRynek251010;25.04.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Kalisz;ul. Rynek Gà¢wny 20;-999;-999
+943;WpKolo31186;;Koào, ul. Sportowa;WpKolo31186;14.04.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Koào;ul. Sportowa;-999;-999
+944;WpKonin31017;;Konin, ul. Wieniawskiego 8;WpKonin31017;25.04.2003;31.12.2004;tào;miejski;kontenerowa stacjonarna;WIELKOPOLSKIE;Konin;ul. Wieniawskiego 8;-999;-999
+945;WpKonin31018;;Konin, ul. Leòna 23;WpKonin31018;14.04.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Konin;ul. Leòna 21;-999;-999
+946;WpKoninStaszica;;Konin, ul. Staszica 16;WpKoninStaszica;01.03.2004;31.12.2005;tào;miejski;w budynku;WIELKOPOLSKIE;Konin;ul. Staszica 16;-999;-999
+947;WpKoniWyszyn;PL0031A;Konin-Wyszynskiego;WpKonin311009D009102;03.03.2003;;tào;miejski;kontenerowa stacjonarna;WIELKOPOLSKIE;Konin;ul. Wyszy‰skiego 3;52.225633;18.269036
+948;WpKoscian41251;;Koòcian, ul Piaskowa 42a;WpKoscian41251;22.04.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Koòcian;ul. Piaskowa 42a;-999;-999
+949;WpKozieosLes;PL0700A;Kozieglowy-os.Lesne;WpKozieosLes;01.01.2018;;tào;miejski;kontenerowa stacjonarna;WIELKOPOLSKIE;Koziegàowy;osiedle Leòne 22;52.449331;16.999683
+950;WpKrotoszyn25315;;Krotoszyn, ul. Floria‰ska 10;WpKrotoszyn25315;14.04.2003;31.12.2005;tào;miejski;w budynku;WIELKOPOLSKIE;Krotoszyn;ul. Floria‰ska 10;-999;-999
+951;WpLeszKiepur;PL0570A;Leszno, ul. Kiepury;WpLesznoPM10/11;01.11.2011;;tào;miejski;wolnostoj•cy pobornik pyàu;WIELKOPOLSKIE;Leszno;ul. Kiepury;51.840461;16.605044
+952;WpLeszno411000;PL0465A;Leszno, ul Paderewskiego 8;WpLeszno411000;01.01.2003;31.10.2011;tào;miejski;kontenerowa stacjonarna;WIELKOPOLSKIE;Leszno;ul. Paderewskiego;51.847778;16.574722
+953;WpLeszno41501;;Leszno, ul. Kr¢tka 5;WpLeszno41501;22.04.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Leszno;ul. Kr¢tka 5;-999;-999
+954;WpLesznoOkrezna;;Leszno, ul. Okr©æna;WpLesznoOkrezna;01.01.2005;31.12.2005;tào;miejski;w budynku;WIELKOPOLSKIE;Leszno;ul. Okr©æna;51.492653;16.345727
+955;WpLubon63217;;Lubo‰, ul. Powsta‰c¢w Wlkp 42;WpLubon63217;02.01.2003;31.12.2005;tào;miejski;w budynku;WIELKOPOLSKIE;Lubo‰;ul. Powsta‰c¢w Wlkp;-999;-999
+956;WpNoTomSzpit;PL0571A;NowyTomysl, ul. Sienkiewicza;WpNowyTomyslPM10/11;01.01.2012;;tào;miejski;wolnostoj•cy pobornik pyàu;WIELKOPOLSKIE;Nowy Tomyòl;ul. Szpitalna;52.316728;16.141903
+957;WpNoweSkalmierzyce;;Nowe Skalmierzyce, ul. Ok¢lna 8;WpNoweSkalmierzyce;01.06.2002;18.12.2003;tào;miejski;w budynku;WIELKOPOLSKIE;Nowe Skalmierzyce;ul. Ok¢lna 8;-999;-999
+958;WpNTomysl63700;;Nowy Tomyòl, ul. Pozna‰ska 30;WpNTomysl63700;01.01.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Nowy Tomyòl;ul. Pozna‰ska;-999;-999
+959;WpOborniki63;;Oborniki;WpOborniki63;01.02.2004;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Oborniki;ul. Piàsudskiego 76;-999;-999
+960;WpOdolanow;;Odolan¢w;WpOdolanow;01.01.2004;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Odolan¢w;ul. Krotoszy‰ska 121;-999;-999
+961;WpOpatowek;;Opat¢wek;WpOpatowek;01.01.2005;31.12.2005;tào;miejski;w budynku;WIELKOPOLSKIE;Opat¢wek;;51.442521;18.125621
+962;WpOstrowWlkp.25103;;Ostr¢w Wlkp.,ul. Rowi‰skiego 3;WpOstrowWlkp.25103;14.04.2003;31.12.2005;tào;miejski;w budynku;WIELKOPOLSKIE;Ostr¢w Wielkopolski;ul. Rowi‰skiego 3;-999;-999
+963;WpOstWieWyso;PL0179A;Ostrow Wlkp., ul. Wysocka;WpOstrowWlkpPM10;03.09.2004;;tào;miejski;wolnostoj•cy pobornik pyàu;WIELKOPOLSKIE;Ostr¢w Wielkopolski;ul. Wysocka 57;51.637575;17.823156
+964;WpPiaskiKrzy;PL0247A;Piaski-Krzyzowka;WpWKP004;01.01.2005;;tào;pozamiejski;kontenerowa stacjonarna;WIELKOPOLSKIE;Krzyæ¢wka;Piaski 10;52.501389;17.773464
+965;WpPila57192;;Piàa, ul. Okrzei 8;WpPila57192;22.04.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Piàa;ul. Okrzei 8;-999;-999
+966;WpPilaKusoci;PL0468A;Pila, ul. Kusocinkiego;WpPila5710111;01.01.2003;;tào;miejski;kontenerowa stacjonarna;WIELKOPOLSKIE;Piàa;ul. Kusoci‰skiego;53.154408;16.759572
+967;WpPleszAlMic;PL0624A;Pleszew, Al. Mickiewicza;WpPleszewPM10/14;24.11.2014;;tào;miejski;wolnostoj•cy pobornik pyàu;WIELKOPOLSKIE;Pleszew;al. Mickiewicza;51.884922;17.791106
+968;WpPoznan63003;;Pozna‰, ul. Rycerska 10;WpPoznan63003;22.04.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Pozna‰;ul. Rycerska 10;-999;-999
+969;WpPoznan63043;;Pozna‰, ul. Polna 33;WpPoznan63043;22.04.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Pozna‰;ul. Polna 33;-999;-999
+970;WpPoznan63047;;Pozna‰, os. Armii Krajowej 100;WpPoznan63047;01.01.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Pozna‰;os. Armii Krajowej;-999;-999
+971;WpPoznan63097;;Pozna‰, ul. Koòciuszki 118;WpPoznan63097;02.01.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Pozna‰;ul. Koòciuszki;-999;-999
+972;WpPoznan63099;;Poznan, ul. Sàowia‰ska 78;WpPoznan63099;02.01.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Pozna‰;ul. Sàowia‰ska;-999;-999
+973;WpPoznan63117;;Pozna‰, ul. Koòciuszki 92/98;WpPoznan63117;01.01.2003;31.12.2004;tào;miejski;kontenerowa stacjonarna;WIELKOPOLSKIE;Pozna‰;ul. Koòciuszki 92/98;-999;-999
+974;WpPoznan63123;;Poznan, ul. Chàapowskiego 12;WpPoznan63123;02.01.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Pozna‰;ul. Chàapowskiego 12;-999;-999
+975;WpPoznanPM10szpital;PL0180A;Poznan, ul. 28czerwca1956;WpPoznanPM10szpital;01.04.2004;31.12.2009;tào;miejski;BRAK DANYCH;WIELKOPOLSKIE;Pozna‰;ul. 28 Czerwca 1956 135/147;52.389444;16.920833
+976;WpPoznChwial;PL0572A;Poznan, ul. Chwialkowskiego;WpPoznanPOSIRPM10/11;01.01.2012;;tào;miejski;wolnostoj•cy pobornik pyàu;WIELKOPOLSKIE;Pozna‰;ul. Chwiaàkowskiego;52.392967;16.928428
+977;WpPoznDabrow;PL0245A;Poznan-Dabrowskiego;WpWKP002;01.01.2005;;tào;miejski;kontenerowa stacjonarna;WIELKOPOLSKIE;Pozna‰;ul. D•browskiego 169;52.420319;16.877289
+978;WpPoznPolank;PL0244A;Poznan-Polanka;WpWKP001;01.01.2005;;tào;miejski;kontenerowa stacjonarna;WIELKOPOLSKIE;Pozna‰;ul. Polanka;52.398175;16.959519
+979;WpPoznRatajeMOB;PL0713A;Pozna‰ - RatajeMOB;WpPoznRatajeMOB;01.01.2019;;tào;miejski;mobilna;WIELKOPOLSKIE;Pozna‰;Ωelazna;52.391728;16.998578
+980;WpPoznSzyman;PL0181A;Poznan, ul. Szymanowskiego;WpPoznanSzymanowskiego17;01.04.2004;;tào;miejski;wolnostoj•cy pobornik pyàu;WIELKOPOLSKIE;Pozna‰;ul. Szymanowskiego 17;52.459192;16.906200
+981;WpRawicz41303;;Rawicz, Waày D•browskiego 2;WpRawicz41303;22.04.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Rawicz;ul. Waày D•browskiego 2;-999;-999
+982;WpSwarzedz;;Swarz©dz, ul. Mielæy‰skiego 1;WpSwarzedz;01.01.2005;31.12.2005;tào;miejski;w budynku;WIELKOPOLSKIE;Swarz©dz;ul. Mielæy‰skiego 1;-999;-999
+983;WpSwarzedz63224;;Swarz©dz, ul. A.Mickiewicza 1;WpSwarzedz63224;01.01.2003;31.12.2005;tào;miejski;w budynku;WIELKOPOLSKIE;Swarz©dz;ul. A.Mickiewicza;52.244133;17.044071
+984;WpSzamotuly63602;;Szamotuày, ul. Dworcowa 28;WpSzamotuly63602;01.01.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Szamotuày;ul. Dworcowa;-999;-999
+985;WpTarPodZach;PL0532A;TarnowoPodgorne, ul. Zachodnia;WpTarnowoPodgornePM10/10;01.01.2010;;tào;podmiejski;wolnostoj•cy pobornik pyàu;WIELKOPOLSKIE;Tarnowo Podg¢rne;ul. Zachodnia;52.467407;16.645903
+986;WpTurek31046;;Turek, ul. Uniejowska 1a;WpTurek31046;22.04.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;Turek;ul. Uniejowska 1a;-999;-999
+987;WpWagrowiec57203;;W•growiec, ul. Kr¢tka 4;WpWagrowiec57203;22.04.2003;31.12.2004;tào;miejski;w budynku;WIELKOPOLSKIE;W•growiec;ul. Kr¢tka 4;-999;-999
+988;WpWagrowLipo;PL0533A;Wagrowiec, ul. Lipowa;WpWagrowiecPM10/10;01.01.2010;;tào;miejski;wolnostoj•cy pobornik pyàu;WIELKOPOLSKIE;W•growiec;ul. Lipowa;52.815539;17.208061
+989;WpWKP003;PL0246A;WKPMscigniew;WpWKP003;01.01.2005;31.10.2010;tào;pozamiejski;kontenerowa stacjonarna;WIELKOPOLSKIE;Mòcigniew;;51.894722;16.296944
+990;WpWKP008;;WKPKalisz-Nowy Swiat;WpWKP008;01.04.2004;31.12.2009;tào;miejski;kontenerowa stacjonarna;WIELKOPOLSKIE;Kalisz;ul. Nowy Swiat;-999;-999
+991;WpWKP009;;WKPPiotrkowice09;WpWKP009;01.01.2009;01.01.2014;tào;pozamiejski;kontenerowa stacjonarna;WIELKOPOLSKIE;Piotrkowice;;52.353806;18.345576
+992;WpWKP010;;WpWKPAdam¢w10;WpWKP010;01.01.2009;18.12.2014;tào;pozamiejski;kontenerowa stacjonarna;WIELKOPOLSKIE;Adam¢w;;52.153849;18.362573
+993;WpWrzesnia63346;;Wrzeònia, ul. Legii Wrzesi‰skiej 22;WpWrzesnia63346;01.01.2003;31.12.2005;tào;miejski;w budynku;WIELKOPOLSKIE;Wrzeònia;ul. Legii Wrzesi‰skiej;-999;-999
+994;ZpGolGoleniowWSSE;;Goleni¢w;ZpGolGoleniowWSSE;01.01.1992;01.01.2005;tào;miejski;w budynku;ZACHODNIOPOMORSKIE;Goleni¢w;ul. Pocztowa 36;53.563500;14.833255
+995;ZpGryfGryfinoDO;PL0469A;Gryfino;ZpGryfGryfinoDO;01.01.2004;01.01.2012;tào;miejski;kontenerowa stacjonarna;ZACHODNIOPOMORSKIE;Gryfino;ul. Sàowackiego;53.248333;14.493611
+996;ZpGryficeWSSE;;Gryfice;ZpGryficeWSSE;01.01.1992;31.12.2003;tào;miejski;w budynku;ZACHODNIOPOMORSKIE;Gryfice;ul. 11 Listopada;53.912570;15.192900
+997;ZpGryfinoWSSE;;Gryfino_Flisacza;ZpGryfinoWSSE;01.01.1992;31.12.2003;tào;miejski;w budynku;ZACHODNIOPOMORSKIE;Gryfino;ul. Flisacza 6;53.261896;14.493203
+998;ZpGryfMarwiceDO;PL0314A;Marwice;ZpGryfMarwiceDO;01.01.2008;01.01.2012;tào;pozamiejski;kontenerowa stacjonarna;ZACHODNIOPOMORSKIE;Marwice;;53.165000;14.413889
+999;ZpGryfStokiDO;PL0470A;Stoki;ZpGryfStokiDO;01.01.2004;01.01.2012;tào;pozamiejski;kontenerowa stacjonarna;ZACHODNIOPOMORSKIE;Stoki;;52.946944;14.342222
+1000;ZpKamKamienPWSSE;PL0471A;Kamie‰ Pomorski;ZpKamKamienPWSSE;01.01.1992;01.01.2010;tào;miejski;w budynku;ZACHODNIOPOMORSKIE;Kamie‰ Pomorski;ul. Woli‰ska 7;53.961890;14.775140
+1001;ZpKolKolobrzegWSSE;PL0472A;KoàobrzegWSSE;ZpKolKolobrzegWSSE;24.02.2004;01.01.2010;tào;miejski;w budynku;ZACHODNIOPOMORSKIE;Koàobrzeg;ul. Zdrojowa 3;54.183299;15.568399
+1002;ZpKolobrzegWSSE_1;;KoàobrzegWSSE_1;ZpKolobrzegWSSE_1;01.01.1992;18.09.2003;tào;miejski;w budynku;ZACHODNIOPOMORSKIE;Koàobrzeg;ul. Rodziewicz¢wny 13a;54.184861;15.562999
+1003;ZpKolobrzegWSSE_2;;KoàobrzegWar;ZpKolobrzegWSSE_2;01.01.1992;31.12.2003;tào;miejski;w budynku;ZACHODNIOPOMORSKIE;Koàobrzeg;ul. Wary‰skiego;54.180105;15.572321
+1004;ZpKolZolkiew;PL0702A;Koàobrzeg_Ω¢àkiewskiego;ZpKolZolkiew;01.01.2018;;tào;miejski;wolnostoj•cy pobornik pyàu;ZACHODNIOPOMORSKIE;Koàobrzeg;ul. Ω¢àkiewskiego;54.179324;15.596342
+1005;ZpKoszalinWSSE;PL0299A;Koszalin_Ωwirowa;ZpKoszalinWSSE;01.01.2004;01.01.2010;tào;miejski;w budynku;ZACHODNIOPOMORSKIE;Koszalin;ul. Zwyci©stwa 136;54.190258;16.196066
+1006;ZpKoszArKraj;PL0298A;Koszalin_ArmiiKrajowej;ZpKoszalin005;05.10.2006;;komunikacyjna;miejski;kontenerowa stacjonarna;ZACHODNIOPOMORSKIE;Koszalin;ul. Armii Krajowej;54.193986;16.172544
+1007;ZpKoszChopin;PL0756A;Koszalin_Chopina;ZpKoszChopin;01.01.2019;;tào;miejski;kontenerowa stacjonarna;ZACHODNIOPOMORSKIE;Koszalin;ul. Chopina 42;54.194114;16.211672
+1008;ZpKoszSpasow;PL0500A;Koszalin_Spasowskiego;ZpKoszalin006;22.12.2009;;tào;miejski;wolnostoj•cy pobornik pyàu;ZACHODNIOPOMORSKIE;Koszalin;ul. Spasowskiego 2f;54.207151;16.193236
+1009;ZpKoszWSSEMors;;KoszalinMorska;ZpKoszWSSEMors;01.01.1992;01.01.2004;tào;miejski;w budynku;ZACHODNIOPOMORSKIE;Koszalin;ul. Morska 43;54.199585;16.162706
+1010;ZpKoszWSSEMtCas;;KoszalinMonteCasino;ZpKoszWSSEMtCas;01.01.1992;31.10.2003;tào;miejski;w budynku;ZACHODNIOPOMORSKIE;Koszalin;ul. Monte Casino 9;54.197191;16.188195
+1011;ZpMysDebnoWSSE;;D©bno;ZpMysDebnoWSSE;01.01.1992;01.01.2007;tào;miejski;w budynku;ZACHODNIOPOMORSKIE;D©bno;ul. Gorzowska 3;52.740653;14.713149
+1012;ZpMyslMWSSE;;Myòlib¢rz_Rynek;ZpMyslMWSSE;01.01.1992;31.12.2003;tào;miejski;w budynku;ZACHODNIOPOMORSKIE;Myòlib¢rz;ul. Rynek im. Jana Pawàa II 1;52.924613;14.865751
+1013;ZpMyslZaBram;PL0534A;Myòlib¢rz_ZaBramk•;ZpMysMysliborz007;20.04.2010;;tào;miejski;wolnostoj•cy pobornik pyàu;ZACHODNIOPOMORSKIE;Myòlib¢rz;ul. Za Bramk• 8;52.926283;14.862809
+1014;ZpMysMysliborzWSSE;;Myòlib¢rz;ZpMysMysliborzWSSE;01.01.2004;01.01.2007;komunikacyjna;miejski;w budynku;ZACHODNIOPOMORSKIE;Myòlib¢rz;ul. Piàsudskiego 12;52.916003;14.857194
+1015;ZpPolczynZdrWSSE;;Poàczyn;ZpPolczynZdrWSSE;01.01.1992;27.09.2003;tào;miejski;w budynku;ZACHODNIOPOMORSKIE;Poàczyn-Zdr¢j;ul. Solankowa;53.766389;16.097500
+1016;ZpPolPoliceWSSE;;Police;ZpPolPoliceWSSE;01.01.1992;01.01.2007;tào;miejski;w budynku;ZACHODNIOPOMORSKIE;Police;ul. Siedlecka 2;53.546878;14.561364
+1017;ZpStarLipnikDO;PL0473A;Lipnik;ZpStarLipnikDO;01.01.2004;01.01.2012;tào;pozamiejski;kontenerowa stacjonarna;ZACHODNIOPOMORSKIE;Lipnik;;53.341667;14.963889
+1018;ZpStarStargardWSSE;PL0474A;Stargard Szczeci‰ski;ZpStarStargardWSSE;01.01.1992;01.01.2010;komunikacyjna;miejski;w budynku;ZACHODNIOPOMORSKIE;Stargard Szczeci‰ski;ul. Czarnieckiego 34;53.337415;15.039209
+1019;ZpSwinoujscieWSSE;PL0475A;ówinoujòcie;ZpSwinoujscieWSSE;01.01.1992;29.06.2009;tào;miejski;kontenerowa stacjonarna;ZACHODNIOPOMORSKIE;ówinoujòcie;ul. Ωeromskiego 27;53.921851;14.239950
+1020;ZpSzcStorkowoDO;PL0313A;Storkowo;ZpSzcStorkowoDO;01.01.2008;01.01.2012;tào;pozamiejski;kontenerowa stacjonarna;ZACHODNIOPOMORSKIE;Storkowo;ul. Storkowo;53.779722;16.497222
+1021;ZpSzcSzczecinek009;PL0536A;Szczecinek_Artyleryjska;ZpSzcSzczecinek009;01.01.2010;01.01.2015;tào;miejski;wolnostoj•cy pobornik pyàu;ZACHODNIOPOMORSKIE;Szczecinek;ul. Artyleryjska 9;53.701978;16.707069
+1022;ZpSzcSzczecinekPSSE;PL0300A;Szczecinek_PSSE;ZpSzcSzczecinekPSSE;01.01.2007;01.01.2010;tào;miejski;kontenerowa stacjonarna;ZACHODNIOPOMORSKIE;Szczecinek;ul. Artyleryjska 9;53.701978;16.706069
+1023;ZpSzcSzczecinekWSSE;;Szczecinek;ZpSzcSzczecinekWSSE;01.01.1992;01.01.2005;tào;miejski;w budynku;ZACHODNIOPOMORSKIE;Szczecinek;ul. 28 Lutego;53.700083;16.701065
+1024;ZpSzczAndr01;PL0248A;Szczecin_Andrzejewskiego;ZpSzczecin001;31.12.2004;;tào;miejski;kontenerowa stacjonarna;ZACHODNIOPOMORSKIE;Szczecin;ul. Andrzejewskiego 23;53.380975;14.663347
+1025;ZpSzczBudzWosMOB;PL0715A;Szczecin_Budzysza Wosia;ZpSzczBudzWosMOB;04.03.2019;02.01.2020;tào;miejski;mobilna;ZACHODNIOPOMORSKIE;Szczecin;Budzysza Wosia;53.446761;14.507294
+1026;ZpSzczec1Maj;PL0535A;Szczecinek_1Maja;ZpSzcSzczecinek008;11.12.2009;;tào;miejski;wolnostoj•cy pobornik pyàu;ZACHODNIOPOMORSKIE;Szczecinek;ul. 1 Maja 22;53.712114;16.692517
+1027;ZpSzczecinDO;PL0486A;Szczecin_Ω¢àkiewskiego;ZpSzczecinDO;01.01.2009;01.01.2012;komunikacyjna;miejski;kontenerowa stacjonarna;ZACHODNIOPOMORSKIE;Szczecin;ul. Ω¢àkiewskiego 12a;53.428815;14.532333
+1028;ZpSzczecinLukasza;;Szczecin_ùukasza;ZpSzczecinLukasza;31.12.2002;01.01.2005;tào;miejski;kontenerowa stacjonarna;ZACHODNIOPOMORSKIE;Szczecin;ul. ów. ùukasza 7;53.443477;14.552232
+1029;ZpSzczecinWSSE;PL0183A;Szczecin_WojskaPolskiego;ZpSzczecinWSSE;01.01.1992;01.01.2010;tào;miejski;kontenerowa stacjonarna;ZACHODNIOPOMORSKIE;Szczecin;ul. Wincentego Pola 6;53.450780;14.514745
+1030;ZpSzczecPrze;PL0574A;Szczecinek_Przemysàowa;ZpSzcSzczecinek010;01.01.2011;;przemysàowa;miejski;kontenerowa stacjonarna;ZACHODNIOPOMORSKIE;Szczecinek;ul. Przemysàowa 5;53.698902;16.704556
+1031;ZpSzczLacz04;PL0251A;Szczecin_ù•czna;ZpSzczecin004;31.12.2004;31.12.2018;tào;podmiejski;kontenerowa stacjonarna;ZACHODNIOPOMORSKIE;Szczecin;ul. ù•czna;53.470889;14.556250
+1032;ZpSzczPils02;PL0249A;Szczecin_Piàsudskiego;ZpSzczecin002;31.12.2004;;komunikacyjna;miejski;kontenerowa stacjonarna;ZACHODNIOPOMORSKIE;Szczecin;ul. Piàsudskiego 1;53.432169;14.553900
+1033;ZpSzczWSSEEnerg;;Energetyk¢w;ZpSzczWSSEEnerg;01.01.1992;31.12.2003;komunikacyjna;miejski;w budynku;ZACHODNIOPOMORSKIE;Szczecin;ul. Energetyk¢w 2;53.420475;14.561934
+1034;ZpSzczWSSESped6;;Spedytorska;ZpSzczWSSESped6;01.01.1992;01.01.2004;tào;miejski;kontenerowa stacjonarna;ZACHODNIOPOMORSKIE;Szczecin;ul. Spedytorska 6;53.415043;14.555347
+1035;ZpWalWalczWSSE;;Waàcz;ZpWalWalczWSSE;01.01.1992;01.01.2005;tào;miejski;w budynku;ZACHODNIOPOMORSKIE;Waàcz;ul. Bydgoska 86;53.263667;16.492596
+1036;ZpWiduBulRyb;PL0182A;Widuchowa;ZpGryfWiduchowa003;01.01.2003;;tào;pozamiejski;kontenerowa stacjonarna;ZACHODNIOPOMORSKIE;Widuchowa;ul. Bulwary Rybackie 1;53.122325;14.382245
